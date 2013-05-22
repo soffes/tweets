@@ -1,6 +1,6 @@
 # Sam's Tweets
 
-These are all my tweets.
+These are all my tweets. See them at [tweets.soff.es](http://tweets.soff.es).
 
 For a fun visual way to view them, open [index.html](index.html).
 
