@@ -571,11 +571,11 @@ Grailbird.data.tweets_2009_05 =
       "id_str" : "15576869",
       "id" : 15576869
     }, {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 13, 16 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3182,11 +3182,11 @@ Grailbird.data.tweets_2009_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     }, {
       "name" : "Tony Steward",
       "screen_name" : "tonysteward",
@@ -3207,7 +3207,7 @@ Grailbird.data.tweets_2009_05 =
   "id" : 1781761807,
   "in_reply_to_status_id" : 1781705106,
   "created_at" : "Wed May 13 05:27:42 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -3383,11 +3383,11 @@ Grailbird.data.tweets_2009_05 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 41, 44 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5014,7 +5014,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chrismartintv",
+      "name" : "Chris Martin",
       "screen_name" : "chrismartintv",
       "indices" : [ 0, 14 ],
       "id_str" : "8287502",
@@ -5536,11 +5536,11 @@ Grailbird.data.tweets_2009_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5555,7 +5555,7 @@ Grailbird.data.tweets_2009_05 =
   "id" : 1730197344,
   "in_reply_to_status_id" : 1730180907,
   "created_at" : "Thu May 07 19:36:51 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",

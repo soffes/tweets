@@ -194,11 +194,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -213,7 +213,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5307558331,
   "in_reply_to_status_id" : 5307524963,
   "created_at" : "Sat Oct 31 04:58:09 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -228,11 +228,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     }, {
       "name" : "Kanyi Maqubela",
       "screen_name" : "km",
@@ -253,7 +253,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5307324463,
   "in_reply_to_status_id" : 5306705105,
   "created_at" : "Sat Oct 31 04:43:16 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -268,11 +268,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     }, {
       "name" : "Jon McCartie",
       "screen_name" : "jmccartie",
@@ -296,7 +296,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5306650702,
   "in_reply_to_status_id" : 5306409228,
   "created_at" : "Sat Oct 31 04:04:35 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -851,11 +851,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -870,7 +870,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5264985253,
   "in_reply_to_status_id" : 5264927603,
   "created_at" : "Thu Oct 29 18:03:46 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -885,11 +885,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -904,7 +904,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5264900494,
   "in_reply_to_status_id" : 5264868513,
   "created_at" : "Thu Oct 29 18:00:12 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -919,11 +919,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -938,7 +938,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5264850370,
   "in_reply_to_status_id" : 5264823382,
   "created_at" : "Thu Oct 29 17:58:04 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -953,11 +953,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -972,7 +972,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5264786615,
   "in_reply_to_status_id" : 5264751825,
   "created_at" : "Thu Oct 29 17:55:16 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -2281,11 +2281,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 3, 6 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2562,11 +2562,11 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "65193",
       "id" : 65193
     }, {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 13, 16 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2876,11 +2876,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2895,7 +2895,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5165261790,
   "in_reply_to_status_id" : 5165123819,
   "created_at" : "Mon Oct 26 04:15:28 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -3866,11 +3866,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3885,7 +3885,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5087578633,
   "in_reply_to_status_id" : 5087190175,
   "created_at" : "Fri Oct 23 03:00:36 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -4552,11 +4552,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4571,7 +4571,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5060327726,
   "in_reply_to_status_id" : 5060205675,
   "created_at" : "Thu Oct 22 03:14:01 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -5692,11 +5692,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5711,7 +5711,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5021412382,
   "in_reply_to_status_id" : 5021308478,
   "created_at" : "Tue Oct 20 15:57:31 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -6459,11 +6459,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6478,7 +6478,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4982235199,
   "in_reply_to_status_id" : 4980543151,
   "created_at" : "Mon Oct 19 03:23:30 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -6493,11 +6493,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6512,7 +6512,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4980341092,
   "in_reply_to_status_id" : 4978948278,
   "created_at" : "Mon Oct 19 01:53:37 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -6550,11 +6550,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6569,7 +6569,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4977505570,
   "in_reply_to_status_id" : 4976951658,
   "created_at" : "Sun Oct 18 23:42:41 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -7350,11 +7350,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7369,7 +7369,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4894013588,
   "in_reply_to_status_id" : 4892862733,
   "created_at" : "Thu Oct 15 17:39:26 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -8146,11 +8146,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8165,7 +8165,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4848120462,
   "in_reply_to_status_id" : 4847387479,
   "created_at" : "Tue Oct 13 23:46:34 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -8732,11 +8732,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 23, 26 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -8866,11 +8866,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 12, 15 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8895,11 +8895,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8914,7 +8914,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4824863929,
   "in_reply_to_status_id" : 4824823769,
   "created_at" : "Tue Oct 13 02:29:24 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -8929,11 +8929,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8948,7 +8948,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4824786250,
   "in_reply_to_status_id" : 4824729338,
   "created_at" : "Tue Oct 13 02:26:00 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -9003,11 +9003,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9022,7 +9022,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4824655874,
   "in_reply_to_status_id" : 4824554348,
   "created_at" : "Tue Oct 13 02:20:29 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -9094,11 +9094,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9113,7 +9113,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4824384554,
   "in_reply_to_status_id" : 4823440168,
   "created_at" : "Tue Oct 13 02:08:57 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -10247,11 +10247,11 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "15908145",
       "id" : 15908145
     }, {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 62, 65 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -10349,11 +10349,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -10368,7 +10368,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4744713825,
   "in_reply_to_status_id" : 4744700508,
   "created_at" : "Fri Oct 09 21:06:53 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -10653,11 +10653,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -10675,7 +10675,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4723778269,
   "in_reply_to_status_id" : 4723739020,
   "created_at" : "Fri Oct 09 02:01:22 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -11098,11 +11098,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -11117,7 +11117,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4693542316,
   "in_reply_to_status_id" : 4692812654,
   "created_at" : "Wed Oct 07 22:28:08 +0000 2009",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",

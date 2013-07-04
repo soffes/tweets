@@ -1017,8 +1017,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19924390111",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9300119893, -96.8195565956 ]
   },
   "id_str" : "19924901096",
   "in_reply_to_user_id" : 13798072,
@@ -1053,8 +1051,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19924081330",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9300119893, -96.8195565956 ]
   },
   "id_str" : "19924342627",
   "in_reply_to_user_id" : 13798072,
@@ -1226,8 +1222,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648322483, -96.9324919817 ]
   },
   "id_str" : "19909390698",
   "text" : "@sdegutis you crazy",
@@ -1370,8 +1364,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9945245833, -96.7095109833 ]
   },
   "id_str" : "19862744978",
   "text" : "It really makes me mad when people don't respect my time",
@@ -1402,8 +1394,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19856129302",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1518051275, -96.83395465 ]
   },
   "id_str" : "19856404133",
   "in_reply_to_user_id" : 788245,
@@ -2011,7 +2001,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "rjs",
       "protected" : false,
       "id_str" : "10079052",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3668908384/1acae28fde9c9259832baf723745cd52_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261570361150/270b788a60e0adb5def646e27814f2e3_normal.jpeg",
       "id" : 10079052,
       "verified" : false
     }
@@ -2077,8 +2067,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19768055030",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.0776911333, -96.8202678333 ]
   },
   "id_str" : "19770387448",
   "in_reply_to_user_id" : 5724522,
@@ -2352,8 +2340,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19758187719",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1523176883, -96.8337465367 ]
   },
   "id_str" : "19758719954",
   "in_reply_to_user_id" : 13678852,
@@ -4061,7 +4047,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -4154,7 +4140,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -5178,8 +5164,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19587713096",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.0891597525, -96.8051546475 ]
   },
   "id_str" : "19588179538",
   "in_reply_to_user_id" : 9455222,
@@ -5405,8 +5389,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19545836769",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.151067836, -96.834206732 ]
   },
   "id_str" : "19545977830",
   "in_reply_to_user_id" : 13678852,
@@ -5719,11 +5701,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5738,7 +5720,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 19530392007,
   "in_reply_to_status_id" : 19530095517,
   "created_at" : "Sun Jul 25 23:56:01 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -5753,11 +5735,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5772,7 +5754,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 19530312900,
   "in_reply_to_status_id" : 19530181930,
   "created_at" : "Sun Jul 25 23:54:37 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -5887,11 +5869,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5906,7 +5888,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 19523365883,
   "in_reply_to_status_id" : 19523278577,
   "created_at" : "Sun Jul 25 21:47:16 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -7063,8 +7045,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4849507343, -97.56242514 ]
   },
   "id_str" : "19463285497",
   "text" : "Driving back to Dallas. Call and ask me something or just say hi. 214-709-3337",
@@ -7095,8 +7075,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19408727480",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.48504111, -97.56242513 ]
   },
   "id_str" : "19451885060",
   "in_reply_to_user_id" : 860551,
@@ -7131,8 +7109,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19404961219",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.48504111, -97.56242513 ]
   },
   "id_str" : "19451867035",
   "in_reply_to_user_id" : 14995231,
@@ -7167,8 +7143,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19382983141",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4852494833, -97.5624788833 ]
   },
   "id_str" : "19399593444",
   "in_reply_to_user_id" : 5724522,
@@ -7196,8 +7170,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.49260395, -97.54780769 ]
   },
   "id_str" : "19399566257",
   "text" : "Inception: HOLY CRAP. AMAZING.",
@@ -7228,8 +7200,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19379072635",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 34.8532607, -97.3229938667 ]
   },
   "id_str" : "19380158916",
   "in_reply_to_user_id" : 15225114,
@@ -7263,8 +7233,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 34.42814379, -97.14515209 ]
   },
   "id_str" : "19378745596",
   "text" : "Listening to @withfoam sing while I drive. Lolz",
@@ -7288,8 +7256,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.2198601, -96.9082976167 ]
   },
   "id_str" : "19373248397",
   "text" : "Driving to Oklahoma. Call and ask me anything (or just say hi) 214-709-3337",
@@ -7508,7 +7474,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -7651,8 +7617,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "19358654891",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.15150616, -96.8339460267 ]
   },
   "id_str" : "19358920191",
   "in_reply_to_user_id" : 9485802,
@@ -7736,7 +7700,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "newsycombinator",
       "protected" : false,
       "id_str" : "14335498",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/52589204/y_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017952599/cf443a6da9a74e5c9c1fcddf422ebb0e_normal.png",
       "id" : 14335498,
       "verified" : false
     }
@@ -8896,7 +8860,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "leahculver",
       "protected" : false,
       "id_str" : "662433",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2356957209/zwer50x7ldyfsnupkesm_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000059401048/801586da67388f3184461a398ae6762f_normal.jpeg",
       "id" : 662433,
       "verified" : false
     }
@@ -9030,8 +8994,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8597734972, -96.7617476267 ]
   },
   "id_str" : "19053561254",
   "text" : "Every time i play board games with @sammcd, I lose. Good times though!",
@@ -10002,11 +9964,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     }, {
       "name" : "Zachary Foster",
       "screen_name" : "doyoufoster",
@@ -10025,7 +9987,7 @@ Grailbird.data.tweets_2010_07 =
   "text" : "@jt @doyoufoster what happened to jizzed.in? ;)",
   "id" : 18968188221,
   "created_at" : "Tue Jul 20 04:32:08 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -10156,11 +10118,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -10175,7 +10137,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 18966066569,
   "in_reply_to_status_id" : 18965508921,
   "created_at" : "Tue Jul 20 03:53:23 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -10307,11 +10269,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -10326,7 +10288,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 18954654779,
   "in_reply_to_status_id" : 18939993982,
   "created_at" : "Tue Jul 20 00:35:17 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -10895,8 +10857,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "18915208513",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1516355128, -96.83395935 ]
   },
   "id_str" : "18916955770",
   "in_reply_to_user_id" : 21107018,
@@ -10931,8 +10891,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "18892152956",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648256717, -96.93250126 ]
   },
   "id_str" : "18896518963",
   "in_reply_to_user_id" : 9085252,
@@ -12106,7 +12064,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "_jonasf_",
       "protected" : false,
       "id_str" : "14118922",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3682637998/1ae559d3686cfc6187fa6ab7bd769e92_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3732763420/6b3b3ece1af75b3c593ce9e30688a998_normal.jpeg",
       "id" : 14118922,
       "verified" : false
     }
@@ -12945,8 +12903,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "18725125713",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8647869271, -96.9325220014 ]
   },
   "id_str" : "18725254115",
   "in_reply_to_user_id" : 8487902,
@@ -14439,7 +14395,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "jw",
       "protected" : false,
       "id_str" : "12528",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2988834321/db007cb3968d11d752adffbaf47762dc_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000062040919/a723bf8d02cef0b8bc8dd3563379b88b_normal.jpeg",
       "id" : 12528,
       "verified" : false
     }
@@ -14477,8 +14433,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "18615205869",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1513700943, -96.8340291671 ]
   },
   "id_str" : "18616727464",
   "in_reply_to_user_id" : 14495545,
@@ -14570,8 +14524,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "18611375341",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.152736182, -96.835074778 ]
   },
   "id_str" : "18614773235",
   "in_reply_to_user_id" : 15225114,
@@ -16063,7 +16015,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -16097,7 +16049,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -16165,7 +16117,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -17736,8 +17688,6 @@ Grailbird.data.tweets_2010_07 =
       "urls" : [ ]
     },
     "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 35.311694, -80.744972 ]
     },
     "id_str" : "18363143927",
     "text" : "Get an office people!  http://flic.kr/p/8i1VY3",
@@ -17748,7 +17698,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "shrop",
       "protected" : false,
       "id_str" : "9641152",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2550846192/yzjoxykf4ui1p9vlss6i_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3721320793/557db01be74cb9357894584699c31e91_normal.jpeg",
       "id" : 9641152,
       "verified" : false
     }
@@ -18262,8 +18212,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "18234516882",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 34.98466724, -97.37037152 ]
   },
   "id_str" : "18234755454",
   "in_reply_to_user_id" : 8487902,
@@ -18325,8 +18273,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.53031712, -97.57445794 ]
   },
   "id_str" : "18232491905",
   "text" : "Driving for the next few hours. Call and ask me anything 214-709-3337 Seriously. Do it.",
@@ -18494,8 +18440,6 @@ Grailbird.data.tweets_2010_07 =
   },
   "in_reply_to_status_id_str" : "18156742004",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4847966333, -97.5623536 ]
   },
   "id_str" : "18160807757",
   "in_reply_to_user_id" : 14101330,
@@ -18661,7 +18605,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -22773,7 +22717,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "mantia",
       "protected" : false,
       "id_str" : "41783",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3687072979/166159c95fd4685fe5a3726466754a5b_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000025922756/c4c16cb1eeab65d5cd2c766f442d26e7_normal.png",
       "id" : 41783,
       "verified" : false
     }
@@ -22827,11 +22771,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -22849,7 +22793,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 17704754731,
   "in_reply_to_status_id" : 17700169507,
   "created_at" : "Sun Jul 04 06:55:25 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -23402,7 +23346,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "kyleve",
       "protected" : false,
       "id_str" : "14680556",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2407213572/qswy7kx5qs9g4ee9pu1a_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000062101907/c9572e73a2991cc8ddfd837c1f0f0bf2_normal.jpeg",
       "id" : 14680556,
       "verified" : false
     }
@@ -23655,7 +23599,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1684179183/Green_Cali_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000040954780/1fb7033540448eb69601ed5c1cfdde96_normal.png",
       "id" : 6503412,
       "verified" : false
     }

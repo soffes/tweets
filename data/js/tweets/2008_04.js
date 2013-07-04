@@ -260,11 +260,11 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jturmel",
+      "name" : "Josh Turmel",
       "screen_name" : "jturmel",
       "indices" : [ 7, 15 ],
-      "id_str" : "17992242",
-      "id" : 17992242
+      "id_str" : "14119419",
+      "id" : 14119419
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -530,11 +530,11 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jturmel",
+      "name" : "Josh Turmel",
       "screen_name" : "jturmel",
       "indices" : [ 0, 8 ],
-      "id_str" : "17992242",
-      "id" : 17992242
+      "id_str" : "14119419",
+      "id" : 14119419
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -549,7 +549,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 799022092,
   "in_reply_to_status_id" : 799017927,
   "created_at" : "Mon Apr 28 21:11:51 +0000 2008",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -3014,11 +3014,11 @@ Grailbird.data.tweets_2008_04 =
       "id_str" : "953171",
       "id" : 953171
     }, {
-      "name" : "jturmel",
+      "name" : "Josh Turmel",
       "screen_name" : "jturmel",
       "indices" : [ 14, 22 ],
-      "id_str" : "17992242",
-      "id" : 17992242
+      "id_str" : "14119419",
+      "id" : 14119419
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5037,11 +5037,11 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.netvibes.com/subscribe.php?module=Twitter\" rel=\"nofollow\">Netvibes</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jturmel",
+      "name" : "Josh Turmel",
       "screen_name" : "jturmel",
       "indices" : [ 0, 8 ],
-      "id_str" : "17992242",
-      "id" : 17992242
+      "id_str" : "14119419",
+      "id" : 14119419
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5056,7 +5056,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 788834704,
   "in_reply_to_status_id" : 788811458,
   "created_at" : "Mon Apr 14 13:22:19 +0000 2008",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -5209,11 +5209,11 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.netvibes.com/subscribe.php?module=Twitter\" rel=\"nofollow\">Netvibes</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jturmel",
+      "name" : "Josh Turmel",
       "screen_name" : "jturmel",
       "indices" : [ 0, 8 ],
-      "id_str" : "17992242",
-      "id" : 17992242
+      "id_str" : "14119419",
+      "id" : 14119419
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5228,7 +5228,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 788092372,
   "in_reply_to_status_id" : 788087189,
   "created_at" : "Sun Apr 13 03:18:10 +0000 2008",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -6479,11 +6479,11 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.netvibes.com/subscribe.php?module=Twitter\" rel=\"nofollow\">Netvibes</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jturmel",
+      "name" : "Josh Turmel",
       "screen_name" : "jturmel",
       "indices" : [ 38, 46 ],
-      "id_str" : "17992242",
-      "id" : 17992242
+      "id_str" : "14119419",
+      "id" : 14119419
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7437,11 +7437,11 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.netvibes.com/subscribe.php?module=Twitter\" rel=\"nofollow\">Netvibes</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jturmel",
+      "name" : "Josh Turmel",
       "screen_name" : "jturmel",
       "indices" : [ 0, 8 ],
-      "id_str" : "17992242",
-      "id" : 17992242
+      "id_str" : "14119419",
+      "id" : 14119419
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7456,7 +7456,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 781901287,
   "in_reply_to_status_id" : 781878099,
   "created_at" : "Thu Apr 03 03:31:32 +0000 2008",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -7735,11 +7735,11 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.netvibes.com/subscribe.php?module=Twitter\" rel=\"nofollow\">Netvibes</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jturmel",
+      "name" : "Josh Turmel",
       "screen_name" : "jturmel",
       "indices" : [ 10, 18 ],
-      "id_str" : "17992242",
-      "id" : 17992242
+      "id_str" : "14119419",
+      "id" : 14119419
     } ],
     "media" : [ ],
     "hashtags" : [ ],

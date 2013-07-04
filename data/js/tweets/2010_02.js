@@ -611,8 +611,6 @@ Grailbird.data.tweets_2010_02 =
   },
   "in_reply_to_status_id_str" : "9675307917",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8702408234, -96.9364178701 ]
   },
   "id_str" : "9681099847",
   "in_reply_to_user_id" : 3549571,
@@ -647,8 +645,6 @@ Grailbird.data.tweets_2010_02 =
   },
   "in_reply_to_status_id_str" : "9663529859",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8702408234, -96.9364178701 ]
   },
   "id_str" : "9666629653",
   "in_reply_to_user_id" : 14518415,
@@ -683,8 +679,6 @@ Grailbird.data.tweets_2010_02 =
   },
   "in_reply_to_status_id_str" : "9664773322",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8702408234, -96.9364178701 ]
   },
   "id_str" : "9666592336",
   "in_reply_to_user_id" : 48725313,
@@ -719,8 +713,6 @@ Grailbird.data.tweets_2010_02 =
   },
   "in_reply_to_status_id_str" : "9665664131",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8702408234, -96.9364178701 ]
   },
   "id_str" : "9666573966",
   "in_reply_to_user_id" : 8675502,
@@ -782,8 +774,6 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.83427578, -96.95472389 ]
   },
   "id_str" : "9654969917",
   "text" : "Trying to explain Linux to someone who doesn't speak English is very difficult. That said, I got cash and am unharmed.",
@@ -1624,11 +1614,11 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "15908145",
       "id" : 15908145
     }, {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 24, 27 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2175,8 +2165,6 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9342379667, -97.1977719833 ]
   },
   "id_str" : "9585574942",
   "text" : "Lunch with @IsmaelBurciaga",
@@ -3052,8 +3040,6 @@ Grailbird.data.tweets_2010_02 =
   },
   "in_reply_to_status_id_str" : "9504088410",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.0221512492, -96.9861775598 ]
   },
   "id_str" : "9504395514",
   "in_reply_to_user_id" : 13798072,
@@ -3954,11 +3940,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3973,7 +3959,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9454876946,
   "in_reply_to_status_id" : 9454613386,
   "created_at" : "Mon Feb 22 01:40:18 +0000 2010",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Sam Soffes",
@@ -3988,11 +3974,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4007,7 +3993,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9454423411,
   "in_reply_to_status_id" : 9454331235,
   "created_at" : "Mon Feb 22 01:29:03 +0000 2010",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Sam Soffes",
@@ -4022,11 +4008,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4041,7 +4027,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9453672402,
   "in_reply_to_status_id" : 9453115054,
   "created_at" : "Mon Feb 22 01:09:56 +0000 2010",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Sam Soffes",
@@ -4697,13 +4683,7 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Singletary \uF8FF",
-      "screen_name" : "daniel_911",
-      "indices" : [ 0, 11 ],
-      "id_str" : "5452602",
-      "id" : 5452602
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4717,7 +4697,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9410863309,
   "in_reply_to_status_id" : 9410770274,
   "created_at" : "Sun Feb 21 02:48:39 +0000 2010",
-  "in_reply_to_screen_name" : "daniel_911",
+  "in_reply_to_screen_name" : "LoneStarDaniel",
   "in_reply_to_user_id_str" : "5452602",
   "user" : {
     "name" : "Sam Soffes",
@@ -5596,11 +5576,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5615,7 +5595,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9383060291,
   "in_reply_to_status_id" : 9376463152,
   "created_at" : "Sat Feb 20 13:29:58 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -7384,11 +7364,11 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "10545",
       "id" : 10545
     }, {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 62, 65 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -16377,7 +16357,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oliver Reichenstein",
+      "name" : "iA Inc.",
       "screen_name" : "iA",
       "indices" : [ 3, 6 ],
       "id_str" : "2087371",
@@ -16406,7 +16386,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 8607445252,
     "created_at" : "Wed Feb 03 23:07:03 +0000 2010",
     "user" : {
-      "name" : "Oliver Reichenstein",
+      "name" : "iA Inc.",
       "screen_name" : "iA",
       "protected" : false,
       "id_str" : "2087371",
@@ -18373,7 +18353,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "aestus",
       "protected" : false,
       "id_str" : "9028172",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3320559097/0f2badac3ccc894e9bce7e3eea7c10e8_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000061700309/18e071e01f4c5a3549a49e4aba2e979c_normal.jpeg",
       "id" : 9028172,
       "verified" : false
     }

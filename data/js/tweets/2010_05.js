@@ -15,8 +15,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "15072465106",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 38.2188737167, -85.6016677333 ]
   },
   "id_str" : "15073657452",
   "in_reply_to_user_id" : 58103,
@@ -44,8 +42,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 38.2166073, -85.5927533167 ]
   },
   "id_str" : "15073632592",
   "text" : "Lots of memories in Kentucky. Love this place.",
@@ -279,8 +275,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14986077229",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 38.221962626, -85.629425198 ]
   },
   "id_str" : "15003733468",
   "in_reply_to_user_id" : 11442592,
@@ -344,8 +338,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14980803156",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.895271415, -97.0371772 ]
   },
   "id_str" : "14985134341",
   "in_reply_to_user_id" : 10545,
@@ -374,8 +366,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14979533997",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.895271415, -97.0371772 ]
   },
   "id_str" : "14984868530",
   "in_reply_to_user_id" : 14752818,
@@ -410,8 +400,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14982330156",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.895271415, -97.0371772 ]
   },
   "id_str" : "14983103134",
   "in_reply_to_user_id" : 15498041,
@@ -439,8 +427,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.895271415, -97.0371772 ]
   },
   "id_str" : "14983013248",
   "text" : "I have learned that wearing a LOST related shirt results in lots of people asking me how I liked the ending",
@@ -3325,7 +3311,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Square, Inc.",
+      "name" : "Square",
       "screen_name" : "Square",
       "indices" : [ 7, 14 ],
       "id_str" : "93017945",
@@ -4464,8 +4450,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14698316350",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8646767525, -96.9324583975 ]
   },
   "id_str" : "14701588990",
   "in_reply_to_user_id" : 27013990,
@@ -4500,8 +4484,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14701239923",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8646767525, -96.9324583975 ]
   },
   "id_str" : "14701474666",
   "in_reply_to_user_id" : 9085252,
@@ -5374,8 +5356,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14625621695",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9158411042, -96.982585515 ]
   },
   "id_str" : "14629226472",
   "in_reply_to_user_id" : 9085252,
@@ -5403,8 +5383,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9067018, -96.95908075 ]
   },
   "id_str" : "14629079975",
   "text" : "Just played with the EVO. Pretty cool. Still scrolls like poo. I think missing the deceleration makes it look extra bad.",
@@ -5481,8 +5459,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14587837802",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.86481759, -96.932460054 ]
   },
   "id_str" : "14591594318",
   "in_reply_to_user_id" : 65193,
@@ -6520,8 +6496,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14528865557",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.86481759, -96.932460054 ]
   },
   "id_str" : "14532604014",
   "in_reply_to_user_id" : 15576869,
@@ -6689,11 +6663,11 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6708,7 +6682,7 @@ Grailbird.data.tweets_2010_05 =
   "id" : 14515713507,
   "in_reply_to_status_id" : 14477421724,
   "created_at" : "Sat May 22 20:49:41 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -6751,8 +6725,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.99981725, -96.96177315 ]
   },
   "id_str" : "14511371181",
   "text" : "Sold my Gretch!",
@@ -6893,8 +6865,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14440247484",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.91646185, -97.0105748 ]
   },
   "id_str" : "14443875968",
   "in_reply_to_user_id" : 15510361,
@@ -7064,7 +7034,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "PolarBearFarm",
       "protected" : false,
       "id_str" : "14288966",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2317792768/tmriaq8k9pxjeiv6wepa_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3780771623/ea2b46f67932b3411ddff0e4bca87c1d_normal.jpeg",
       "id" : 14288966,
       "verified" : false
     }
@@ -7716,8 +7686,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8647895117, -96.9324169617 ]
   },
   "id_str" : "14305347456",
   "text" : "Twitter for iPhone is pretty sweet. Love the new search and trends",
@@ -8805,8 +8773,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.864941415, -96.9321858975 ]
   },
   "id_str" : "14196165237",
   "text" : "Watching a bad movie",
@@ -8898,8 +8864,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.3886671767, -96.8549007733 ]
   },
   "id_str" : "14187369685",
   "text" : "Listening to the unreleased This Will Destroy You album. Amazing.",
@@ -8953,8 +8917,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14161397108",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8647895117, -96.9324169617 ]
   },
   "id_str" : "14161620161",
   "in_reply_to_user_id" : 820272,
@@ -8982,8 +8944,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8235791467, -96.77015274 ]
   },
   "id_str" : "14134536790",
   "text" : "Holy crap. That burger rocked my face off",
@@ -9007,8 +8967,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8233426743, -96.7702629888 ]
   },
   "id_str" : "14133678400",
   "text" : "Photo: This burger is ranked #2 by some authority. I have high expectations \u2014 at The Grape http://gowal.la/c/LsuQ",
@@ -9105,8 +9063,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14059900232",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.86473585, -96.932337232 ]
   },
   "id_str" : "14060621246",
   "in_reply_to_user_id" : 11442592,
@@ -9265,8 +9221,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13998171278",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.930024536, -96.819619498 ]
   },
   "id_str" : "13999528178",
   "in_reply_to_user_id" : 16439634,
@@ -9301,8 +9255,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13998079803",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9300643089, -96.8196167306 ]
   },
   "id_str" : "13998117680",
   "in_reply_to_user_id" : 16439634,
@@ -9330,8 +9282,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.823589224, -96.771049624 ]
   },
   "id_str" : "13986132244",
   "text" : "5 songs down. 1 to go. (plus drums on all 6)",
@@ -9558,8 +9508,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13892496766",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8647815971, -96.9325078186 ]
   },
   "id_str" : "13928230507",
   "in_reply_to_user_id" : 14164787,
@@ -9587,8 +9535,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8236875, -96.7697483167 ]
   },
   "id_str" : "13924011859",
   "text" : "The most amazing place ever \u2014 at Quesa-D-Yas http://gowal.la/c/KtUc",
@@ -9619,8 +9565,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13892496766",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8647815971, -96.9325078186 ]
   },
   "id_str" : "13894311568",
   "in_reply_to_user_id" : 14164787,
@@ -10081,8 +10025,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8235757333, -96.7710328 ]
   },
   "id_str" : "13808161223",
   "text" : "Watching @mattgrimm record vocals",
@@ -10147,8 +10089,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.92288404, -97.08985239 ]
   },
   "id_str" : "13695135523",
   "text" : "Sprint, the now network... because we don't have a future",
@@ -10179,8 +10119,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13677636408",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4849943475, -97.562444475 ]
   },
   "id_str" : "13679790640",
   "in_reply_to_user_id" : 9715522,
@@ -10208,8 +10146,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.56424111, -97.577003355 ]
   },
   "id_str" : "13671434212",
   "text" : "I love that Mexican places in OK give you free queso. Come on Texas",
@@ -10301,8 +10237,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.56424111, -97.577003355 ]
   },
   "id_str" : "13643386271",
   "text" : "I love that Mexican places in OK give you free queso. Come on Texas",
@@ -11810,8 +11744,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9171130167, -96.9599553167 ]
   },
   "id_str" : "13468654925",
   "text" : "Goodness \u2014 at Ihop http://gowal.la/c/Hu18",
@@ -12565,8 +12497,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8659439, -96.9436168667 ]
   },
   "id_str" : "13373644284",
   "text" : "Fuel \u2014 at Chipotle http://gowal.la/c/H5KR",
@@ -13415,7 +13345,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Batatya Vinchu",
+      "name" : "Preshit Deorukhkar",
       "screen_name" : "preshit",
       "indices" : [ 0, 8 ],
       "id_str" : "8202882",
@@ -14399,7 +14329,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "HuffingtonPost",
       "protected" : false,
       "id_str" : "14511951",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3442296058/ee5e1c48c74e0deb82e95d72c2994738_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000085908044/3c04d70530d93bfca3195b24a9eef408_normal.jpeg",
       "id" : 14511951,
       "verified" : true
     }
@@ -14745,8 +14675,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13250177939",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648050825, -96.9327765225 ]
   },
   "id_str" : "13253498111",
   "in_reply_to_user_id" : 14518415,
@@ -14781,8 +14709,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13251638589",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648050825, -96.9327765225 ]
   },
   "id_str" : "13253470773",
   "in_reply_to_user_id" : 6242932,
@@ -14817,8 +14743,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13200627985",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.86324828, -96.93868571 ]
   },
   "id_str" : "13253437049",
   "in_reply_to_user_id" : 7841602,

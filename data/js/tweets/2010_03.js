@@ -2006,8 +2006,6 @@ Grailbird.data.tweets_2010_03 =
       "urls" : [ ]
     },
     "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 18.38269639, -66.05728095 ]
     },
     "id_str" : "11277597091",
     "text" : "iPad GM Seed for iPhone OS 3.2 is out!",
@@ -4281,8 +4279,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8462791468, -96.8510055542 ]
   },
   "id_str" : "11207506494",
   "text" : "Good to be home \u2014 at DAL Dallas Love Field  http://gowal.la/s/8L7",
@@ -5059,8 +5055,6 @@ Grailbird.data.tweets_2010_03 =
       "urls" : [ ]
     },
     "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 42.0744939667, -88.0543517667 ]
     },
     "id_str" : "11121466447",
     "text" : "Getting an iPad? @holiwrit is a natural user interface that makes it easy to read the Word of God. Find more info at http://holiwrit.com",
@@ -5090,7 +5084,13 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chelsea speakman",
+      "screen_name" : "ChelseaSpeakman",
+      "indices" : [ 0, 16 ],
+      "id_str" : "1471810146",
+      "id" : 1471810146
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5124,8 +5124,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 36.1294711506, -86.6668820748 ]
   },
   "id_str" : "11122540491",
   "text" : "I'm at Nashville international airport in Nashville, TN http://gowal.la/s/3GgT",
@@ -5149,8 +5147,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.2024632, -97.66635972 ]
   },
   "id_str" : "11117716499",
   "text" : "I'm at Austin Bergstrom Intl Airport in Austin, TX http://gowal.la/s/565K",
@@ -5174,8 +5170,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8462791468, -96.8510055542 ]
   },
   "id_str" : "11110395752",
   "text" : "I'm at DAL Dallas Love Field  in Dallas, TX http://gowal.la/s/8L7",
@@ -8569,11 +8563,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8588,7 +8582,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10912644762,
   "in_reply_to_status_id" : 10906169682,
   "created_at" : "Tue Mar 23 06:02:12 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -8762,11 +8756,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8781,7 +8775,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10907008079,
   "in_reply_to_status_id" : 10906169682,
   "created_at" : "Tue Mar 23 03:23:56 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -9467,11 +9461,11 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "14237896",
       "id" : 14237896
     }, {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 97, 100 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -13791,8 +13785,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9192832167, -96.9574707333 ]
   },
   "id_str" : "10678984690",
   "text" : "They have good salsa \u2014 at 7 Salsas http://gowal.la/s/5A8",
@@ -14165,8 +14157,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.89374865, -97.1044327833 ]
   },
   "id_str" : "10649285862",
   "text" : "Hanging with cool people \u2014 at @BGiornoCoffee http://gowal.la/s/6c8",
@@ -15141,8 +15131,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.26780605, -97.74154185 ]
   },
   "id_str" : "10546307174",
   "text" : "This is a really nice hotel \u2014 at The Driskill http://gowal.la/s/3K1",
@@ -15616,8 +15604,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.2561088167, -97.74634525 ]
   },
   "id_str" : "10525076972",
   "text" : "Very awesome \u2014 at @dojocoffee http://gowal.la/s/64b",
@@ -16337,7 +16323,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Denis Defreyne",
+      "name" : "\u15EC\u15F4\u1510\u1491\u1515",
       "screen_name" : "ddfreyne",
       "indices" : [ 3, 12 ],
       "id_str" : "635353",
@@ -16366,7 +16352,7 @@ Grailbird.data.tweets_2010_03 =
     "id" : 10464621261,
     "created_at" : "Sun Mar 14 10:18:22 +0000 2010",
     "user" : {
-      "name" : "Denis Defreyne",
+      "name" : "\u15EC\u15F4\u1510\u1491\u1515",
       "screen_name" : "ddfreyne",
       "protected" : false,
       "id_str" : "635353",
@@ -16401,8 +16387,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.266148, -97.746083 ]
   },
   "id_str" : "10454766199",
   "text" : "I can get in today :) \u2014 at @austingingerman http://gowal.la/s/3K4",
@@ -16500,8 +16484,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.2707337816, -97.7537029982 ]
   },
   "id_str" : "10438798140",
   "text" : "Tacos for lunch \u2014 at @wholefoodsatx http://gowal.la/s/3Kk",
@@ -16963,8 +16945,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 30.266148, -97.746083 ]
   },
   "id_str" : "10397359258",
   "text" : "Can't get in for 6 more hours :( \u2014 at @austingingerman http://gowal.la/s/3K4",
@@ -17349,8 +17329,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10344124464",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8703821814, -96.9364303578 ]
   },
   "id_str" : "10382031356",
   "in_reply_to_user_id" : 15225114,
@@ -17385,8 +17363,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10379411626",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8703821814, -96.9364303578 ]
   },
   "id_str" : "10381962942",
   "in_reply_to_user_id" : 13751122,
@@ -17449,8 +17425,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10378787840",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8720193, -96.9378455667 ]
   },
   "id_str" : "10378943359",
   "in_reply_to_user_id" : 6151842,
@@ -17478,8 +17452,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8703906767, -96.9364994786 ]
   },
   "id_str" : "10378935244",
   "text" : "Random X3watch user called me for support. I really need to take my phone number off my blog.",
@@ -18304,8 +18276,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10343245404",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8705445931, -96.9364361725 ]
   },
   "id_str" : "10343530442",
   "in_reply_to_user_id" : 11677,
@@ -19003,11 +18973,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -19022,7 +18992,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10329130604,
   "in_reply_to_status_id" : 10328840648,
   "created_at" : "Thu Mar 11 16:25:18 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -22659,8 +22629,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10181719724",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9151395449, -96.9823884453 ]
   },
   "id_str" : "10183477867",
   "in_reply_to_user_id" : 14299397,
@@ -23162,7 +23130,13 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chelsea speakman",
+      "screen_name" : "ChelseaSpeakman",
+      "indices" : [ 0, 16 ],
+      "id_str" : "1471810146",
+      "id" : 1471810146
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -23351,8 +23325,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4847873909, -97.562000508 ]
   },
   "id_str" : "10097115254",
   "text" : "Heading back to Dallas",
@@ -23581,8 +23553,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.3911611333, -97.5130730667 ]
   },
   "id_str" : "10060220247",
   "text" : "Tradition \u2014 at IHOP http://gowal.la/s/2oWT",
@@ -23606,8 +23576,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.88086975, -96.8980933 ]
   },
   "id_str" : "10051210519",
   "text" : "Driving to Oklahoma. You should call me.",
@@ -23811,8 +23779,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10042826162",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8926308627, -96.9609031577 ]
   },
   "id_str" : "10043413748",
   "in_reply_to_user_id" : 8675502,
@@ -23847,8 +23813,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10042418548",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.89227015, -96.9606779 ]
   },
   "id_str" : "10042791257",
   "in_reply_to_user_id" : 8675502,
@@ -24673,8 +24637,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "9990820198",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9150491258, -96.9825064994 ]
   },
   "id_str" : "9991041201",
   "in_reply_to_user_id" : 9028172,
@@ -25521,8 +25483,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "9973042247",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8705228325, -96.9365754878 ]
   },
   "id_str" : "9975253575",
   "in_reply_to_user_id" : 89308317,
@@ -25557,8 +25517,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "9953237648",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8309140633, -96.7701509586 ]
   },
   "id_str" : "9953651351",
   "in_reply_to_user_id" : 2134761,
@@ -25589,8 +25547,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8309068795, -96.7701776672 ]
   },
   "id_str" : "9952809764",
   "text" : "First two #ignitedallas talks were great. Second two, not so much",
@@ -25617,8 +25573,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8309315345, -96.7701796652 ]
   },
   "id_str" : "9950638755",
   "text" : "Hanging out at #ignitedallas. Lots of cool people here",
@@ -26125,8 +26079,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "9936592719",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9194862667, -96.9727962 ]
   },
   "id_str" : "9936760967",
   "in_reply_to_user_id" : 34663058,
@@ -26154,8 +26106,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.91847865, -96.93421345 ]
   },
   "id_str" : "9936444710",
   "text" : "Fire truck and police just arrived",
@@ -26209,8 +26159,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "9934527634",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.0272855351, -96.8403290557 ]
   },
   "id_str" : "9934889978",
   "in_reply_to_user_id" : 29089844,
@@ -26499,8 +26447,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "9913292530",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.870651153, -96.9368927285 ]
   },
   "id_str" : "9913354802",
   "in_reply_to_user_id" : 1413801,
@@ -26535,8 +26481,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "9913134855",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.870651153, -96.9368927285 ]
   },
   "id_str" : "9913325961",
   "in_reply_to_user_id" : 638323,
@@ -26617,8 +26561,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8335275, -97.07202529 ]
   },
   "id_str" : "9912768235",
   "text" : "OH: \"she just came out of no where and liked status\"",
@@ -27682,8 +27624,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "9884948887",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9437400833, -97.1319348167 ]
   },
   "id_str" : "9885319933",
   "in_reply_to_user_id" : 61518531,
@@ -28244,8 +28184,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "9872260388",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8703439833, -96.9364571411 ]
   },
   "id_str" : "9872582945",
   "in_reply_to_user_id" : 15669817,
@@ -28404,8 +28342,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8717651979, -96.9377429399 ]
   },
   "id_str" : "9858465293",
   "text" : "@sdegutis Ruby. Have him check out MacRuby",

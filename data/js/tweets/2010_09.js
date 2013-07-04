@@ -1,58 +1,5 @@
 Grailbird.data.tweets_2010_09 = 
  [ {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Evil John Gruber",
-      "screen_name" : "evilgruber",
-      "indices" : [ 3, 14 ],
-      "id_str" : "196078955",
-      "id" : 196078955
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "26035174644",
-  "text" : "RT @evilgruber: I hope someone publicly criticizes me soon so I can retweet it.",
-  "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : {
-    },
-    "id_str" : "26020684959",
-    "text" : "I hope someone publicly criticizes me soon so I can retweet it.",
-    "id" : 26020684959,
-    "created_at" : "Thu Sep 30 22:29:47 +0000 2010",
-    "user" : {
-      "name" : "Evil John Gruber",
-      "screen_name" : "evilgruber",
-      "protected" : false,
-      "id_str" : "196078955",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1134685282/evilgruber_normal.png",
-      "id" : 196078955,
-      "verified" : false
-    }
-  },
-  "id" : 26035174644,
-  "created_at" : "Fri Oct 01 01:31:16 +0000 2010",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/1809893726/bw-tie_normal.jpg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
@@ -303,9 +250,9 @@ Grailbird.data.tweets_2010_09 =
     "user" : {
       "name" : "Dick",
       "screen_name" : "michaeldick",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "6023772",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3670070933/ec8601d1573110dcbbcd0d042dfdb562_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000018361923/a3cbbdc87f4fa0659a9649be99709a89_normal.jpeg",
       "id" : 6023772,
       "verified" : false
     }
@@ -325,11 +272,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -344,7 +291,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 25954944031,
   "in_reply_to_status_id" : 25950548475,
   "created_at" : "Thu Sep 30 06:00:35 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -2014,7 +1961,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "mrb",
       "protected" : false,
       "id_str" : "9183382",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2802995527/f07d0cb5767a963a03707f87c5c918b2_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000037557557/92d3d83343db4b5afadf6933f00d363c_normal.jpeg",
       "id" : 9183382,
       "verified" : false
     }
@@ -2429,7 +2376,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -2518,7 +2465,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -2552,11 +2499,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -2574,7 +2521,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 25283527627,
   "in_reply_to_status_id" : 25271026735,
   "created_at" : "Thu Sep 23 06:09:10 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -3892,7 +3839,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "pixel",
       "protected" : false,
       "id_str" : "656663",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2761415063/ab300cfddc5154edbd9b3634c2f635f1_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3781771768/684b6d37da68cc7fe59e9d7736be83e9_normal.png",
       "id" : 656663,
       "verified" : false
     }
@@ -4506,7 +4453,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -6694,11 +6641,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     }, {
       "name" : "Nick Paulson",
       "screen_name" : "nckplsn",
@@ -6719,7 +6666,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 24731170308,
   "in_reply_to_status_id" : 24726319115,
   "created_at" : "Fri Sep 17 04:48:23 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -6854,11 +6801,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6873,7 +6820,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 24726230596,
   "in_reply_to_status_id" : 24725768773,
   "created_at" : "Fri Sep 17 03:30:43 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -7424,11 +7371,11 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "7460682",
       "id" : 7460682
     }, {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 13, 16 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9915,8 +9862,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24405713656",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.15330177, -96.83485341 ]
   },
   "id_str" : "24406439757",
   "in_reply_to_user_id" : 22247208,
@@ -9951,8 +9896,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24396174196",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.151228757, -96.834556337 ]
   },
   "id_str" : "24406399016",
   "in_reply_to_user_id" : 15257071,
@@ -10028,8 +9971,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24395089135",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.152610885, -96.8350507967 ]
   },
   "id_str" : "24398475749",
   "in_reply_to_user_id" : 1783541,
@@ -10117,8 +10058,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24397919356",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.152610885, -96.8350507967 ]
   },
   "id_str" : "24398287122",
   "in_reply_to_user_id" : 18644328,
@@ -10153,8 +10092,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24397422559",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.152610885, -96.8350507967 ]
   },
   "id_str" : "24398233722",
   "in_reply_to_user_id" : 15576869,
@@ -10417,8 +10354,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648506689, -96.9324002544 ]
   },
   "id_str" : "24381210684",
   "text" : "Looking forward to the week. Hoping to wrap up one of my projects",
@@ -10502,8 +10437,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24379297851",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648506689, -96.9324002544 ]
   },
   "id_str" : "24379819283",
   "in_reply_to_user_id" : 644423,
@@ -10538,8 +10471,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24314897981",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648506689, -96.9324002544 ]
   },
   "id_str" : "24317195012",
   "in_reply_to_user_id" : 6242932,
@@ -10757,8 +10688,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648506689, -96.9324002544 ]
   },
   "id_str" : "24312430876",
   "text" : "Found a dead pixel on my iPhone. Time for my third iPhone 4 :)",
@@ -10789,8 +10718,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24311477424",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.864883508, -96.932378436 ]
   },
   "id_str" : "24311721291",
   "in_reply_to_user_id" : 19346185,
@@ -10882,8 +10809,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24259482393",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648559727, -96.9324041173 ]
   },
   "id_str" : "24261802046",
   "in_reply_to_user_id" : 14995231,
@@ -10969,11 +10894,11 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "13253662",
       "id" : 13253662
     }, {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 10, 18 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -10988,7 +10913,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 24247433276,
   "in_reply_to_status_id" : 24247199047,
   "created_at" : "Sun Sep 12 02:43:56 +0000 2010",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Sam Soffes",
@@ -11220,8 +11145,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24143688175",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648751713, -96.9323952675 ]
   },
   "id_str" : "24151321938",
   "in_reply_to_user_id" : 3527541,
@@ -11256,8 +11179,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24149915382",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648751713, -96.9323952675 ]
   },
   "id_str" : "24150990641",
   "in_reply_to_user_id" : 8048912,
@@ -11524,8 +11445,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24121880869",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9265761775, -97.116432155 ]
   },
   "id_str" : "24133231201",
   "in_reply_to_user_id" : 15257071,
@@ -11560,8 +11479,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24118369098",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.926615794, -97.11650867 ]
   },
   "id_str" : "24121541331",
   "in_reply_to_user_id" : 15669817,
@@ -11619,8 +11536,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24046544312",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.10475671, -96.805637385 ]
   },
   "id_str" : "24047959501",
   "in_reply_to_user_id" : 72573,
@@ -11880,8 +11795,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24019797986",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.151337145, -96.8344659067 ]
   },
   "id_str" : "24020365390",
   "in_reply_to_user_id" : 8675502,
@@ -11916,8 +11829,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24020009310",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.151337145, -96.8344659067 ]
   },
   "id_str" : "24020293044",
   "in_reply_to_user_id" : 59193,
@@ -11952,8 +11863,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "24020009310",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.151337145, -96.8344659067 ]
   },
   "id_str" : "24020157861",
   "in_reply_to_user_id" : 59193,
@@ -12303,7 +12212,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "newsycombinator",
       "protected" : false,
       "id_str" : "14335498",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/52589204/y_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017952599/cf443a6da9a74e5c9c1fcddf422ebb0e_normal.png",
       "id" : 14335498,
       "verified" : false
     }
@@ -12747,8 +12656,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23946471303",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648648986, -96.9324028871 ]
   },
   "id_str" : "23946910809",
   "in_reply_to_user_id" : 4833,
@@ -13835,8 +13742,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23863370010",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.00610452, -96.97316175 ]
   },
   "id_str" : "23866690839",
   "in_reply_to_user_id" : 12415982,
@@ -13871,8 +13776,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23863035941",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.00610452, -96.97316175 ]
   },
   "id_str" : "23865185649",
   "in_reply_to_user_id" : 59193,
@@ -13907,8 +13810,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23861115886",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.00610369, -96.97316128 ]
   },
   "id_str" : "23864186527",
   "in_reply_to_user_id" : 10346292,
@@ -13931,11 +13832,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -13943,8 +13844,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23863359022",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.00610369, -96.97316128 ]
   },
   "id_str" : "23864123299",
   "in_reply_to_user_id" : 14119419,
@@ -13952,7 +13851,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 23864123299,
   "in_reply_to_status_id" : 23863359022,
   "created_at" : "Tue Sep 07 23:55:04 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -13967,11 +13866,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -13979,8 +13878,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23861759153",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9433306479, -97.0162558012 ]
   },
   "id_str" : "23863104571",
   "in_reply_to_user_id" : 14119419,
@@ -13988,7 +13885,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 23863104571,
   "in_reply_to_status_id" : 23861759153,
   "created_at" : "Tue Sep 07 23:40:36 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -14008,8 +13905,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.9097399525, -96.95893992 ]
   },
   "id_str" : "23860693697",
   "text" : "Both AT&T stores near my apartment are sold out of MicroCells. That says a lot about their coverage.",
@@ -14183,11 +14078,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -14202,7 +14097,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 23260409541,
   "in_reply_to_status_id" : 23260127280,
   "created_at" : "Tue Sep 07 18:26:21 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -14251,11 +14146,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     }, {
       "name" : "Randy Luecke",
       "screen_name" : "me1000",
@@ -14276,7 +14171,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 23259588499,
   "in_reply_to_status_id" : 23259498479,
   "created_at" : "Tue Sep 07 18:14:41 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -14473,8 +14368,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23255383859",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.15129409, -96.8344220544 ]
   },
   "id_str" : "23255462978",
   "in_reply_to_user_id" : 22102136,
@@ -14509,8 +14402,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23252277151",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.15129409, -96.8344220544 ]
   },
   "id_str" : "23255418306",
   "in_reply_to_user_id" : 8675502,
@@ -14609,8 +14500,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23252839867",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1518870167, -96.8341610867 ]
   },
   "id_str" : "23254971569",
   "in_reply_to_user_id" : 2349981,
@@ -14645,8 +14534,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23252989237",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1518870167, -96.8341610867 ]
   },
   "id_str" : "23254936185",
   "in_reply_to_user_id" : 22102136,
@@ -14681,8 +14568,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23252770511",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1518870167, -96.8341610867 ]
   },
   "id_str" : "23254924774",
   "in_reply_to_user_id" : 22102136,
@@ -14717,8 +14602,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23254306581",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1518870167, -96.8341610867 ]
   },
   "id_str" : "23254869424",
   "in_reply_to_user_id" : 12415982,
@@ -14882,7 +14765,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "Wafflewarfel",
       "protected" : false,
       "id_str" : "48725313",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3476447846/3c28398bd79effb4421e1f32aa45f2fe_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000054150401/854b3819924f0d888a09ac62727ea8fa_normal.jpeg",
       "id" : 48725313,
       "verified" : false
     }
@@ -14970,11 +14853,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 3, 11 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -15006,7 +14889,7 @@ Grailbird.data.tweets_2010_09 =
     "created_at" : "Tue Sep 07 02:39:30 +0000 2010",
     "user" : {
       "name" : "Matt Aimonetti",
-      "screen_name" : "merbist",
+      "screen_name" : "mattetti",
       "protected" : false,
       "id_str" : "16476741",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1616353546/matt_aimonetti_portait_2011_sq400_normal.jpg",
@@ -15127,8 +15010,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23189341882",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648583757, -96.9323892029 ]
   },
   "id_str" : "23189608112",
   "in_reply_to_user_id" : 783032,
@@ -15218,7 +15099,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "newsycombinator",
       "protected" : false,
       "id_str" : "14335498",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/52589204/y_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017952599/cf443a6da9a74e5c9c1fcddf422ebb0e_normal.png",
       "id" : 14335498,
       "verified" : false
     }
@@ -15419,8 +15300,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 34.1338664306, -97.1563444988 ]
   },
   "id_str" : "23174356092",
   "text" : "Still driving. Call and say hi 214-709-3337",
@@ -15463,8 +15342,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23165823720",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.234048194, -97.487091142 ]
   },
   "id_str" : "23168737580",
   "in_reply_to_user_id" : 65193,
@@ -15492,8 +15369,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.247018582, -97.486211186 ]
   },
   "id_str" : "23168549216",
   "text" : "Headed back to Dallas. This drive really gets old",
@@ -15523,8 +15398,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.48504504, -97.5622729 ]
   },
   "id_str" : "23165371467",
   "in_reply_to_user_id" : 21409455,
@@ -15564,8 +15437,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23161482133",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.48504504, -97.5622729 ]
   },
   "id_str" : "23165227202",
   "in_reply_to_user_id" : 13678852,
@@ -15600,8 +15471,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23153588948",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.48504504, -97.5622729 ]
   },
   "id_str" : "23165189950",
   "in_reply_to_user_id" : 65193,
@@ -15676,8 +15545,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23019506291",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4850161, -97.562328005 ]
   },
   "id_str" : "23034377289",
   "in_reply_to_user_id" : 7760692,
@@ -15744,8 +15611,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "23014639165",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4850161, -97.562328005 ]
   },
   "id_str" : "23014893490",
   "in_reply_to_user_id" : 18787589,
@@ -15773,8 +15638,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4850161775, -97.56236666 ]
   },
   "id_str" : "23008142358",
   "text" : "OH: \"What just happened?!?!!! Everything just turned into popsicles!!\"",
@@ -15805,8 +15668,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22999073769",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4850161775, -97.56236666 ]
   },
   "id_str" : "23002233520",
   "in_reply_to_user_id" : 14417480,
@@ -15834,8 +15695,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.247714525, -97.1769043052 ]
   },
   "id_str" : "22977453123",
   "text" : "Got pulled over for the first time since I was 17. Just a warning :)",
@@ -16764,11 +16623,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -16783,7 +16642,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 22906226510,
   "in_reply_to_status_id" : 22900039374,
   "created_at" : "Fri Sep 03 17:28:53 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -16897,8 +16756,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22903736009",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1513335887, -96.8341209087 ]
   },
   "id_str" : "22903964935",
   "in_reply_to_user_id" : 15878829,
@@ -16933,8 +16790,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22903315049",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1517742173, -96.833963854 ]
   },
   "id_str" : "22903384033",
   "in_reply_to_user_id" : 10257182,
@@ -16969,8 +16824,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22903235281",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1517742173, -96.833963854 ]
   },
   "id_str" : "22903376869",
   "in_reply_to_user_id" : 144183,
@@ -17021,8 +16874,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1518946407, -96.8339432007 ]
   },
   "id_str" : "22902934714",
   "text" : "Is it possible to buy just the bottom of a MacBook Pro? Mine is dented and it bothers me.",
@@ -17041,11 +16892,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -17053,8 +16904,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22897853862",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.15124696, -96.83441853 ]
   },
   "id_str" : "22900129448",
   "in_reply_to_user_id" : 14119419,
@@ -17062,7 +16911,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 22900129448,
   "in_reply_to_status_id" : 22897853862,
   "created_at" : "Fri Sep 03 16:10:32 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -17077,11 +16926,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -17099,7 +16948,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 22897326327,
   "in_reply_to_status_id" : 22896858817,
   "created_at" : "Fri Sep 03 15:37:01 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -17132,8 +16981,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22894222973",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1517009992, -96.8339772315 ]
   },
   "id_str" : "22896832409",
   "in_reply_to_user_id" : 89308317,
@@ -17286,8 +17133,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22887406578",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.1517346992, -96.8338959908 ]
   },
   "id_str" : "22887855004",
   "in_reply_to_user_id" : 14601788,
@@ -17310,11 +17155,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -17322,8 +17167,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22863972170",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648531989, -96.9324087922 ]
   },
   "id_str" : "22883417639",
   "in_reply_to_user_id" : 14119419,
@@ -17331,7 +17174,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 22883417639,
   "in_reply_to_status_id" : 22863972170,
   "created_at" : "Fri Sep 03 12:41:09 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -17346,11 +17189,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -17358,8 +17201,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22862530220",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648533773, -96.9324249355 ]
   },
   "id_str" : "22862770438",
   "in_reply_to_user_id" : 14119419,
@@ -17367,7 +17208,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 22862770438,
   "in_reply_to_status_id" : 22862530220,
   "created_at" : "Fri Sep 03 05:26:18 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -17382,11 +17223,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -17394,8 +17235,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22861645293",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648533773, -96.9324249355 ]
   },
   "id_str" : "22862076626",
   "in_reply_to_user_id" : 14119419,
@@ -17403,7 +17242,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 22862076626,
   "in_reply_to_status_id" : 22861645293,
   "created_at" : "Fri Sep 03 05:12:49 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -17423,8 +17262,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.864886254, -96.93237759 ]
   },
   "id_str" : "22861392701",
   "text" : "Another great day. I like working from home and doing other little projects :)",
@@ -17569,8 +17406,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22854038930",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.86488345, -96.93231278 ]
   },
   "id_str" : "22854811782",
   "in_reply_to_user_id" : 41783,
@@ -17598,8 +17433,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.86488345, -96.93231278 ]
   },
   "id_str" : "22854765085",
   "text" : "Just deployed an update to the App Store for the first time in awhile. Love the new iTunes Connect! The Xcode integration is way awesome!!!",
@@ -17819,8 +17652,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22840342606",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648951786, -96.9323369629 ]
   },
   "id_str" : "22840420106",
   "in_reply_to_user_id" : 7739592,
@@ -17860,8 +17691,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648951786, -96.9323369629 ]
   },
   "id_str" : "22840412817",
   "text" : "Wanting to resurrect SSConnection. It used to be awesome. I know @saintjava (and @withfoam briefly) used it",
@@ -17898,8 +17727,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22836101442",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.864886254, -96.93237759 ]
   },
   "id_str" : "22839816743",
   "in_reply_to_user_id" : 14995231,
@@ -18144,7 +17971,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "Jury",
       "protected" : false,
       "id_str" : "10754282",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3666101384/6c5c02145cf109788397d5c323f9aabc_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3759182817/6c5c02145cf109788397d5c323f9aabc_normal.jpeg",
       "id" : 10754282,
       "verified" : false
     }
@@ -18545,11 +18372,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -18564,7 +18391,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 22825200024,
   "in_reply_to_status_id" : 22825045426,
   "created_at" : "Thu Sep 02 19:48:26 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
@@ -19031,7 +18858,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "simplebits",
       "protected" : false,
       "id_str" : "4833",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3065738155/e42be37680fa80675a12b245833cdbee_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017437766/f03f5adfc71640cf54145ef76fab68a4_normal.jpeg",
       "id" : 4833,
       "verified" : false
     }
@@ -19165,8 +18992,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22759041778",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.86945189, -96.941151068 ]
   },
   "id_str" : "22775379328",
   "in_reply_to_user_id" : 15934542,
@@ -19201,8 +19026,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22774674430",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648426188, -96.9324121425 ]
   },
   "id_str" : "22774769390",
   "in_reply_to_user_id" : 44787298,
@@ -19258,7 +19081,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "PolarBearFarm",
       "protected" : false,
       "id_str" : "14288966",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2317792768/tmriaq8k9pxjeiv6wepa_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3780771623/ea2b46f67932b3411ddff0e4bca87c1d_normal.jpeg",
       "id" : 14288966,
       "verified" : false
     }
@@ -19625,8 +19448,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22772328101",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648513644, -96.93239485 ]
   },
   "id_str" : "22772388949",
   "in_reply_to_user_id" : 7841602,
@@ -19788,8 +19609,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648513644, -96.93239485 ]
   },
   "id_str" : "22772050429",
   "text" : "Love the Twitter for iPad UI. Really creative. Great work @atebits",
@@ -20146,11 +19965,11 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "10346292",
       "id" : 10346292
     }, {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 30, 33 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -20281,8 +20100,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22759041778",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.86945189, -96.941151068 ]
   },
   "id_str" : "22759137650",
   "in_reply_to_user_id" : 15934542,
@@ -20317,8 +20134,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22756884292",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8663056517, -96.9418044433 ]
   },
   "id_str" : "22756978831",
   "in_reply_to_user_id" : 16841501,
@@ -20353,8 +20168,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22756803570",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8663056517, -96.9418044433 ]
   },
   "id_str" : "22756871792",
   "in_reply_to_user_id" : 18644328,
@@ -20616,7 +20429,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -20875,8 +20688,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22728901133",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653643, -96.9318238 ]
   },
   "id_str" : "22730140972",
   "in_reply_to_user_id" : 18787589,
@@ -20904,8 +20715,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8652006, -96.931961 ]
   },
   "id_str" : "22729506716",
   "text" : "whoa! COLDPLAY!",
@@ -20929,8 +20738,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8652006, -96.931961 ]
   },
   "id_str" : "22728610938",
   "text" : "No iOS \uF8FFTV... darn",
@@ -20954,8 +20761,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8652006, -96.931961 ]
   },
   "id_str" : "22728503622",
   "text" : "NETFLIX. BAM! Totally selling my Xbox now",
@@ -20979,8 +20784,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8652006, -96.931961 ]
   },
   "id_str" : "22728464534",
   "text" : "Goodbye Hulu.",
@@ -21004,8 +20807,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653827, -96.9317818 ]
   },
   "id_str" : "22728289867",
   "text" : "hdmi, ethernet, and power. heck yes",
@@ -21029,8 +20830,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653827, -96.9317818 ]
   },
   "id_str" : "22728234054",
   "text" : "BAM. NEW APPLE TV",
@@ -21054,8 +20853,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653165, -96.9318304 ]
   },
   "id_str" : "22728138093",
   "text" : "Here is my money, please take it Apple",
@@ -21079,8 +20876,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653165, -96.9318304 ]
   },
   "id_str" : "22728110046",
   "text" : "heck yes i want hd",
@@ -21104,8 +20899,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653165, -96.9318304 ]
   },
   "id_str" : "22728026575",
   "text" : "OH SNAP!!!!!! TV TV TV TV BRING IT STEVE",
@@ -21130,8 +20923,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22727910200",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22727978946",
   "in_reply_to_user_id" : 14239565,
@@ -21159,8 +20950,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22727856280",
   "text" : "You can tell it needs to be in a browser. There are back and forward buttons.",
@@ -21244,8 +21033,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22727364433",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8652748, -96.9319005 ]
   },
   "id_str" : "22727537217",
   "in_reply_to_user_id" : 15392777,
@@ -21273,8 +21060,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8652938, -96.9318732 ]
   },
   "id_str" : "22727371616",
   "text" : "Bing... I mean Ping, that other failure",
@@ -21298,8 +21083,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8652938, -96.9318732 ]
   },
   "id_str" : "22727302474",
   "text" : "Hey Steve, there's this thing called Twitter. Don't make your own.",
@@ -21376,8 +21159,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22727167556",
   "text" : "Wow. The new logo looks bad.",
@@ -21408,8 +21189,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22726971653",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22727036252",
   "in_reply_to_user_id" : 3300,
@@ -21437,8 +21216,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22726981998",
   "text" : "What happened to the iPod Classic?",
@@ -21462,8 +21239,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22726881632",
   "text" : "Going to preorder my watch in a few minutes",
@@ -21540,8 +21315,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22726749357",
   "text" : "FaceTime on the new iPod Touch. Craziness",
@@ -21572,8 +21345,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22726647274",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22726715515",
   "in_reply_to_user_id" : 7841602,
@@ -21608,8 +21379,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22726484635",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22726591166",
   "in_reply_to_user_id" : 15732972,
@@ -21644,8 +21413,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22726264915",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.954568, -97.015007 ]
   },
   "id_str" : "22726330133",
   "in_reply_to_user_id" : 33423,
@@ -21673,8 +21440,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653316, -96.9318361 ]
   },
   "id_str" : "22726259681",
   "text" : "May I introduce you to my new watch",
@@ -21698,8 +21463,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653316, -96.9318361 ]
   },
   "id_str" : "22726161765",
   "text" : "Steve got new shoes too",
@@ -21723,8 +21486,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653316, -96.9318361 ]
   },
   "id_str" : "22726114358",
   "text" : "That just looks awkward",
@@ -21748,8 +21509,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653316, -96.9318361 ]
   },
   "id_str" : "22726086137",
   "text" : "Bought that one, bought that one, bought that one...",
@@ -21773,8 +21532,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653316, -96.9318361 ]
   },
   "id_str" : "22726015860",
   "text" : "I want the new shuffle. I have no use for it. $49, okay, I'll get one. (Plus the packaging is cute.)",
@@ -21805,8 +21562,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22725858616",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653316, -96.9318361 ]
   },
   "id_str" : "22725952833",
   "in_reply_to_user_id" : 2621291,
@@ -21834,8 +21589,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653316, -96.9318361 ]
   },
   "id_str" : "22725896912",
   "text" : "Steve, just admit it. You hate buttons.",
@@ -21919,8 +21672,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22721143247",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653316, -96.9318361 ]
   },
   "id_str" : "22725818692",
   "in_reply_to_user_id" : 788245,
@@ -21954,8 +21705,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22725627658",
   "in_reply_to_user_id" : 33423,
@@ -21982,8 +21731,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22725542852",
   "text" : "Wow! Contextual menu in multitasking. Hopefully that will be public",
@@ -22007,8 +21754,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22725462313",
   "text" : "AIRPLAY?!?!!!?",
@@ -22038,8 +21783,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22725424829",
   "text" : "Damn, no iPad. You win @gruber not today.",
@@ -22063,8 +21806,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22725356819",
   "text" : "That game looks nuts. That script was painful though",
@@ -22094,8 +21835,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22725041381",
   "in_reply_to_user_id" : 8315312,
@@ -22129,8 +21868,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22724478653",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22724990502",
   "in_reply_to_user_id" : 5905672,
@@ -22164,8 +21901,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22724953279",
   "text" : "I hope he says iOS 4.1 supports iPad so I can tell @gruber to suck it",
@@ -22242,8 +21977,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22724797450",
   "text" : "The new Steve-wear makes him look younger",
@@ -22267,8 +22000,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22724692806",
   "text" : "120 iOS devices. wow",
@@ -22292,8 +22023,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22724652744",
   "text" : "yes yes yes. touch AND APPS?!!!!",
@@ -22324,8 +22053,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22724537102",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8654014, -96.9317497 ]
   },
   "id_str" : "22724592852",
   "in_reply_to_user_id" : 15923416,
@@ -22353,8 +22080,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8654237, -96.9317766 ]
   },
   "id_str" : "22724495046",
   "text" : "You have awesome stores, get to the good part!",
@@ -22378,8 +22103,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8654237, -96.9317766 ]
   },
   "id_str" : "22724404233",
   "text" : "Wait, that's totally a long sleeve t-shirt!",
@@ -22403,8 +22126,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8654237, -96.9317766 ]
   },
   "id_str" : "22724347262",
   "text" : "Video quality looks great. Isn't his shirt usually tucked in?",
@@ -22428,8 +22149,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8654237, -96.9317766 ]
   },
   "id_str" : "22724281900",
   "text" : "*claps*",
@@ -22460,8 +22179,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22723896970",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22723957324",
   "in_reply_to_user_id" : 11768402,
@@ -22496,8 +22213,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22723809225",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8653368, -96.9318176 ]
   },
   "id_str" : "22723919101",
   "in_reply_to_user_id" : 9641152,
@@ -22525,8 +22240,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.865375, -96.9317627 ]
   },
   "id_str" : "22723688422",
   "text" : "There's a ton of engineers in a room somewhere crossing their fingers",
@@ -22550,8 +22263,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.865375, -96.9317627 ]
   },
   "id_str" : "22723435376",
   "text" : "THE VIDEO IS LIVE http://soff.me/2CWd",
@@ -22669,8 +22380,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22720006235",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.86532, -96.9318375 ]
   },
   "id_str" : "22720147628",
   "in_reply_to_user_id" : 770505,
@@ -23268,8 +22977,6 @@ Grailbird.data.tweets_2010_09 =
   },
   "in_reply_to_status_id_str" : "22705604219",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648042262, -96.9322931538 ]
   },
   "id_str" : "22706912877",
   "in_reply_to_user_id" : 2373551,
@@ -23297,8 +23004,6 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8648042262, -96.9322931538 ]
   },
   "id_str" : "22706868525",
   "text" : "Had a dream I was at the Apple event. That's pretty sad. It was awesome though",

@@ -768,7 +768,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -814,7 +814,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -1523,7 +1523,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1684179183/Green_Cali_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000040954780/1fb7033540448eb69601ed5c1cfdde96_normal.png",
       "id" : 6503412,
       "verified" : false
     }
@@ -3521,11 +3521,11 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14380234",
       "id" : 14380234
     }, {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 11, 14 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     }, {
       "name" : "Kevin Morey",
       "screen_name" : "kmorey",
@@ -3603,7 +3603,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeff Truitt",
+      "name" : "J Trompetor",
       "screen_name" : "jefftruitt",
       "indices" : [ 0, 11 ],
       "id_str" : "10973732",
@@ -5024,7 +5024,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -5379,7 +5379,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -6792,7 +6792,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "jeff_lamarche",
       "protected" : false,
       "id_str" : "14172298",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3371134507/991a9bf152d64cdaa6b42577035ffc6b_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3781059706/eb9945cdce0af883b53d8235fa4147c0_normal.jpeg",
       "id" : 14172298,
       "verified" : false
     }
@@ -7042,7 +7042,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "firefox",
       "protected" : false,
       "id_str" : "2142731",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3302774296/606a53ef3edfe9633c6f08a4076a5664_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000072384419/182cbd3d6332c12ae4fc4fdc36055766_normal.png",
       "id" : 2142731,
       "verified" : true
     }
@@ -7264,10 +7264,10 @@ Grailbird.data.tweets_2010_10 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Anthony Geranio",
-      "screen_name" : "anthonygeranio",
+      "screen_name" : "AnthonyGeranio",
       "indices" : [ 31, 46 ],
-      "id_str" : "525956970",
-      "id" : 525956970
+      "id_str" : "1488906901",
+      "id" : 1488906901
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9100,8 +9100,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27482279263",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4850249633, -97.5623373333 ]
   },
   "id_str" : "27488786452",
   "in_reply_to_user_id" : 27182858,
@@ -9764,8 +9762,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27390053141",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4863848033, -97.5407978033 ]
   },
   "id_str" : "27411657090",
   "in_reply_to_user_id" : 94623006,
@@ -9829,8 +9825,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27382983980",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.484919305, -97.56237983 ]
   },
   "id_str" : "27385100879",
   "in_reply_to_user_id" : 14417480,
@@ -10253,8 +10247,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27355085090",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.52210142, -97.583469052 ]
   },
   "id_str" : "27357329016",
   "in_reply_to_user_id" : 51793,
@@ -10523,8 +10515,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27337183889",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.4850244467, -97.5623369933 ]
   },
   "id_str" : "27343430286",
   "in_reply_to_user_id" : 15576869,
@@ -10605,8 +10595,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27310036890",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 35.48499019, -97.562334475 ]
   },
   "id_str" : "27310128588",
   "in_reply_to_user_id" : 14148091,
@@ -10694,8 +10682,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27272961483",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8694639592, -96.9412553117 ]
   },
   "id_str" : "27274347720",
   "in_reply_to_user_id" : 7772042,
@@ -10751,7 +10737,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "newsycombinator",
       "protected" : false,
       "id_str" : "14335498",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/52589204/y_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017952599/cf443a6da9a74e5c9c1fcddf422ebb0e_normal.png",
       "id" : 14335498,
       "verified" : false
     }
@@ -11211,8 +11197,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27211630464",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8646943533, -96.93236904 ]
   },
   "id_str" : "27215534246",
   "in_reply_to_user_id" : 14516218,
@@ -11281,8 +11265,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27210364504",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8646943533, -96.93236904 ]
   },
   "id_str" : "27212094427",
   "in_reply_to_user_id" : 8207832,
@@ -11310,8 +11292,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.8646943533, -96.93236904 ]
   },
   "id_str" : "27209524377",
   "text" : "Started watching The Event. Holy crap.",
@@ -11554,7 +11534,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "jeresig",
       "protected" : false,
       "id_str" : "752673",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1181631474/john_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3710418056/50890b833c898cab45237a461e873807_normal.jpeg",
       "id" : 752673,
       "verified" : true
     }
@@ -11632,8 +11612,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27149618071",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 33.15991479, -96.83937191 ]
   },
   "id_str" : "27157070358",
   "in_reply_to_user_id" : 16608706,
@@ -11787,8 +11765,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27071190811",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 32.87069582, -96.93768382 ]
   },
   "id_str" : "27081878830",
   "in_reply_to_user_id" : 14239565,
@@ -12110,7 +12086,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eren Emre Kanal",
+      "name" : "Eren Emre",
       "screen_name" : "erenemre",
       "indices" : [ 0, 9 ],
       "id_str" : "14318713",
@@ -13616,11 +13592,11 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Turmel",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
-      "id_str" : "14119419",
-      "id" : 14119419
+      "id_str" : "1567322352",
+      "id" : 1567322352
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -13635,7 +13611,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26587115545,
   "in_reply_to_status_id" : 26580650428,
   "created_at" : "Wed Oct 06 21:37:23 +0000 2010",
-  "in_reply_to_screen_name" : "jt",
+  "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
