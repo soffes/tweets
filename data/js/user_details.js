@@ -1,11 +1,11 @@
 var user_details =  {
-  "expanded_url" : "http://soff.es",
+  "expanded_url" : "http:\/\/soff.es",
   "screen_name" : "soffes",
-  "location" : "Louisville",
-  "url" : "http://t.co/HNmaer8ToI",
+  "location" : "San Francisco",
+  "url" : "http:\/\/t.co\/HNmaer8ToI",
   "full_name" : "Sam Soffes",
-  "bio" : "VP of Engineering at @Seesaw. Co-founder of @roon_app",
+  "bio" : "Developer & Designer",
   "id" : "6154602",
-  "created_at" : "Sat May 19 05:48:08 +0000 2007",
+  "created_at" : "2007-05-19 05:48:08 +0000",
   "display_url" : "soff.es"
 }
