@@ -2,7 +2,7 @@ require 'rubygems'
 require 'bundler'
 Bundler.require(:default)
 
-class App < Sinatra::Application
+class Tweets < Sinatra::Application
   set :public, Dir.pwd
 
   get '/' do
@@ -10,4 +10,4 @@ class App < Sinatra::Application
   end
 end
 
-run App
+run Tweets
