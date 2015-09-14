@@ -2,7 +2,7 @@ var user_details =  {
   "expanded_url" : "http:\/\/soff.es",
   "screen_name" : "soffes",
   "location" : "San Francisco",
-  "url" : "http:\/\/t.co\/ZsJSGisIYI",
+  "url" : "http:\/\/t.co\/ZsJSGisb9a",
   "full_name" : "Sam Soffes",
   "bio" : "Developer & Designer",
   "id" : "6154602",

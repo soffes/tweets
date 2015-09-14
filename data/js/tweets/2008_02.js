@@ -52,9 +52,9 @@ Grailbird.data.tweets_2008_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "764931706",
-  "text" : "The iPhone is a horrible alarm, that or I was really tired and didn't ever hear it.  I hate than being later for something so much.",
-  "id" : 764931706,
+  "id_str" : "764794523",
+  "text" : "listening to http:\/\/churchtechtalk.com",
+  "id" : 764794523,
   "created_at" : "2008-02-29 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -74,9 +74,9 @@ Grailbird.data.tweets_2008_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "764794523",
-  "text" : "listening to http:\/\/churchtechtalk.com",
-  "id" : 764794523,
+  "id_str" : "764931706",
+  "text" : "The iPhone is a horrible alarm, that or I was really tired and didn't ever hear it.  I hate than being later for something so much.",
+  "id" : 764931706,
   "created_at" : "2008-02-29 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -195,6 +195,61 @@ Grailbird.data.tweets_2008_02 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "764129695",
+  "text" : "really excited about march 6th - iphone sdk http:\/\/tinyurl.com\/2kfgku",
+  "id" : 764129695,
+  "created_at" : "2008-02-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kent McKeaigg",
+      "screen_name" : "kmckeaigg",
+      "indices" : [ 0, 10 ],
+      "id_str" : "6345962",
+      "id" : 6345962
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "764071894",
+  "geo" : { },
+  "id_str" : "764130037",
+  "in_reply_to_user_id" : 6345962,
+  "text" : "@kmckeaigg roov looks cool. i signed up",
+  "id" : 764130037,
+  "in_reply_to_status_id" : 764071894,
+  "created_at" : "2008-02-27 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kmckeaigg",
+  "in_reply_to_user_id_str" : "6345962",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "763443852",
   "text" : "eating a sandwich and headed to starbucks with some guys from work. yay for being social",
   "id" : 763443852,
@@ -243,61 +298,6 @@ Grailbird.data.tweets_2008_02 =
   "text" : "confused because ie and firefox are displaying it correctly and safari isn't. ugh",
   "id" : 764128640,
   "created_at" : "2008-02-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "764129695",
-  "text" : "really excited about march 6th - iphone sdk http:\/\/tinyurl.com\/2kfgku",
-  "id" : 764129695,
-  "created_at" : "2008-02-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kent McKeaigg",
-      "screen_name" : "kmckeaigg",
-      "indices" : [ 0, 10 ],
-      "id_str" : "6345962",
-      "id" : 6345962
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "764071894",
-  "geo" : { },
-  "id_str" : "764130037",
-  "in_reply_to_user_id" : 6345962,
-  "text" : "@kmckeaigg roov looks cool. i signed up",
-  "id" : 764130037,
-  "in_reply_to_status_id" : 764071894,
-  "created_at" : "2008-02-27 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kmckeaigg",
-  "in_reply_to_user_id_str" : "6345962",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
