@@ -3,6 +3,39 @@ Grailbird.data.tweets_2008_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "mburleson",
+      "screen_name" : "mburleson",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13798072",
+      "id" : 13798072
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "942338360",
+  "geo" : { },
+  "id_str" : "942339467",
+  "in_reply_to_user_id" : 13798072,
+  "text" : "@mburleson http:\/\/tinyurl.com\/26kepw",
+  "id" : 942339467,
+  "in_reply_to_status_id" : 942338360,
+  "created_at" : "2008-10-01 00:00:00 +0000",
+  "in_reply_to_screen_name" : "mburleson",
+  "in_reply_to_user_id_str" : "13798072",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Daryl Hunter",
       "screen_name" : "darylhunter",
       "indices" : [ 0, 12 ],
@@ -36,7 +69,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -124,7 +157,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cabel Sasser",
+      "name" : "Cabel Sasser\u2122",
       "screen_name" : "cabel",
       "indices" : [ 11, 17 ],
       "id_str" : "1919231",
@@ -381,39 +414,6 @@ Grailbird.data.tweets_2008_09 =
   "created_at" : "2008-10-01 00:00:00 +0000",
   "in_reply_to_screen_name" : "nooc",
   "in_reply_to_user_id_str" : "14606085",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "mburleson",
-      "screen_name" : "mburleson",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13798072",
-      "id" : 13798072
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "942338360",
-  "geo" : { },
-  "id_str" : "942339467",
-  "in_reply_to_user_id" : 13798072,
-  "text" : "@mburleson http:\/\/tinyurl.com\/26kepw",
-  "id" : 942339467,
-  "in_reply_to_status_id" : 942338360,
-  "created_at" : "2008-10-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mburleson",
-  "in_reply_to_user_id_str" : "13798072",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -1154,6 +1154,28 @@ Grailbird.data.tweets_2008_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "937859737",
+  "text" : "some days i wish things had turned out different...",
+  "id" : 937859737,
+  "created_at" : "2008-09-28 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "937937433",
   "text" : "can't sleep. tons of thoughts running through my head",
   "id" : 937937433,
@@ -1492,28 +1514,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "937830506",
   "text" : "liking what im recording. it was inspired by a song from a screamo band i was in, in high school. much more mellow now",
   "id" : 937830506,
-  "created_at" : "2008-09-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "937859737",
-  "text" : "some days i wish things had turned out different...",
-  "id" : 937859737,
   "created_at" : "2008-09-28 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -2211,7 +2211,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -2347,6 +2347,28 @@ Grailbird.data.tweets_2008_09 =
   "created_at" : "2008-09-24 00:00:00 +0000",
   "in_reply_to_screen_name" : "TerryStorch",
   "in_reply_to_user_id_str" : "1413801",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "931705948",
+  "text" : "just noticed some of the old versions of Bible broke with latest push. everything is fixed, but you should upgrade to 1.3 anyway :)",
+  "id" : 931705948,
+  "created_at" : "2008-09-23 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -2693,28 +2715,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "931689344",
   "text" : "on revision 300 of Bible in subversion. kinda cool",
   "id" : 931689344,
-  "created_at" : "2008-09-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "931705948",
-  "text" : "just noticed some of the old versions of Bible broke with latest push. everything is fixed, but you should upgrade to 1.3 anyway :)",
-  "id" : 931705948,
   "created_at" : "2008-09-23 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -3745,7 +3745,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -3853,6 +3853,34 @@ Grailbird.data.tweets_2008_09 =
   "text" : "just sent 1.4b1 to the beta testers. if youre not on the list and want to help, email sam.soffes @ lifechurch.tv",
   "id" : 927855836,
   "created_at" : "2008-09-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zachary Foster",
+      "screen_name" : "doyoufoster",
+      "indices" : [ 40, 52 ],
+      "id_str" : "14101330",
+      "id" : 14101330
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "926395880",
+  "text" : "i could go for some digerati cookies... @doyoufoster :)",
+  "id" : 926395880,
+  "created_at" : "2008-09-18 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4103,7 +4131,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -4309,34 +4337,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "926255459",
   "text" : "Did you know that in 1955 the Chinese government changed written Chinese from RTL to LTR. That makes things easy http:\/\/tinyurl.com\/yrncsv",
   "id" : 926255459,
-  "created_at" : "2008-09-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Zachary Foster",
-      "screen_name" : "doyoufoster",
-      "indices" : [ 40, 52 ],
-      "id_str" : "14101330",
-      "id" : 14101330
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "926395880",
-  "text" : "i could go for some digerati cookies... @doyoufoster :)",
-  "id" : 926395880,
   "created_at" : "2008-09-18 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -4988,7 +4988,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -5158,6 +5158,28 @@ Grailbird.data.tweets_2008_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "922532247",
+  "text" : "rocking the rock band playlist",
+  "id" : 922532247,
+  "created_at" : "2008-09-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Aaron Marshall",
       "screen_name" : "AaronMarshall",
@@ -5192,7 +5214,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -5401,28 +5423,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "922504033",
   "text" : "Installing Mac OS 10.5.5",
   "id" : 922504033,
-  "created_at" : "2008-09-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "922532247",
-  "text" : "rocking the rock band playlist",
-  "id" : 922532247,
   "created_at" : "2008-09-15 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -6252,6 +6252,39 @@ Grailbird.data.tweets_2008_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Noah Everett",
+      "screen_name" : "noaheverett",
+      "indices" : [ 0, 12 ],
+      "id_str" : "13058232",
+      "id" : 13058232
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "915177443",
+  "geo" : { },
+  "id_str" : "915182130",
+  "in_reply_to_user_id" : 13058232,
+  "text" : "@noaheverett so far is pretty sweet. im, sms, email, hash tags, threads, etc. its very well done",
+  "id" : 915182130,
+  "in_reply_to_status_id" : 915177443,
+  "created_at" : "2008-09-09 00:00:00 +0000",
+  "in_reply_to_screen_name" : "noaheverett",
+  "in_reply_to_user_id_str" : "13058232",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6527,39 +6560,6 @@ Grailbird.data.tweets_2008_09 =
   "text" : "rocking yammer with the digerati team. sorry @noaheverett",
   "id" : 915158178,
   "created_at" : "2008-09-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Noah Everett",
-      "screen_name" : "noaheverett",
-      "indices" : [ 0, 12 ],
-      "id_str" : "13058232",
-      "id" : 13058232
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "915177443",
-  "geo" : { },
-  "id_str" : "915182130",
-  "in_reply_to_user_id" : 13058232,
-  "text" : "@noaheverett so far is pretty sweet. im, sms, email, hash tags, threads, etc. its very well done",
-  "id" : 915182130,
-  "in_reply_to_status_id" : 915177443,
-  "created_at" : "2008-09-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "noaheverett",
-  "in_reply_to_user_id_str" : "13058232",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -7528,6 +7528,28 @@ Grailbird.data.tweets_2008_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "909354362",
+  "text" : "at all staff ready to go",
+  "id" : 909354362,
+  "created_at" : "2008-09-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "909772996",
   "text" : "memory management is a pain. i wish the iphone had more ram",
   "id" : 909772996,
@@ -7757,28 +7779,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "909030730",
   "text" : "checking out last.fm",
   "id" : 909030730,
-  "created_at" : "2008-09-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "909354362",
-  "text" : "at all staff ready to go",
-  "id" : 909354362,
   "created_at" : "2008-09-04 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",

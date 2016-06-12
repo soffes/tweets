@@ -244,6 +244,39 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sam McDonald",
+      "screen_name" : "sammcd",
+      "indices" : [ 0, 7 ],
+      "id_str" : "6151842",
+      "id" : 6151842
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "823540990",
+  "geo" : { },
+  "id_str" : "824177625",
+  "in_reply_to_user_id" : 6151842,
+  "text" : "@sammcd you need to jump in and add your memorizing stuff to the app!",
+  "id" : 824177625,
+  "in_reply_to_status_id" : 823540990,
+  "created_at" : "2008-05-31 00:00:00 +0000",
+  "in_reply_to_screen_name" : "sammcd",
+  "in_reply_to_user_id_str" : "6151842",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -518,39 +551,6 @@ Grailbird.data.tweets_2008_05 =
   "created_at" : "2008-05-31 00:00:00 +0000",
   "in_reply_to_screen_name" : "shrop",
   "in_reply_to_user_id_str" : "9641152",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam McDonald",
-      "screen_name" : "sammcd",
-      "indices" : [ 0, 7 ],
-      "id_str" : "6151842",
-      "id" : 6151842
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "823540990",
-  "geo" : { },
-  "id_str" : "824177625",
-  "in_reply_to_user_id" : 6151842,
-  "text" : "@sammcd you need to jump in and add your memorizing stuff to the app!",
-  "id" : 824177625,
-  "in_reply_to_status_id" : 823540990,
-  "created_at" : "2008-05-31 00:00:00 +0000",
-  "in_reply_to_screen_name" : "sammcd",
-  "in_reply_to_user_id_str" : "6151842",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -1648,6 +1648,39 @@ Grailbird.data.tweets_2008_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "savanah",
+      "screen_name" : "savanah",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14858855",
+      "id" : 14858855
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "818326477",
+  "geo" : { },
+  "id_str" : "818352551",
+  "in_reply_to_user_id" : 14858855,
+  "text" : "@savanah i love that by stroke you mean your office was a little messy",
+  "id" : 818352551,
+  "in_reply_to_status_id" : 818326477,
+  "created_at" : "2008-05-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "savanah",
+  "in_reply_to_user_id_str" : "14858855",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Sam McDonald",
       "screen_name" : "sammcd",
       "indices" : [ 0, 7 ],
@@ -1872,39 +1905,6 @@ Grailbird.data.tweets_2008_05 =
   "created_at" : "2008-05-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "sammcd",
   "in_reply_to_user_id_str" : "6151842",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "savanah",
-      "screen_name" : "savanah",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14858855",
-      "id" : 14858855
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "818326477",
-  "geo" : { },
-  "id_str" : "818352551",
-  "in_reply_to_user_id" : 14858855,
-  "text" : "@savanah i love that by stroke you mean your office was a little messy",
-  "id" : 818352551,
-  "in_reply_to_status_id" : 818326477,
-  "created_at" : "2008-05-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "savanah",
-  "in_reply_to_user_id_str" : "14858855",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -3084,6 +3084,28 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "816025335",
+  "text" : "i cant type while i sneeze",
+  "id" : 816025335,
+  "created_at" : "2008-05-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Sam McDonald",
       "screen_name" : "sammcd",
@@ -3638,28 +3660,6 @@ Grailbird.data.tweets_2008_05 =
   "id_str" : "816024988",
   "text" : "i really want to stop sneexing",
   "id" : 816024988,
-  "created_at" : "2008-05-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "816025335",
-  "text" : "i cant type while i sneeze",
-  "id" : 816025335,
   "created_at" : "2008-05-20 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -4235,6 +4235,39 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sam McDonald",
+      "screen_name" : "sammcd",
+      "indices" : [ 0, 7 ],
+      "id_str" : "6151842",
+      "id" : 6151842
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "812925133",
+  "geo" : { },
+  "id_str" : "812926677",
+  "in_reply_to_user_id" : 6151842,
+  "text" : "@sammcd i would have never found that. good work",
+  "id" : 812926677,
+  "in_reply_to_status_id" : 812925133,
+  "created_at" : "2008-05-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "sammcd",
+  "in_reply_to_user_id_str" : "6151842",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4724,39 +4757,6 @@ Grailbird.data.tweets_2008_05 =
   "text" : "incase anyone was curious, entourage uses twice the cpu of mail.app when they are both idling",
   "id" : 812926348,
   "created_at" : "2008-05-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam McDonald",
-      "screen_name" : "sammcd",
-      "indices" : [ 0, 7 ],
-      "id_str" : "6151842",
-      "id" : 6151842
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "812925133",
-  "geo" : { },
-  "id_str" : "812926677",
-  "in_reply_to_user_id" : 6151842,
-  "text" : "@sammcd i would have never found that. good work",
-  "id" : 812926677,
-  "in_reply_to_status_id" : 812925133,
-  "created_at" : "2008-05-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "sammcd",
-  "in_reply_to_user_id_str" : "6151842",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -5706,6 +5706,28 @@ Grailbird.data.tweets_2008_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "809569022",
+  "text" : "reading about NSURLConnection. Cocoa is awesome",
+  "id" : 809569022,
+  "created_at" : "2008-05-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "809571200",
   "text" : "after eating teds all i want to do is take a nap at my desk",
   "id" : 809571200,
@@ -6135,28 +6157,6 @@ Grailbird.data.tweets_2008_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "809569022",
-  "text" : "reading about NSURLConnection. Cocoa is awesome",
-  "id" : 809569022,
-  "created_at" : "2008-05-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "808719450",
   "text" : "thinking about buying bacon",
   "id" : 808719450,
@@ -6359,6 +6359,28 @@ Grailbird.data.tweets_2008_05 =
   "text" : "interesting idea: what if facebook bought twitter and everyone started using it seamlessly? just a thought",
   "id" : 808072862,
   "created_at" : "2008-05-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "806868214",
+  "text" : "there is the creepy ice cream truck outside my house. its the old van with one sticker on it.",
+  "id" : 806868214,
+  "created_at" : "2008-05-09 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -7151,28 +7173,6 @@ Grailbird.data.tweets_2008_05 =
   "id_str" : "807641601",
   "text" : "awt home watching the office",
   "id" : 807641601,
-  "created_at" : "2008-05-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "806868214",
-  "text" : "there is the creepy ice cream truck outside my house. its the old van with one sticker on it.",
-  "id" : 806868214,
   "created_at" : "2008-05-09 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -8065,7 +8065,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cabel Sasser",
+      "name" : "Cabel Sasser\u2122",
       "screen_name" : "cabel",
       "indices" : [ 0, 6 ],
       "id_str" : "1919231",
@@ -8425,6 +8425,28 @@ Grailbird.data.tweets_2008_05 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "803055240",
+  "text" : "Nice GTA: http:\/\/samsoffes.com\/post\/33673882",
+  "id" : 803055240,
+  "created_at" : "2008-05-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -8520,28 +8542,6 @@ Grailbird.data.tweets_2008_05 =
   "created_at" : "2008-05-04 00:00:00 +0000",
   "in_reply_to_screen_name" : "okjedi",
   "in_reply_to_user_id_str" : "8678302",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "803055240",
-  "text" : "Nice GTA: http:\/\/samsoffes.com\/post\/33673882",
-  "id" : 803055240,
-  "created_at" : "2008-05-04 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",

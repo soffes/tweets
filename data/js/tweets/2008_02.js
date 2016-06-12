@@ -195,6 +195,28 @@ Grailbird.data.tweets_2008_02 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "763443852",
+  "text" : "eating a sandwich and headed to starbucks with some guys from work. yay for being social",
+  "id" : 763443852,
+  "created_at" : "2008-02-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "764018047",
   "text" : "At work, ready to fix some IE bugs!",
   "id" : 764018047,
@@ -276,28 +298,6 @@ Grailbird.data.tweets_2008_02 =
   "created_at" : "2008-02-27 00:00:00 +0000",
   "in_reply_to_screen_name" : "kmckeaigg",
   "in_reply_to_user_id_str" : "6345962",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "763443852",
-  "text" : "eating a sandwich and headed to starbucks with some guys from work. yay for being social",
-  "id" : 763443852,
-  "created_at" : "2008-02-27 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -1444,6 +1444,28 @@ Grailbird.data.tweets_2008_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "673767302",
+  "text" : "bills bills bills... ugh",
+  "id" : 673767302,
+  "created_at" : "2008-02-03 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Aaron Marshall",
       "screen_name" : "AaronMarshall",
@@ -1603,28 +1625,6 @@ Grailbird.data.tweets_2008_02 =
   "id_str" : "673566892",
   "text" : "going to the grocery then headed to @terrystorch's",
   "id" : 673566892,
-  "created_at" : "2008-02-03 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "673767302",
-  "text" : "bills bills bills... ugh",
-  "id" : 673767302,
   "created_at" : "2008-02-03 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",

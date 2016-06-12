@@ -2,6 +2,28 @@ Grailbird.data.tweets_2009_05 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1988709733",
+  "text" : "Thoughts running through my head, settle down. I'm trying to sleep",
+  "id" : 1988709733,
+  "created_at" : "2009-06-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Sleeping At Last",
       "screen_name" : "sleepingatlast",
@@ -335,28 +357,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1988495467",
   "text" : "i hurt one of fingers today. now it hurts to type with it. this could be a long week",
   "id" : 1988495467,
-  "created_at" : "2009-06-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1988709733",
-  "text" : "Thoughts running through my head, settle down. I'm trying to sleep",
-  "id" : 1988709733,
   "created_at" : "2009-06-01 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -920,7 +920,7 @@ Grailbird.data.tweets_2009_05 =
       "id_str" : "15576869",
       "id" : 15576869
     }, {
-      "name" : "Alicia",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 13, 16 ],
       "id_str" : "1567322352",
@@ -1436,6 +1436,28 @@ Grailbird.data.tweets_2009_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1912126453",
+  "text" : "Camping with some awesome peeps. They need to wake up tho",
+  "id" : 1912126453,
+  "created_at" : "2009-05-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1914153546",
   "text" : "i have so much laundry to do... *procrastinates*",
   "id" : 1914153546,
@@ -1516,28 +1538,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1907404341",
   "text" : "Oklahoma!",
   "id" : 1907404341,
-  "created_at" : "2009-05-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1912126453",
-  "text" : "Camping with some awesome peeps. They need to wake up tho",
-  "id" : 1912126453,
   "created_at" : "2009-05-25 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -2522,6 +2522,28 @@ Grailbird.data.tweets_2009_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1823023802",
+  "text" : "Indiana now. Two hours to go",
+  "id" : 1823023802,
+  "created_at" : "2009-05-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1823351903",
   "text" : "Such Great Heights by Iron and Wine. 66 miles to go",
   "id" : 1823351903,
@@ -2707,28 +2729,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1822831402",
   "text" : "Only 2 and a half hours left",
   "id" : 1822831402,
-  "created_at" : "2009-05-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1823023802",
-  "text" : "Indiana now. Two hours to go",
-  "id" : 1823023802,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -3261,7 +3261,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alicia",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -3718,7 +3718,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alicia",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 41, 44 ],
       "id_str" : "1567322352",
@@ -3838,6 +3838,28 @@ Grailbird.data.tweets_2009_05 =
   "text" : "signing one contract and writing another",
   "id" : 1778031449,
   "created_at" : "2009-05-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1766326055",
+  "text" : "Facebook changed it chat interface. its pretty cool",
+  "id" : 1766326055,
+  "created_at" : "2009-05-11 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4210,28 +4232,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1765992842",
   "text" : "found a lifegroup on http:\/\/findalifegroup.tv. excited to go tomorrow",
   "id" : 1765992842,
-  "created_at" : "2009-05-11 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1766326055",
-  "text" : "Facebook changed it chat interface. its pretty cool",
-  "id" : 1766326055,
   "created_at" : "2009-05-11 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -4902,6 +4902,28 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1739680865",
+  "text" : "Someone totally just hit me. Ugh",
+  "id" : 1739680865,
+  "created_at" : "2009-05-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Martin",
       "screen_name" : "chrismartintv",
@@ -5419,28 +5441,6 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1739680865",
-  "text" : "Someone totally just hit me. Ugh",
-  "id" : 1739680865,
-  "created_at" : "2009-05-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "mburleson",
       "screen_name" : "mburleson",
@@ -5590,27 +5590,16 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tom Krush",
-      "screen_name" : "TomKrush",
-      "indices" : [ 0, 9 ],
-      "id_str" : "13235662",
-      "id" : 13235662
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1723852269",
   "geo" : { },
   "id_str" : "1723862402",
-  "in_reply_to_user_id" : 13235662,
   "text" : "@TomKrush ya im already using akismet... time to add a captcha",
   "id" : 1723862402,
-  "in_reply_to_status_id" : 1723852269,
   "created_at" : "2009-05-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "TomKrush",
-  "in_reply_to_user_id_str" : "13235662",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -5806,7 +5795,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alicia",
+      "name" : "jt",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -6039,6 +6028,40 @@ Grailbird.data.tweets_2009_05 =
   "created_at" : "2009-05-07 00:00:00 +0000",
   "in_reply_to_screen_name" : "andywynn",
   "in_reply_to_user_id_str" : "16439634",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steve Gillmor",
+      "screen_name" : "stevegillmor",
+      "indices" : [ 41, 54 ],
+      "id_str" : "1454021",
+      "id" : 1454021
+    }, {
+      "name" : "Tony Steward",
+      "screen_name" : "tonysteward",
+      "indices" : [ 104, 116 ],
+      "id_str" : "802318",
+      "id" : 802318
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1714182748",
+  "text" : "Rest in Peace, RSS http:\/\/tcrn.ch\/1Jk by @stevegillmor. twitter is where people get their news now (via @tonysteward)",
+  "id" : 1714182748,
+  "created_at" : "2009-05-06 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6654,40 +6677,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1713737949",
   "text" : "@ThirtySixthSpan ya lets do it!",
   "id" : 1713737949,
-  "created_at" : "2009-05-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Steve Gillmor",
-      "screen_name" : "stevegillmor",
-      "indices" : [ 41, 54 ],
-      "id_str" : "1454021",
-      "id" : 1454021
-    }, {
-      "name" : "Tony Steward",
-      "screen_name" : "tonysteward",
-      "indices" : [ 104, 116 ],
-      "id_str" : "802318",
-      "id" : 802318
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1714182748",
-  "text" : "Rest in Peace, RSS http:\/\/tcrn.ch\/1Jk by @stevegillmor. twitter is where people get their news now (via @tonysteward)",
-  "id" : 1714182748,
   "created_at" : "2009-05-06 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",

@@ -685,6 +685,28 @@ Grailbird.data.tweets_2008_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1030338687",
+  "text" : "biked 15 miles, ran 1, lifted a lot. pretty proud again. i should hit my 9 by 09 mid week",
+  "id" : 1030338687,
+  "created_at" : "2008-11-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "ahyden",
       "screen_name" : "ahyden",
@@ -936,28 +958,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "1031066065",
   "text" : "Going to look at a few more houses before mom flies out this evening",
   "id" : 1031066065,
-  "created_at" : "2008-11-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1030338687",
-  "text" : "biked 15 miles, ran 1, lifted a lot. pretty proud again. i should hit my 9 by 09 mid week",
-  "id" : 1030338687,
   "created_at" : "2008-11-30 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -1797,7 +1797,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -2115,6 +2115,28 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1023060081",
+  "text" : "I am currently on the LifeChurch.tv Internet Campus. Come join me in this LIVE event. http:\/\/live.lifechurch.tv",
+  "id" : 1023060081,
+  "created_at" : "2008-11-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1023108557",
   "text" : "Craig is about to start on the Internet Campus. Wk4 of Practical Atheist http:\/\/live.lifechurch.tv",
   "id" : 1023108557,
@@ -2187,7 +2209,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -2415,28 +2437,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "1023051939",
   "text" : "Coldplay EP only $0.99 today on Amazon http:\/\/tinyurl.com\/5lvyna",
   "id" : 1023051939,
-  "created_at" : "2008-11-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1023060081",
-  "text" : "I am currently on the LifeChurch.tv Internet Campus. Come join me in this LIVE event. http:\/\/live.lifechurch.tv",
-  "id" : 1023060081,
   "created_at" : "2008-11-25 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -2952,7 +2952,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -3432,6 +3432,39 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Tanner Herriott",
+      "screen_name" : "tannerherriott",
+      "indices" : [ 0, 15 ],
+      "id_str" : "1591231",
+      "id" : 1591231
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1017753051",
+  "geo" : { },
+  "id_str" : "1017756111",
+  "in_reply_to_user_id" : 1591231,
+  "text" : "@tannerherriott uh oh. dinner with the parents :)",
+  "id" : 1017756111,
+  "in_reply_to_status_id" : 1017753051,
+  "created_at" : "2008-11-22 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tannerherriott",
+  "in_reply_to_user_id_str" : "1591231",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Zachary Foster",
       "screen_name" : "doyoufoster",
       "indices" : [ 0, 12 ],
@@ -3623,39 +3656,6 @@ Grailbird.data.tweets_2008_11 =
   "text" : "long day at work today. kind of a lonely night though. i was hoping to hang with some people. o well. hopefully a fun day tomorrow :)",
   "id" : 1017755555,
   "created_at" : "2008-11-22 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tanner Herriott",
-      "screen_name" : "tannerherriott",
-      "indices" : [ 0, 15 ],
-      "id_str" : "1591231",
-      "id" : 1591231
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1017753051",
-  "geo" : { },
-  "id_str" : "1017756111",
-  "in_reply_to_user_id" : 1591231,
-  "text" : "@tannerherriott uh oh. dinner with the parents :)",
-  "id" : 1017756111,
-  "in_reply_to_status_id" : 1017753051,
-  "created_at" : "2008-11-22 00:00:00 +0000",
-  "in_reply_to_screen_name" : "tannerherriott",
-  "in_reply_to_user_id_str" : "1591231",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4816,6 +4816,51 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Jason Kruit",
+      "screen_name" : "jasonkruit",
+      "indices" : [ 0, 11 ],
+      "id_str" : "14638275",
+      "id" : 14638275
+    }, {
+      "name" : "Matt Williamson",
+      "screen_name" : "MattWilliamson",
+      "indices" : [ 12, 27 ],
+      "id_str" : "853443896",
+      "id" : 853443896
+    }, {
+      "name" : "Kevin Morey",
+      "screen_name" : "kmorey",
+      "indices" : [ 28, 35 ],
+      "id_str" : "10346292",
+      "id" : 10346292
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1013472020",
+  "geo" : { },
+  "id_str" : "1013482428",
+  "in_reply_to_user_id" : 14638275,
+  "text" : "@jasonkruit @mattwilliamson @kmorey i cannot tell you how many hours i have wasted on that last comma issues over the years. no fun",
+  "id" : 1013482428,
+  "in_reply_to_status_id" : 1013472020,
+  "created_at" : "2008-11-19 00:00:00 +0000",
+  "in_reply_to_screen_name" : "jasonkruit",
+  "in_reply_to_user_id_str" : "14638275",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Terry Storch",
       "screen_name" : "TerryStorch",
       "indices" : [ 13, 25 ],
@@ -5487,51 +5532,6 @@ Grailbird.data.tweets_2008_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jason Kruit",
-      "screen_name" : "jasonkruit",
-      "indices" : [ 0, 11 ],
-      "id_str" : "14638275",
-      "id" : 14638275
-    }, {
-      "name" : "Matt Williamson",
-      "screen_name" : "MattWilliamson",
-      "indices" : [ 12, 27 ],
-      "id_str" : "853443896",
-      "id" : 853443896
-    }, {
-      "name" : "Kevin Morey",
-      "screen_name" : "kmorey",
-      "indices" : [ 28, 35 ],
-      "id_str" : "10346292",
-      "id" : 10346292
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1013472020",
-  "geo" : { },
-  "id_str" : "1013482428",
-  "in_reply_to_user_id" : 14638275,
-  "text" : "@jasonkruit @mattwilliamson @kmorey i cannot tell you how many hours i have wasted on that last comma issues over the years. no fun",
-  "id" : 1013482428,
-  "in_reply_to_status_id" : 1013472020,
-  "created_at" : "2008-11-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jasonkruit",
-  "in_reply_to_user_id_str" : "14638275",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6190,6 +6190,28 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1007970672",
+  "text" : "http:\/\/twitpic.com\/m4be - Result of my evening",
+  "id" : 1007970672,
+  "created_at" : "2008-11-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1008351082",
   "text" : "anyone want to go to coldplay tonight?",
   "id" : 1008351082,
@@ -6465,28 +6487,6 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1007970672",
-  "text" : "http:\/\/twitpic.com\/m4be - Result of my evening",
-  "id" : 1007970672,
-  "created_at" : "2008-11-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "1006453827",
   "text" : "just realized i forgot to eat dinner.",
   "id" : 1006453827,
@@ -6504,7 +6504,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brad Singleton",
+      "name" : "Bradford Singleton",
       "screen_name" : "bradsingleton",
       "indices" : [ 0, 14 ],
       "id_str" : "10961452",
@@ -7635,6 +7635,45 @@ Grailbird.data.tweets_2008_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "savanah",
+      "screen_name" : "savanah",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14858855",
+      "id" : 14858855
+    }, {
+      "name" : "Bobby Gruenewald",
+      "screen_name" : "bobbygwald",
+      "indices" : [ 28, 39 ],
+      "id_str" : "1409471",
+      "id" : 1409471
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1002658056",
+  "geo" : { },
+  "id_str" : "1002660231",
+  "in_reply_to_user_id" : 14858855,
+  "text" : "@savanah then we would lose @bobbygwald...",
+  "id" : 1002660231,
+  "in_reply_to_status_id" : 1002658056,
+  "created_at" : "2008-11-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "savanah",
+  "in_reply_to_user_id_str" : "14858855",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7931,45 +7970,6 @@ Grailbird.data.tweets_2008_11 =
   "created_at" : "2008-11-12 00:00:00 +0000",
   "in_reply_to_screen_name" : "trimonix",
   "in_reply_to_user_id_str" : "16854912",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "savanah",
-      "screen_name" : "savanah",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14858855",
-      "id" : 14858855
-    }, {
-      "name" : "Bobby Gruenewald",
-      "screen_name" : "bobbygwald",
-      "indices" : [ 28, 39 ],
-      "id_str" : "1409471",
-      "id" : 1409471
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1002658056",
-  "geo" : { },
-  "id_str" : "1002660231",
-  "in_reply_to_user_id" : 14858855,
-  "text" : "@savanah then we would lose @bobbygwald...",
-  "id" : 1002660231,
-  "in_reply_to_status_id" : 1002658056,
-  "created_at" : "2008-11-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "savanah",
-  "in_reply_to_user_id_str" : "14858855",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -8545,7 +8545,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cabel Sasser",
+      "name" : "Cabel Sasser\u2122",
       "screen_name" : "cabel",
       "indices" : [ 0, 6 ],
       "id_str" : "1919231",
@@ -8587,6 +8587,46 @@ Grailbird.data.tweets_2008_11 =
   "text" : "one of my neighbors has a kid that is learning cello. it was cute for the first few minutes. now im real tired of really bad silent night",
   "id" : 1001226518,
   "created_at" : "2008-11-11 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Candace Hamilton",
+      "screen_name" : "candaceh",
+      "indices" : [ 7, 16 ],
+      "id_str" : "14294576",
+      "id" : 14294576
+    }, {
+      "name" : "Larry Tomlinson",
+      "screen_name" : "dotcomlarry",
+      "indices" : [ 17, 29 ],
+      "id_str" : "58753",
+      "id" : 58753
+    }, {
+      "name" : "mburleson",
+      "screen_name" : "mburleson",
+      "indices" : [ 30, 40 ],
+      "id_str" : "13798072",
+      "id" : 13798072
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "998060333",
+  "text" : "thanks @candaceh @dotcomlarry @mburleson i have some places to look tomorrow",
+  "id" : 998060333,
+  "created_at" : "2008-11-10 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -9028,46 +9068,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "999578741",
   "text" : "headed home. super tired today for some reason",
   "id" : 999578741,
-  "created_at" : "2008-11-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Candace Hamilton",
-      "screen_name" : "candaceh",
-      "indices" : [ 7, 16 ],
-      "id_str" : "14294576",
-      "id" : 14294576
-    }, {
-      "name" : "Larry Tomlinson",
-      "screen_name" : "dotcomlarry",
-      "indices" : [ 17, 29 ],
-      "id_str" : "58753",
-      "id" : 58753
-    }, {
-      "name" : "mburleson",
-      "screen_name" : "mburleson",
-      "indices" : [ 30, 40 ],
-      "id_str" : "13798072",
-      "id" : 13798072
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "998060333",
-  "text" : "thanks @candaceh @dotcomlarry @mburleson i have some places to look tomorrow",
-  "id" : 998060333,
   "created_at" : "2008-11-10 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -9793,7 +9793,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -9868,6 +9868,28 @@ Grailbird.data.tweets_2008_11 =
   "text" : "just solved a lot of my issues. yay",
   "id" : 995528591,
   "created_at" : "2008-11-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "992732978",
+  "text" : "finishing up some freelance for tonight",
+  "id" : 992732978,
+  "created_at" : "2008-11-06 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -10527,28 +10549,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "992730006",
   "text" : "turns out my dropbox cache got messed up and was taking up 22gb. deleted and rebuilt. problem solved",
   "id" : 992730006,
-  "created_at" : "2008-11-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "992732978",
-  "text" : "finishing up some freelance for tonight",
-  "id" : 992732978,
   "created_at" : "2008-11-06 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -11645,6 +11645,39 @@ Grailbird.data.tweets_2008_11 =
     "user_mentions" : [ {
       "name" : "Sam DuRegger",
       "screen_name" : "duregger",
+      "indices" : [ 0, 9 ],
+      "id_str" : "15934542",
+      "id" : 15934542
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "986703445",
+  "geo" : { },
+  "id_str" : "986748315",
+  "in_reply_to_user_id" : 15934542,
+  "text" : "@duregger just urinated on the side of I-35",
+  "id" : 986748315,
+  "in_reply_to_status_id" : 986703445,
+  "created_at" : "2008-11-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "duregger",
+  "in_reply_to_user_id_str" : "15934542",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sam DuRegger",
+      "screen_name" : "duregger",
       "indices" : [ 17, 26 ],
       "id_str" : "15934542",
       "id" : 15934542
@@ -11874,39 +11907,6 @@ Grailbird.data.tweets_2008_11 =
   "created_at" : "2008-11-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "AmberSmart",
   "in_reply_to_user_id_str" : "15249412",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "986703445",
-  "geo" : { },
-  "id_str" : "986748315",
-  "in_reply_to_user_id" : 15934542,
-  "text" : "@duregger just urinated on the side of I-35",
-  "id" : 986748315,
-  "in_reply_to_status_id" : 986703445,
-  "created_at" : "2008-11-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "duregger",
-  "in_reply_to_user_id_str" : "15934542",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",

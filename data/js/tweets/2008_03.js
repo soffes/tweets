@@ -514,6 +514,28 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "778909540",
+  "text" : "doing some programming. hopefully we'll have a new beta build out tonight of our new stuff code name \"awesome\"",
+  "id" : 778909540,
+  "created_at" : "2008-03-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "779012025",
   "text" : "just boosted frame rate of our new app from 16 to 30 fps. yay me",
   "id" : 779012025,
@@ -628,28 +650,6 @@ Grailbird.data.tweets_2008_03 =
   "created_at" : "2008-03-29 00:00:00 +0000",
   "in_reply_to_screen_name" : "TerryStorch",
   "in_reply_to_user_id_str" : "1413801",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "778909540",
-  "text" : "doing some programming. hopefully we'll have a new beta build out tonight of our new stuff code name \"awesome\"",
-  "id" : 778909540,
-  "created_at" : "2008-03-29 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -1798,6 +1798,28 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "775288193",
+  "text" : "just switched samsoffes.com to point to my tumblr with dnsmadeeasy.com. we'll see how that goes... im nervous",
+  "id" : 775288193,
+  "created_at" : "2008-03-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "775445597",
   "text" : "i did it. http:\/\/samsoffes.com is now completely tumblr. rock on",
   "id" : 775445597,
@@ -1994,28 +2016,6 @@ Grailbird.data.tweets_2008_03 =
   "id_str" : "775264039",
   "text" : "pumped @bethanyhusband is coming to see me next month!",
   "id" : 775264039,
-  "created_at" : "2008-03-22 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "775288193",
-  "text" : "just switched samsoffes.com to point to my tumblr with dnsmadeeasy.com. we'll see how that goes... im nervous",
-  "id" : 775288193,
   "created_at" : "2008-03-22 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -3110,28 +3110,6 @@ Grailbird.data.tweets_2008_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "771800839",
-  "text" : "looking at music on amazon's mp3 store",
-  "id" : 771800839,
-  "created_at" : "2008-03-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "CHURCHSMO",
       "screen_name" : "CHURCHSMO",
@@ -3153,6 +3131,28 @@ Grailbird.data.tweets_2008_03 =
   "created_at" : "2008-03-15 00:00:00 +0000",
   "in_reply_to_screen_name" : "CHURCHSMO",
   "in_reply_to_user_id_str" : "9337142",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "771800839",
+  "text" : "looking at music on amazon's mp3 store",
+  "id" : 771800839,
+  "created_at" : "2008-03-15 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",

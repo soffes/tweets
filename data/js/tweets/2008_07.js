@@ -565,6 +565,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "873212701",
+  "text" : "Going to bed. I think I'm getting sick.",
+  "id" : 873212701,
+  "created_at" : "2008-07-31 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "873577318",
   "text" : "at work early today",
   "id" : 873577318,
@@ -937,28 +959,6 @@ Grailbird.data.tweets_2008_07 =
   "id_str" : "874094660",
   "text" : "off to get an oil change",
   "id" : 874094660,
-  "created_at" : "2008-07-31 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "873212701",
-  "text" : "Going to bed. I think I'm getting sick.",
-  "id" : 873212701,
   "created_at" : "2008-07-31 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -2200,6 +2200,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "869915212",
+  "text" : "Heading to the office to get some work done",
+  "id" : 869915212,
+  "created_at" : "2008-07-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "869953433",
   "text" : "http:\/\/tinyurl.com\/shaveurhead lol",
   "id" : 869953433,
@@ -2385,28 +2407,6 @@ Grailbird.data.tweets_2008_07 =
   "id_str" : "869507028",
   "text" : "lol http:\/\/www.howarddarkes.com\/photos\/linuxposter.jpg",
   "id" : 869507028,
-  "created_at" : "2008-07-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "869915212",
-  "text" : "Heading to the office to get some work done",
-  "id" : 869915212,
   "created_at" : "2008-07-27 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -3506,6 +3506,39 @@ Grailbird.data.tweets_2008_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Noah Everett",
+      "screen_name" : "noaheverett",
+      "indices" : [ 0, 12 ],
+      "id_str" : "13058232",
+      "id" : 13058232
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "866247500",
+  "geo" : { },
+  "id_str" : "866274713",
+  "in_reply_to_user_id" : 13058232,
+  "text" : "@noaheverett no it was a reblog of http:\/\/tmblg.com\/",
+  "id" : 866274713,
+  "in_reply_to_status_id" : 866247500,
+  "created_at" : "2008-07-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "noaheverett",
+  "in_reply_to_user_id_str" : "13058232",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "John Otjen",
       "screen_name" : "johnotjen",
       "indices" : [ 0, 10 ],
@@ -3934,39 +3967,6 @@ Grailbird.data.tweets_2008_07 =
   "created_at" : "2008-07-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "jturmel",
   "in_reply_to_user_id_str" : "14119419",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Noah Everett",
-      "screen_name" : "noaheverett",
-      "indices" : [ 0, 12 ],
-      "id_str" : "13058232",
-      "id" : 13058232
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "866247500",
-  "geo" : { },
-  "id_str" : "866274713",
-  "in_reply_to_user_id" : 13058232,
-  "text" : "@noaheverett no it was a reblog of http:\/\/tmblg.com\/",
-  "id" : 866274713,
-  "in_reply_to_status_id" : 866247500,
-  "created_at" : "2008-07-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "noaheverett",
-  "in_reply_to_user_id_str" : "13058232",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4888,6 +4888,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "863269774",
+  "text" : "wall is still super load. i think something attached to it outside is freaking out. cant sleep. ugh",
+  "id" : 863269774,
+  "created_at" : "2008-07-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "863606255",
   "text" : "anyone want to play racket ball?",
   "id" : 863606255,
@@ -5079,28 +5101,6 @@ Grailbird.data.tweets_2008_07 =
   "created_at" : "2008-07-20 00:00:00 +0000",
   "in_reply_to_screen_name" : "mburleson",
   "in_reply_to_user_id_str" : "13798072",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "863269774",
-  "text" : "wall is still super load. i think something attached to it outside is freaking out. cant sleep. ugh",
-  "id" : 863269774,
-  "created_at" : "2008-07-20 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6144,6 +6144,39 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Josh Shea",
+      "screen_name" : "joshshea",
+      "indices" : [ 0, 9 ],
+      "id_str" : "14187524",
+      "id" : 14187524
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "860253414",
+  "geo" : { },
+  "id_str" : "860275479",
+  "in_reply_to_user_id" : 14187524,
+  "text" : "@joshshea andrew thought it would be funny. i laughed",
+  "id" : 860275479,
+  "in_reply_to_status_id" : 860253414,
+  "created_at" : "2008-07-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "joshshea",
+  "in_reply_to_user_id_str" : "14187524",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6674,39 +6707,6 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Josh Shea",
-      "screen_name" : "joshshea",
-      "indices" : [ 0, 9 ],
-      "id_str" : "14187524",
-      "id" : 14187524
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "860253414",
-  "geo" : { },
-  "id_str" : "860275479",
-  "in_reply_to_user_id" : 14187524,
-  "text" : "@joshshea andrew thought it would be funny. i laughed",
-  "id" : 860275479,
-  "in_reply_to_status_id" : 860253414,
-  "created_at" : "2008-07-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "joshshea",
-  "in_reply_to_user_id_str" : "14187524",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7111,7 +7111,7 @@ Grailbird.data.tweets_2008_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -7259,6 +7259,39 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Terry Storch",
+      "screen_name" : "TerryStorch",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1413801",
+      "id" : 1413801
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "858267841",
+  "geo" : { },
+  "id_str" : "858270452",
+  "in_reply_to_user_id" : 1413801,
+  "text" : "@terrystorch the white 16 gb is so nice. like its really really nice",
+  "id" : 858270452,
+  "in_reply_to_status_id" : 858267841,
+  "created_at" : "2008-07-14 00:00:00 +0000",
+  "in_reply_to_screen_name" : "TerryStorch",
+  "in_reply_to_user_id_str" : "1413801",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7282,7 +7315,7 @@ Grailbird.data.tweets_2008_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -7894,39 +7927,6 @@ Grailbird.data.tweets_2008_07 =
   "text" : "@terrystorch are you in the line?",
   "id" : 858267545,
   "in_reply_to_status_id" : 858262899,
-  "created_at" : "2008-07-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "TerryStorch",
-  "in_reply_to_user_id_str" : "1413801",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Terry Storch",
-      "screen_name" : "TerryStorch",
-      "indices" : [ 0, 12 ],
-      "id_str" : "1413801",
-      "id" : 1413801
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "858267841",
-  "geo" : { },
-  "id_str" : "858270452",
-  "in_reply_to_user_id" : 1413801,
-  "text" : "@terrystorch the white 16 gb is so nice. like its really really nice",
-  "id" : 858270452,
-  "in_reply_to_status_id" : 858267841,
   "created_at" : "2008-07-14 00:00:00 +0000",
   "in_reply_to_screen_name" : "TerryStorch",
   "in_reply_to_user_id_str" : "1413801",
@@ -8565,6 +8565,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "855682111",
+  "text" : "They're out. Dang",
+  "id" : 855682111,
+  "created_at" : "2008-07-11 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "855694365",
   "text" : "They're of. Headed to work",
   "id" : 855694365,
@@ -9161,7 +9183,7 @@ Grailbird.data.tweets_2008_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Han YOLO",
+      "name" : "Todd Ditchendorf",
       "screen_name" : "iTod",
       "indices" : [ 0, 5 ],
       "id_str" : "788245",
@@ -9561,28 +9583,6 @@ Grailbird.data.tweets_2008_07 =
   "created_at" : "2008-07-11 00:00:00 +0000",
   "in_reply_to_screen_name" : "doyoufoster",
   "in_reply_to_user_id_str" : "14101330",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "855682111",
-  "text" : "They're out. Dang",
-  "id" : 855682111,
-  "created_at" : "2008-07-11 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -10175,6 +10175,39 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kye 'K' Chung",
+      "screen_name" : "ksc",
+      "indices" : [ 0, 4 ],
+      "id_str" : "4581401",
+      "id" : 4581401
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "854162988",
+  "geo" : { },
+  "id_str" : "854169545",
+  "in_reply_to_user_id" : 4581401,
+  "text" : "@ksc thats awesome!",
+  "id" : 854169545,
+  "in_reply_to_status_id" : 854162988,
+  "created_at" : "2008-07-09 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ksc",
+  "in_reply_to_user_id_str" : "4581401",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -10378,39 +10411,6 @@ Grailbird.data.tweets_2008_07 =
   "text" : "welcome @ambersmart",
   "id" : 854168270,
   "created_at" : "2008-07-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kye 'K' Chung",
-      "screen_name" : "ksc",
-      "indices" : [ 0, 4 ],
-      "id_str" : "4581401",
-      "id" : 4581401
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "854162988",
-  "geo" : { },
-  "id_str" : "854169545",
-  "in_reply_to_user_id" : 4581401,
-  "text" : "@ksc thats awesome!",
-  "id" : 854169545,
-  "in_reply_to_status_id" : 854162988,
-  "created_at" : "2008-07-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ksc",
-  "in_reply_to_user_id_str" : "4581401",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -11266,6 +11266,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "849705024",
+  "text" : "about to eat some pizza. its going to be a quiet night at home packing",
+  "id" : 849705024,
+  "created_at" : "2008-07-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "849818195",
   "text" : "deleting old things that have changed. facebook should add a remove all old memories button. it would make this easier",
   "id" : 849818195,
@@ -11445,28 +11467,6 @@ Grailbird.data.tweets_2008_07 =
   "id_str" : "850374458",
   "text" : "just fixed my xbox!",
   "id" : 850374458,
-  "created_at" : "2008-07-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "849705024",
-  "text" : "about to eat some pizza. its going to be a quiet night at home packing",
-  "id" : 849705024,
   "created_at" : "2008-07-04 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
