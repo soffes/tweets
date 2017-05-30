@@ -777,7 +777,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Quaranto \uD83D\uDD1C\uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Nick Quaranto \uD83C\uDDE9\uD83C\uDDEA",
       "screen_name" : "qrush",
       "indices" : [ 0, 6 ],
       "id_str" : "5743852",
@@ -4180,7 +4180,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kristy graves",
+      "name" : "kristy graves \uD83D\uDEB2",
       "screen_name" : "kg",
       "indices" : [ 0, 3 ],
       "id_str" : "14889194",
@@ -8099,7 +8099,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "chriscmerritt",
       "protected" : false,
       "id_str" : "58103",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1144894477\/profile-sepia-600_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853963486824587265\/eXvED3Mh_normal.jpg",
       "id" : 58103,
       "verified" : false
     }
@@ -12430,7 +12430,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oprah and 100 others",
+      "name" : "\uD809\uDC2B",
       "screen_name" : "tylergillies",
       "indices" : [ 0, 13 ],
       "id_str" : "9429332",
@@ -13659,7 +13659,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "briangriffey",
       "protected" : false,
       "id_str" : "24887250",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857956112116715521\/FAN102NH_normal.jpg",
       "id" : 24887250,
       "verified" : false
     }
@@ -14646,7 +14646,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kyle Van Essen \uD83D\uDC40\uD83D\uDC4C\uD83C\uDFFC",
+      "name" : "Kyle Van Essen \uD83D\uDE07\uD83C\uDF7B\u270C\uD83C\uDFFC\u2728",
       "screen_name" : "kyleve",
       "indices" : [ 3, 10 ],
       "id_str" : "14680556",
@@ -14673,7 +14673,7 @@ Grailbird.data.tweets_2011_02 =
     "id" : 34341743830761472,
     "created_at" : "2011-02-06 20:04:44 +0000",
     "user" : {
-      "name" : "Kyle Van Essen \uD83D\uDC40\uD83D\uDC4C\uD83C\uDFFC",
+      "name" : "Kyle Van Essen \uD83D\uDE07\uD83C\uDF7B\u270C\uD83C\uDFFC\u2728",
       "screen_name" : "kyleve",
       "protected" : false,
       "id_str" : "14680556",
@@ -14985,7 +14985,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "myell0w",
       "protected" : false,
       "id_str" : "16004268",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/561653738503675906\/asNnc-2v_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/866246731658350592\/ukUtIH6S_normal.jpg",
       "id" : 16004268,
       "verified" : false
     }
@@ -17131,7 +17131,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "willw",
       "protected" : false,
       "id_str" : "634163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775480415440084992\/9-uj-Me0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854900885415120896\/wUrF1ZIa_normal.jpg",
       "id" : 634163,
       "verified" : false
     }
@@ -18148,7 +18148,7 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "123323498",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436965007981420544\/JGJx90PF_normal.jpeg",
       "id" : 123323498,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 32468010417520640,
