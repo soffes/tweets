@@ -404,116 +404,6 @@ Grailbird.data.tweets_2008_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "753225842",
-  "text" : "i hate shopping for clothes. i gave up on jeans",
-  "id" : 753225842,
-  "created_at" : "2008-02-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "753920312",
-  "text" : "going to bed early",
-  "id" : 753920312,
-  "created_at" : "2008-02-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "754834342",
-  "text" : "cant sleep",
-  "id" : 754834342,
-  "created_at" : "2008-02-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "755065272",
-  "text" : "wishing tumblr had commenting...",
-  "id" : 755065272,
-  "created_at" : "2008-02-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "755540792",
-  "text" : "trying out http:\/\/tumblr.samsoffes.com",
-  "id" : 755540792,
-  "created_at" : "2008-02-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "755707562",
   "text" : "getting an early start at work",
   "id" : 755707562,
@@ -616,6 +506,116 @@ Grailbird.data.tweets_2008_02 =
   "id_str" : "757464362",
   "text" : "installing parallels. now i can finally get that pc off of my desk",
   "id" : 757464362,
+  "created_at" : "2008-02-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "753225842",
+  "text" : "i hate shopping for clothes. i gave up on jeans",
+  "id" : 753225842,
+  "created_at" : "2008-02-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "753920312",
+  "text" : "going to bed early",
+  "id" : 753920312,
+  "created_at" : "2008-02-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "754834342",
+  "text" : "cant sleep",
+  "id" : 754834342,
+  "created_at" : "2008-02-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "755065272",
+  "text" : "wishing tumblr had commenting...",
+  "id" : 755065272,
+  "created_at" : "2008-02-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "755540792",
+  "text" : "trying out http:\/\/tumblr.samsoffes.com",
+  "id" : 755540792,
   "created_at" : "2008-02-25 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -1445,6 +1445,67 @@ Grailbird.data.tweets_2008_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Aaron Marshall",
+      "screen_name" : "AaronMarshall",
+      "indices" : [ 0, 14 ],
+      "id_str" : "4416791",
+      "id" : 4416791
+    }, {
+      "name" : "mylesgullett",
+      "screen_name" : "mylesgullett",
+      "indices" : [ 36, 49 ],
+      "id_str" : "9297622",
+      "id" : 9297622
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "671450582",
+  "geo" : { },
+  "id_str" : "671524872",
+  "in_reply_to_user_id" : 4416791,
+  "text" : "@aaronmarshall i wish i was meeting @mylesgullett. he is way better than garth brooks",
+  "id" : 671524872,
+  "in_reply_to_status_id" : 671450582,
+  "created_at" : "2008-02-03 00:00:00 +0000",
+  "in_reply_to_screen_name" : "AaronMarshall",
+  "in_reply_to_user_id_str" : "4416791",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "671839252",
+  "text" : "Hanging with The John Otjen at my place. Yay for my official first guest.",
+  "id" : 671839252,
+  "created_at" : "2008-02-03 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Anne Jackson",
       "screen_name" : "flowerdust",
       "indices" : [ 0, 11 ],
@@ -1577,33 +1638,16 @@ Grailbird.data.tweets_2008_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Aaron Marshall",
-      "screen_name" : "AaronMarshall",
-      "indices" : [ 0, 14 ],
-      "id_str" : "4416791",
-      "id" : 4416791
-    }, {
-      "name" : "mylesgullett",
-      "screen_name" : "mylesgullett",
-      "indices" : [ 36, 49 ],
-      "id_str" : "9297622",
-      "id" : 9297622
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "671450582",
   "geo" : { },
-  "id_str" : "671524872",
-  "in_reply_to_user_id" : 4416791,
-  "text" : "@aaronmarshall i wish i was meeting @mylesgullett. he is way better than garth brooks",
-  "id" : 671524872,
-  "in_reply_to_status_id" : 671450582,
-  "created_at" : "2008-02-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AaronMarshall",
-  "in_reply_to_user_id_str" : "4416791",
+  "id_str" : "671054192",
+  "text" : "getting read to head out to wal-mart then the internet campus",
+  "id" : 671054192,
+  "created_at" : "2008-02-02 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -1622,10 +1666,43 @@ Grailbird.data.tweets_2008_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "671839252",
-  "text" : "Hanging with The John Otjen at my place. Yay for my official first guest.",
-  "id" : 671839252,
-  "created_at" : "2008-02-03 00:00:00 +0000",
+  "id_str" : "671226502",
+  "text" : "Sitting in the Internet Campus ready to push the big green button",
+  "id" : 671226502,
+  "created_at" : "2008-02-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Terry Storch",
+      "screen_name" : "TerryStorch",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1413801",
+      "id" : 1413801
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "671174762",
+  "geo" : { },
+  "id_str" : "671275392",
+  "in_reply_to_user_id" : 1413801,
+  "text" : "@terrystorch I guess when they get sick, they get sick for 5 months... go figure",
+  "id" : 671275392,
+  "in_reply_to_status_id" : 671174762,
+  "created_at" : "2008-02-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "TerryStorch",
+  "in_reply_to_user_id_str" : "1413801",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -1714,83 +1791,6 @@ Grailbird.data.tweets_2008_02 =
   "text" : "Redoing my blog. Go figure.",
   "id" : 670964852,
   "created_at" : "2008-02-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "671054192",
-  "text" : "getting read to head out to wal-mart then the internet campus",
-  "id" : 671054192,
-  "created_at" : "2008-02-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "671226502",
-  "text" : "Sitting in the Internet Campus ready to push the big green button",
-  "id" : 671226502,
-  "created_at" : "2008-02-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Terry Storch",
-      "screen_name" : "TerryStorch",
-      "indices" : [ 0, 12 ],
-      "id_str" : "1413801",
-      "id" : 1413801
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "671174762",
-  "geo" : { },
-  "id_str" : "671275392",
-  "in_reply_to_user_id" : 1413801,
-  "text" : "@terrystorch I guess when they get sick, they get sick for 5 months... go figure",
-  "id" : 671275392,
-  "in_reply_to_status_id" : 671174762,
-  "created_at" : "2008-02-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "TerryStorch",
-  "in_reply_to_user_id_str" : "1413801",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",

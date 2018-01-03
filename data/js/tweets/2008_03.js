@@ -668,6 +668,28 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "778379007",
+  "text" : "took twitter off my tumblr. i think ill use the api to pull it in my sidebar or something. maybe just have the most recent 3 stay at the top",
+  "id" : 778379007,
+  "created_at" : "2008-03-28 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "778383313",
   "text" : "someone just bought Countdown Maker with an eCheck. I didn't know people still used those... http:\/\/trimonix.com - use your eChecks here",
   "id" : 778383313,
@@ -773,10 +795,87 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "778379007",
-  "text" : "took twitter off my tumblr. i think ill use the api to pull it in my sidebar or something. maybe just have the most recent 3 stay at the top",
-  "id" : 778379007,
-  "created_at" : "2008-03-28 00:00:00 +0000",
+  "id_str" : "778039155",
+  "text" : "Using Firefox 3b4 now. Brad M pointed out that there is a beta FireBug that works in Firefox 3b4. Yay!",
+  "id" : 778039155,
+  "created_at" : "2008-03-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "778122054",
+  "text" : "Thinking of cool ways to use Mechanical Turk",
+  "id" : 778122054,
+  "created_at" : "2008-03-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "778186266",
+  "text" : "super excited that interface builder just came out for the iPhone!",
+  "id" : 778186266,
+  "created_at" : "2008-03-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aaron Marshall",
+      "screen_name" : "AaronMarshall",
+      "indices" : [ 0, 14 ],
+      "id_str" : "4416791",
+      "id" : 4416791
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "778221780",
+  "geo" : { },
+  "id_str" : "778226295",
+  "in_reply_to_user_id" : 4416791,
+  "text" : "@aaronmarshall I picked up a homeless guy once who sold mortgages",
+  "id" : 778226295,
+  "in_reply_to_status_id" : 778221780,
+  "created_at" : "2008-03-27 00:00:00 +0000",
+  "in_reply_to_screen_name" : "AaronMarshall",
+  "in_reply_to_user_id_str" : "4416791",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -970,105 +1069,6 @@ Grailbird.data.tweets_2008_03 =
   "created_at" : "2008-03-27 00:00:00 +0000",
   "in_reply_to_screen_name" : "theblanchard",
   "in_reply_to_user_id_str" : "8487902",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "778039155",
-  "text" : "Using Firefox 3b4 now. Brad M pointed out that there is a beta FireBug that works in Firefox 3b4. Yay!",
-  "id" : 778039155,
-  "created_at" : "2008-03-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "778122054",
-  "text" : "Thinking of cool ways to use Mechanical Turk",
-  "id" : 778122054,
-  "created_at" : "2008-03-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "778186266",
-  "text" : "super excited that interface builder just came out for the iPhone!",
-  "id" : 778186266,
-  "created_at" : "2008-03-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Aaron Marshall",
-      "screen_name" : "AaronMarshall",
-      "indices" : [ 0, 14 ],
-      "id_str" : "4416791",
-      "id" : 4416791
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "778221780",
-  "geo" : { },
-  "id_str" : "778226295",
-  "in_reply_to_user_id" : 4416791,
-  "text" : "@aaronmarshall I picked up a homeless guy once who sold mortgages",
-  "id" : 778226295,
-  "in_reply_to_status_id" : 778221780,
-  "created_at" : "2008-03-27 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AaronMarshall",
-  "in_reply_to_user_id_str" : "4416791",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -1798,6 +1798,28 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "775214069",
+  "text" : "eating a ton of taco bell now that is dark",
+  "id" : 775214069,
+  "created_at" : "2008-03-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "775232344",
   "text" : "got the urge to update my resume after looking at http:\/\/tinyurl.com\/2dm9yw. i love my job. just felt like typing all the stuff ive done",
   "id" : 775232344,
@@ -1994,28 +2016,6 @@ Grailbird.data.tweets_2008_03 =
   "id_str" : "775548345",
   "text" : "really tempted to take a nap because I'm really tired",
   "id" : 775548345,
-  "created_at" : "2008-03-22 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "775214069",
-  "text" : "eating a ton of taco bell now that is dark",
-  "id" : 775214069,
   "created_at" : "2008-03-22 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -3171,94 +3171,6 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "771654885",
-  "text" : "o internet explorer, why do you like browsers of the same gender?",
-  "id" : 771654885,
-  "created_at" : "2008-03-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "771686262",
-  "text" : "done fighting with ie, finally",
-  "id" : 771686262,
-  "created_at" : "2008-03-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "771700939",
-  "text" : "Florida, what an impossible word to spell",
-  "id" : 771700939,
-  "created_at" : "2008-03-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "771204523",
-  "text" : "Trying to think of something fun to do that's not by myself",
-  "id" : 771204523,
-  "created_at" : "2008-03-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "771267166",
   "text" : "working on a song idea. i really want a firestudio  http:\/\/tinyurl.com\/2cuduw",
   "id" : 771267166,
@@ -3350,6 +3262,94 @@ Grailbird.data.tweets_2008_03 =
   "id_str" : "771518332",
   "text" : "forgot my banana, but i got lots of ajax and css to keep me company",
   "id" : 771518332,
+  "created_at" : "2008-03-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "771654885",
+  "text" : "o internet explorer, why do you like browsers of the same gender?",
+  "id" : 771654885,
+  "created_at" : "2008-03-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "771686262",
+  "text" : "done fighting with ie, finally",
+  "id" : 771686262,
+  "created_at" : "2008-03-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "771700939",
+  "text" : "Florida, what an impossible word to spell",
+  "id" : 771700939,
+  "created_at" : "2008-03-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "771204523",
+  "text" : "Trying to think of something fun to do that's not by myself",
+  "id" : 771204523,
   "created_at" : "2008-03-14 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",

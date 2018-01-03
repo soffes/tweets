@@ -310,6 +310,89 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "John Otjen",
+      "screen_name" : "johnotjen",
+      "indices" : [ 19, 29 ],
+      "id_str" : "6833272",
+      "id" : 6833272
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "900011148",
+  "text" : "just got home from @johnotjen's after doing some more freelance. working on some music now",
+  "id" : 900011148,
+  "created_at" : "2008-08-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Lori Bailey",
+      "screen_name" : "loribailey",
+      "indices" : [ 0, 11 ],
+      "id_str" : "3260841",
+      "id" : 3260841
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "900066323",
+  "geo" : { },
+  "id_str" : "900070319",
+  "in_reply_to_user_id" : 3260841,
+  "text" : "@loribailey thanks lori :)",
+  "id" : 900070319,
+  "in_reply_to_status_id" : 900066323,
+  "created_at" : "2008-08-27 00:00:00 +0000",
+  "in_reply_to_screen_name" : "loribailey",
+  "in_reply_to_user_id_str" : "3260841",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "900070633",
+  "text" : "installing xp sp3 in vmware. i feel so dirty",
+  "id" : 900070633,
+  "created_at" : "2008-08-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -833,77 +916,49 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "John Otjen",
-      "screen_name" : "johnotjen",
-      "indices" : [ 19, 29 ],
-      "id_str" : "6833272",
-      "id" : 6833272
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "900011148",
-  "text" : "just got home from @johnotjen's after doing some more freelance. working on some music now",
-  "id" : 900011148,
-  "created_at" : "2008-08-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lori Bailey",
-      "screen_name" : "loribailey",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3260841",
-      "id" : 3260841
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "900066323",
-  "geo" : { },
-  "id_str" : "900070319",
-  "in_reply_to_user_id" : 3260841,
-  "text" : "@loribailey thanks lori :)",
-  "id" : 900070319,
-  "in_reply_to_status_id" : 900066323,
-  "created_at" : "2008-08-27 00:00:00 +0000",
-  "in_reply_to_screen_name" : "loribailey",
-  "in_reply_to_user_id_str" : "3260841",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "900070633",
-  "text" : "installing xp sp3 in vmware. i feel so dirty",
-  "id" : 900070633,
-  "created_at" : "2008-08-27 00:00:00 +0000",
+  "id_str" : "899747342",
+  "text" : "blasting some foo in the digerati office",
+  "id" : 899747342,
+  "created_at" : "2008-08-26 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kye 'K' Chung",
+      "screen_name" : "ksc",
+      "indices" : [ 0, 4 ],
+      "id_str" : "4581401",
+      "id" : 4581401
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "899759339",
+  "geo" : { },
+  "id_str" : "899760394",
+  "in_reply_to_user_id" : 4581401,
+  "text" : "@ksc i love the svn stuff. it makes things a lot easier. the updated clips window is sweet too",
+  "id" : 899760394,
+  "in_reply_to_status_id" : 899759339,
+  "created_at" : "2008-08-26 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ksc",
+  "in_reply_to_user_id_str" : "4581401",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -1038,11 +1093,11 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SmashMaestroPyramid",
+      "name" : "Pie",
       "screen_name" : "reply",
       "indices" : [ 73, 79 ],
-      "id_str" : "130584275",
-      "id" : 130584275
+      "id_str" : "917867148978081792",
+      "id" : 917867148978081792
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1356,61 +1411,6 @@ Grailbird.data.tweets_2008_08 =
   "text" : "downloading the update for the digerai ipod for some testing of the new version. hopefully coming soon!",
   "id" : 899740207,
   "created_at" : "2008-08-26 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "899747342",
-  "text" : "blasting some foo in the digerati office",
-  "id" : 899747342,
-  "created_at" : "2008-08-26 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kye 'K' Chung",
-      "screen_name" : "ksc",
-      "indices" : [ 0, 4 ],
-      "id_str" : "4581401",
-      "id" : 4581401
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "899759339",
-  "geo" : { },
-  "id_str" : "899760394",
-  "in_reply_to_user_id" : 4581401,
-  "text" : "@ksc i love the svn stuff. it makes things a lot easier. the updated clips window is sweet too",
-  "id" : 899760394,
-  "in_reply_to_status_id" : 899759339,
-  "created_at" : "2008-08-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ksc",
-  "in_reply_to_user_id_str" : "4581401",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -2133,6 +2133,166 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mark Shropshire",
+      "screen_name" : "shrop",
+      "indices" : [ 0, 6 ],
+      "id_str" : "9641152",
+      "id" : 9641152
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "897210033",
+  "geo" : { },
+  "id_str" : "897210265",
+  "in_reply_to_user_id" : 9641152,
+  "text" : "@shrop logic studio. i didnt know you played drums",
+  "id" : 897210265,
+  "in_reply_to_status_id" : 897210033,
+  "created_at" : "2008-08-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "shrop",
+  "in_reply_to_user_id_str" : "9641152",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mark Shropshire",
+      "screen_name" : "shrop",
+      "indices" : [ 0, 6 ],
+      "id_str" : "9641152",
+      "id" : 9641152
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "897220038",
+  "geo" : { },
+  "id_str" : "897220377",
+  "in_reply_to_user_id" : 9641152,
+  "text" : "@shrop drums are my main thing but living in an apartment im kinda forced to focus on guitar and bass. i have serious respect for sax",
+  "id" : 897220377,
+  "in_reply_to_status_id" : 897220038,
+  "created_at" : "2008-08-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "shrop",
+  "in_reply_to_user_id_str" : "9641152",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "897229500",
+  "text" : "i redid my blog again http:\/\/samsoffes.com\/ what do you think?",
+  "id" : 897229500,
+  "created_at" : "2008-08-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "mburleson",
+      "screen_name" : "mburleson",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13798072",
+      "id" : 13798072
+    }, {
+      "name" : "Terry Storch",
+      "screen_name" : "TerryStorch",
+      "indices" : [ 29, 41 ],
+      "id_str" : "1413801",
+      "id" : 1413801
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "897457596",
+  "geo" : { },
+  "id_str" : "897490978",
+  "in_reply_to_user_id" : 13798072,
+  "text" : "@mburleson go for it! I know @terrystorch would live to to it",
+  "id" : 897490978,
+  "in_reply_to_status_id" : 897457596,
+  "created_at" : "2008-08-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "mburleson",
+  "in_reply_to_user_id_str" : "13798072",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Amber Smart",
+      "screen_name" : "AmberSmart",
+      "indices" : [ 0, 11 ],
+      "id_str" : "15249412",
+      "id" : 15249412
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "897584752",
+  "geo" : { },
+  "id_str" : "897593369",
+  "in_reply_to_user_id" : 15249412,
+  "text" : "@ambersmart evening? i just got up",
+  "id" : 897593369,
+  "in_reply_to_status_id" : 897584752,
+  "created_at" : "2008-08-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "AmberSmart",
+  "in_reply_to_user_id_str" : "15249412",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2584,166 +2744,6 @@ Grailbird.data.tweets_2008_08 =
   "text" : "http:\/\/twitpic.com\/8v3m - The result of a long night recording",
   "id" : 897202358,
   "created_at" : "2008-08-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mark Shropshire",
-      "screen_name" : "shrop",
-      "indices" : [ 0, 6 ],
-      "id_str" : "9641152",
-      "id" : 9641152
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "897210033",
-  "geo" : { },
-  "id_str" : "897210265",
-  "in_reply_to_user_id" : 9641152,
-  "text" : "@shrop logic studio. i didnt know you played drums",
-  "id" : 897210265,
-  "in_reply_to_status_id" : 897210033,
-  "created_at" : "2008-08-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shrop",
-  "in_reply_to_user_id_str" : "9641152",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mark Shropshire",
-      "screen_name" : "shrop",
-      "indices" : [ 0, 6 ],
-      "id_str" : "9641152",
-      "id" : 9641152
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "897220038",
-  "geo" : { },
-  "id_str" : "897220377",
-  "in_reply_to_user_id" : 9641152,
-  "text" : "@shrop drums are my main thing but living in an apartment im kinda forced to focus on guitar and bass. i have serious respect for sax",
-  "id" : 897220377,
-  "in_reply_to_status_id" : 897220038,
-  "created_at" : "2008-08-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shrop",
-  "in_reply_to_user_id_str" : "9641152",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "897229500",
-  "text" : "i redid my blog again http:\/\/samsoffes.com\/ what do you think?",
-  "id" : 897229500,
-  "created_at" : "2008-08-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "mburleson",
-      "screen_name" : "mburleson",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13798072",
-      "id" : 13798072
-    }, {
-      "name" : "Terry Storch",
-      "screen_name" : "TerryStorch",
-      "indices" : [ 29, 41 ],
-      "id_str" : "1413801",
-      "id" : 1413801
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "897457596",
-  "geo" : { },
-  "id_str" : "897490978",
-  "in_reply_to_user_id" : 13798072,
-  "text" : "@mburleson go for it! I know @terrystorch would live to to it",
-  "id" : 897490978,
-  "in_reply_to_status_id" : 897457596,
-  "created_at" : "2008-08-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mburleson",
-  "in_reply_to_user_id_str" : "13798072",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "897584752",
-  "geo" : { },
-  "id_str" : "897593369",
-  "in_reply_to_user_id" : 15249412,
-  "text" : "@ambersmart evening? i just got up",
-  "id" : 897593369,
-  "in_reply_to_status_id" : 897584752,
-  "created_at" : "2008-08-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -3235,6 +3235,149 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Amber Smart",
+      "screen_name" : "AmberSmart",
+      "indices" : [ 0, 11 ],
+      "id_str" : "15249412",
+      "id" : 15249412
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "893852101",
+  "geo" : { },
+  "id_str" : "893853936",
+  "in_reply_to_user_id" : 15249412,
+  "text" : "@ambersmart loving the picture",
+  "id" : 893853936,
+  "in_reply_to_status_id" : 893852101,
+  "created_at" : "2008-08-21 00:00:00 +0000",
+  "in_reply_to_screen_name" : "AmberSmart",
+  "in_reply_to_user_id_str" : "15249412",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "894080813",
+  "text" : "so hungry",
+  "id" : 894080813,
+  "created_at" : "2008-08-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "894429310",
+  "text" : "localization and fighting with apple. that seems like a common theme lately... time for kenny g",
+  "id" : 894429310,
+  "created_at" : "2008-08-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mark Shropshire",
+      "screen_name" : "shrop",
+      "indices" : [ 0, 6 ],
+      "id_str" : "9641152",
+      "id" : 9641152
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "894434673",
+  "geo" : { },
+  "id_str" : "894444360",
+  "in_reply_to_user_id" : 9641152,
+  "text" : "@shrop i want to talk to the 85 people, how do i call them :)",
+  "id" : 894444360,
+  "in_reply_to_status_id" : 894434673,
+  "created_at" : "2008-08-21 00:00:00 +0000",
+  "in_reply_to_screen_name" : "shrop",
+  "in_reply_to_user_id_str" : "9641152",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Amber Smart",
+      "screen_name" : "AmberSmart",
+      "indices" : [ 0, 11 ],
+      "id_str" : "15249412",
+      "id" : 15249412
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "893966939",
+  "geo" : { },
+  "id_str" : "894445789",
+  "in_reply_to_user_id" : 15249412,
+  "text" : "@ambersmart's cookie cake was freakin amazing! i could probably eat the whole thing",
+  "id" : 894445789,
+  "in_reply_to_status_id" : 893966939,
+  "created_at" : "2008-08-21 00:00:00 +0000",
+  "in_reply_to_screen_name" : "AmberSmart",
+  "in_reply_to_user_id_str" : "15249412",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3664,149 +3807,6 @@ Grailbird.data.tweets_2008_08 =
   "text" : "my neighbor still thinks he can play guitar. darn...",
   "id" : 893833709,
   "created_at" : "2008-08-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "893852101",
-  "geo" : { },
-  "id_str" : "893853936",
-  "in_reply_to_user_id" : 15249412,
-  "text" : "@ambersmart loving the picture",
-  "id" : 893853936,
-  "in_reply_to_status_id" : 893852101,
-  "created_at" : "2008-08-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "894080813",
-  "text" : "so hungry",
-  "id" : 894080813,
-  "created_at" : "2008-08-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "894429310",
-  "text" : "localization and fighting with apple. that seems like a common theme lately... time for kenny g",
-  "id" : 894429310,
-  "created_at" : "2008-08-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mark Shropshire",
-      "screen_name" : "shrop",
-      "indices" : [ 0, 6 ],
-      "id_str" : "9641152",
-      "id" : 9641152
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "894434673",
-  "geo" : { },
-  "id_str" : "894444360",
-  "in_reply_to_user_id" : 9641152,
-  "text" : "@shrop i want to talk to the 85 people, how do i call them :)",
-  "id" : 894444360,
-  "in_reply_to_status_id" : 894434673,
-  "created_at" : "2008-08-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "shrop",
-  "in_reply_to_user_id_str" : "9641152",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "893966939",
-  "geo" : { },
-  "id_str" : "894445789",
-  "in_reply_to_user_id" : 15249412,
-  "text" : "@ambersmart's cookie cake was freakin amazing! i could probably eat the whole thing",
-  "id" : 894445789,
-  "in_reply_to_status_id" : 893966939,
-  "created_at" : "2008-08-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4824,6 +4824,127 @@ Grailbird.data.tweets_2008_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "890048805",
+  "text" : "now hes trying your body is a wonderland.... o dear",
+  "id" : 890048805,
+  "created_at" : "2008-08-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890242639",
+  "text" : "just realized my student loan payments started last month because the just realized im not going to school... oops",
+  "id" : 890242639,
+  "created_at" : "2008-08-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890250179",
+  "text" : "watching the internet campus http:\/\/tinyurl.com\/icampus",
+  "id" : 890250179,
+  "created_at" : "2008-08-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tony Steward",
+      "screen_name" : "tonysteward",
+      "indices" : [ 0, 12 ],
+      "id_str" : "802318",
+      "id" : 802318
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "890274591",
+  "geo" : { },
+  "id_str" : "890284034",
+  "in_reply_to_user_id" : 802318,
+  "text" : "@tonysteward http:\/\/twitpic.com\/81wy - thats awesome",
+  "id" : 890284034,
+  "in_reply_to_status_id" : 890274591,
+  "created_at" : "2008-08-17 00:00:00 +0000",
+  "in_reply_to_screen_name" : "tonysteward",
+  "in_reply_to_user_id_str" : "802318",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "890334249",
+  "text" : "kinda bored",
+  "id" : 890334249,
+  "created_at" : "2008-08-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "890342411",
   "text" : "just deleted a bunch of stuff off of facebook that i would like to forget. they make it hard to completely delete anything",
   "id" : 890342411,
@@ -5091,127 +5212,6 @@ Grailbird.data.tweets_2008_08 =
   "id_str" : "890045930",
   "text" : "my neighbor thinks he can play guitar and that its okay to play it at 3am. it would be different if it was enjoyable to listen too...",
   "id" : 890045930,
-  "created_at" : "2008-08-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "890048805",
-  "text" : "now hes trying your body is a wonderland.... o dear",
-  "id" : 890048805,
-  "created_at" : "2008-08-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "890242639",
-  "text" : "just realized my student loan payments started last month because the just realized im not going to school... oops",
-  "id" : 890242639,
-  "created_at" : "2008-08-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "890250179",
-  "text" : "watching the internet campus http:\/\/tinyurl.com\/icampus",
-  "id" : 890250179,
-  "created_at" : "2008-08-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tony Steward",
-      "screen_name" : "tonysteward",
-      "indices" : [ 0, 12 ],
-      "id_str" : "802318",
-      "id" : 802318
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "890274591",
-  "geo" : { },
-  "id_str" : "890284034",
-  "in_reply_to_user_id" : 802318,
-  "text" : "@tonysteward http:\/\/twitpic.com\/81wy - thats awesome",
-  "id" : 890284034,
-  "in_reply_to_status_id" : 890274591,
-  "created_at" : "2008-08-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "tonysteward",
-  "in_reply_to_user_id_str" : "802318",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "890334249",
-  "text" : "kinda bored",
-  "id" : 890334249,
   "created_at" : "2008-08-17 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -6080,6 +6080,154 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Candace Hamilton",
+      "screen_name" : "candaceh",
+      "indices" : [ 17, 26 ],
+      "id_str" : "14294576",
+      "id" : 14294576
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "887769525",
+  "geo" : { },
+  "id_str" : "887772331",
+  "in_reply_to_user_id" : 15392777,
+  "text" : "@kate_carris ya, @candaceh never stops talking :)",
+  "id" : 887772331,
+  "in_reply_to_status_id" : 887769525,
+  "created_at" : "2008-08-14 00:00:00 +0000",
+  "in_reply_to_screen_name" : "katy_carris",
+  "in_reply_to_user_id_str" : "15392777",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "887807124",
+  "text" : "brad m just schooled me in scaling web servers. just learned a lot",
+  "id" : 887807124,
+  "created_at" : "2008-08-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daryl Hunter",
+      "screen_name" : "darylhunter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "15576869",
+      "id" : 15576869
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "887814078",
+  "geo" : { },
+  "id_str" : "887819495",
+  "in_reply_to_user_id" : 15576869,
+  "text" : "@darylhunter http:\/\/twitpic.com\/7p0s - green?",
+  "id" : 887819495,
+  "in_reply_to_status_id" : 887814078,
+  "created_at" : "2008-08-14 00:00:00 +0000",
+  "in_reply_to_screen_name" : "darylhunter",
+  "in_reply_to_user_id_str" : "15576869",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daryl Hunter",
+      "screen_name" : "darylhunter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "15576869",
+      "id" : 15576869
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "887823977",
+  "geo" : { },
+  "id_str" : "887831423",
+  "in_reply_to_user_id" : 15576869,
+  "text" : "@darylhunter just joking, it was obviously orange",
+  "id" : 887831423,
+  "in_reply_to_status_id" : 887823977,
+  "created_at" : "2008-08-14 00:00:00 +0000",
+  "in_reply_to_screen_name" : "darylhunter",
+  "in_reply_to_user_id_str" : "15576869",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "887849815",
+  "geo" : { },
+  "id_str" : "887852871",
+  "in_reply_to_user_id" : 11217112,
+  "text" : "@mike_jones_a i like vmware a lot",
+  "id" : 887852871,
+  "in_reply_to_status_id" : 887849815,
+  "created_at" : "2008-08-14 00:00:00 +0000",
+  "in_reply_to_screen_name" : "VoteMikeJones",
+  "in_reply_to_user_id_str" : "11217112",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6880,154 +7028,6 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Candace Hamilton",
-      "screen_name" : "candaceh",
-      "indices" : [ 17, 26 ],
-      "id_str" : "14294576",
-      "id" : 14294576
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "887769525",
-  "geo" : { },
-  "id_str" : "887772331",
-  "in_reply_to_user_id" : 15392777,
-  "text" : "@kate_carris ya, @candaceh never stops talking :)",
-  "id" : 887772331,
-  "in_reply_to_status_id" : 887769525,
-  "created_at" : "2008-08-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "katy_carris",
-  "in_reply_to_user_id_str" : "15392777",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "887807124",
-  "text" : "brad m just schooled me in scaling web servers. just learned a lot",
-  "id" : 887807124,
-  "created_at" : "2008-08-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daryl Hunter",
-      "screen_name" : "darylhunter",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15576869",
-      "id" : 15576869
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "887814078",
-  "geo" : { },
-  "id_str" : "887819495",
-  "in_reply_to_user_id" : 15576869,
-  "text" : "@darylhunter http:\/\/twitpic.com\/7p0s - green?",
-  "id" : 887819495,
-  "in_reply_to_status_id" : 887814078,
-  "created_at" : "2008-08-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "darylhunter",
-  "in_reply_to_user_id_str" : "15576869",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daryl Hunter",
-      "screen_name" : "darylhunter",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15576869",
-      "id" : 15576869
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "887823977",
-  "geo" : { },
-  "id_str" : "887831423",
-  "in_reply_to_user_id" : 15576869,
-  "text" : "@darylhunter just joking, it was obviously orange",
-  "id" : 887831423,
-  "in_reply_to_status_id" : 887823977,
-  "created_at" : "2008-08-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "darylhunter",
-  "in_reply_to_user_id_str" : "15576869",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "887849815",
-  "geo" : { },
-  "id_str" : "887852871",
-  "in_reply_to_user_id" : 11217112,
-  "text" : "@mike_jones_a i like vmware a lot",
-  "id" : 887852871,
-  "in_reply_to_status_id" : 887849815,
-  "created_at" : "2008-08-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "VoteMikeJones",
-  "in_reply_to_user_id_str" : "11217112",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7509,6 +7509,160 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Evan Hamilton",
+      "screen_name" : "evanh",
+      "indices" : [ 0, 6 ],
+      "id_str" : "14263675",
+      "id" : 14263675
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "884865903",
+  "geo" : { },
+  "id_str" : "885409533",
+  "in_reply_to_user_id" : 14263675,
+  "text" : "@evanh you liking the 3G?",
+  "id" : 885409533,
+  "in_reply_to_status_id" : 884865903,
+  "created_at" : "2008-08-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "evanh",
+  "in_reply_to_user_id_str" : "14263675",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zachary Foster",
+      "screen_name" : "doyoufoster",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14101330",
+      "id" : 14101330
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "885434418",
+  "geo" : { },
+  "id_str" : "885439898",
+  "in_reply_to_user_id" : 14101330,
+  "text" : "@doyoufoster knows how to use photoshop",
+  "id" : 885439898,
+  "in_reply_to_status_id" : 885434418,
+  "created_at" : "2008-08-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "doyoufoster",
+  "in_reply_to_user_id_str" : "14101330",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kevin Rose \u26E9",
+      "screen_name" : "kevinrose",
+      "indices" : [ 0, 10 ],
+      "id_str" : "657863",
+      "id" : 657863
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "885457686",
+  "geo" : { },
+  "id_str" : "885463121",
+  "in_reply_to_user_id" : 657863,
+  "text" : "@kevinrose i think your tweet took down the BART site lol",
+  "id" : 885463121,
+  "in_reply_to_status_id" : 885457686,
+  "created_at" : "2008-08-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kevinrose",
+  "in_reply_to_user_id_str" : "657863",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "885486033",
+  "text" : "Manager at freddy's asked me if I was in jail with him. It was funny",
+  "id" : 885486033,
+  "created_at" : "2008-08-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daryl Hunter",
+      "screen_name" : "darylhunter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "15576869",
+      "id" : 15576869
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "885528409",
+  "geo" : { },
+  "id_str" : "885568002",
+  "in_reply_to_user_id" : 15576869,
+  "text" : "@darylhunter http:\/\/twitpic.com\/7gu6 - love it. the pyramid is awesome. i didnt get a cake when i left secc...",
+  "id" : 885568002,
+  "in_reply_to_status_id" : 885528409,
+  "created_at" : "2008-08-12 00:00:00 +0000",
+  "in_reply_to_screen_name" : "darylhunter",
+  "in_reply_to_user_id_str" : "15576869",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Kent McKeaigg",
       "screen_name" : "kmckeaigg",
       "indices" : [ 0, 10 ],
@@ -7793,160 +7947,6 @@ Grailbird.data.tweets_2008_08 =
   "created_at" : "2008-08-12 00:00:00 +0000",
   "in_reply_to_screen_name" : "JoshDaws",
   "in_reply_to_user_id_str" : "12645352",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Evan Hamilton",
-      "screen_name" : "evanh",
-      "indices" : [ 0, 6 ],
-      "id_str" : "14263675",
-      "id" : 14263675
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "884865903",
-  "geo" : { },
-  "id_str" : "885409533",
-  "in_reply_to_user_id" : 14263675,
-  "text" : "@evanh you liking the 3G?",
-  "id" : 885409533,
-  "in_reply_to_status_id" : 884865903,
-  "created_at" : "2008-08-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "evanh",
-  "in_reply_to_user_id_str" : "14263675",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Zachary Foster",
-      "screen_name" : "doyoufoster",
-      "indices" : [ 0, 12 ],
-      "id_str" : "14101330",
-      "id" : 14101330
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "885434418",
-  "geo" : { },
-  "id_str" : "885439898",
-  "in_reply_to_user_id" : 14101330,
-  "text" : "@doyoufoster knows how to use photoshop",
-  "id" : 885439898,
-  "in_reply_to_status_id" : 885434418,
-  "created_at" : "2008-08-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "doyoufoster",
-  "in_reply_to_user_id_str" : "14101330",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kevin Rose \u26E9",
-      "screen_name" : "kevinrose",
-      "indices" : [ 0, 10 ],
-      "id_str" : "657863",
-      "id" : 657863
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "885457686",
-  "geo" : { },
-  "id_str" : "885463121",
-  "in_reply_to_user_id" : 657863,
-  "text" : "@kevinrose i think your tweet took down the BART site lol",
-  "id" : 885463121,
-  "in_reply_to_status_id" : 885457686,
-  "created_at" : "2008-08-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kevinrose",
-  "in_reply_to_user_id_str" : "657863",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "885486033",
-  "text" : "Manager at freddy's asked me if I was in jail with him. It was funny",
-  "id" : 885486033,
-  "created_at" : "2008-08-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daryl Hunter",
-      "screen_name" : "darylhunter",
-      "indices" : [ 0, 12 ],
-      "id_str" : "15576869",
-      "id" : 15576869
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "885528409",
-  "geo" : { },
-  "id_str" : "885568002",
-  "in_reply_to_user_id" : 15576869,
-  "text" : "@darylhunter http:\/\/twitpic.com\/7gu6 - love it. the pyramid is awesome. i didnt get a cake when i left secc...",
-  "id" : 885568002,
-  "in_reply_to_status_id" : 885528409,
-  "created_at" : "2008-08-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "darylhunter",
-  "in_reply_to_user_id_str" : "15576869",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -8791,6 +8791,83 @@ Grailbird.data.tweets_2008_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "881540562",
+  "text" : "getting started on some work aka calling apple",
+  "id" : 881540562,
+  "created_at" : "2008-08-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "881568624",
+  "text" : "just bought http:\/\/www.instantcocoa.com\/products\/pTerm\/",
+  "id" : 881568624,
+  "created_at" : "2008-08-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jesse Rohland",
+      "screen_name" : "jrohland",
+      "indices" : [ 0, 9 ],
+      "id_str" : "14357818",
+      "id" : 14357818
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "881610729",
+  "geo" : { },
+  "id_str" : "881611857",
+  "in_reply_to_user_id" : 14357818,
+  "text" : "@jrohland its not the best, but if you need to ssh and restart apache or something, it will get the job done",
+  "id" : 881611857,
+  "in_reply_to_status_id" : 881610729,
+  "created_at" : "2008-08-08 00:00:00 +0000",
+  "in_reply_to_screen_name" : "jrohland",
+  "in_reply_to_user_id_str" : "14357818",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "881625380",
   "text" : "playing with undocumented classes. I don't understand why Apple tries to hide things. UIScroller FTW",
   "id" : 881625380,
@@ -9006,38 +9083,27 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jesse Rohland",
+      "screen_name" : "jrohland",
+      "indices" : [ 0, 9 ],
+      "id_str" : "14357818",
+      "id" : 14357818
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "880802862",
   "geo" : { },
-  "id_str" : "881540562",
-  "text" : "getting started on some work aka calling apple",
-  "id" : 881540562,
-  "created_at" : "2008-08-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "881568624",
-  "text" : "just bought http:\/\/www.instantcocoa.com\/products\/pTerm\/",
-  "id" : 881568624,
-  "created_at" : "2008-08-08 00:00:00 +0000",
+  "id_str" : "880819820",
+  "in_reply_to_user_id" : 14357818,
+  "text" : "@jrohland sigur ros is simply amazing",
+  "id" : 880819820,
+  "in_reply_to_status_id" : 880802862,
+  "created_at" : "2008-08-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "jrohland",
+  "in_reply_to_user_id_str" : "14357818",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -9051,26 +9117,26 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jesse Rohland",
-      "screen_name" : "jrohland",
-      "indices" : [ 0, 9 ],
-      "id_str" : "14357818",
-      "id" : 14357818
+      "name" : "David Szpunar",
+      "screen_name" : "dszp",
+      "indices" : [ 0, 5 ],
+      "id_str" : "14277396",
+      "id" : 14277396
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "881610729",
+  "in_reply_to_status_id_str" : "880821182",
   "geo" : { },
-  "id_str" : "881611857",
-  "in_reply_to_user_id" : 14357818,
-  "text" : "@jrohland its not the best, but if you need to ssh and restart apache or something, it will get the job done",
-  "id" : 881611857,
-  "in_reply_to_status_id" : 881610729,
-  "created_at" : "2008-08-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jrohland",
-  "in_reply_to_user_id_str" : "14357818",
+  "id_str" : "880823578",
+  "in_reply_to_user_id" : 14277396,
+  "text" : "@dszp go for it! :)",
+  "id" : 880823578,
+  "in_reply_to_status_id" : 880821182,
+  "created_at" : "2008-08-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "dszp",
+  "in_reply_to_user_id_str" : "14277396",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -9471,72 +9537,6 @@ Grailbird.data.tweets_2008_08 =
   "created_at" : "2008-08-07 00:00:00 +0000",
   "in_reply_to_screen_name" : "mburleson",
   "in_reply_to_user_id_str" : "13798072",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jesse Rohland",
-      "screen_name" : "jrohland",
-      "indices" : [ 0, 9 ],
-      "id_str" : "14357818",
-      "id" : 14357818
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "880802862",
-  "geo" : { },
-  "id_str" : "880819820",
-  "in_reply_to_user_id" : 14357818,
-  "text" : "@jrohland sigur ros is simply amazing",
-  "id" : 880819820,
-  "in_reply_to_status_id" : 880802862,
-  "created_at" : "2008-08-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jrohland",
-  "in_reply_to_user_id_str" : "14357818",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "David Szpunar",
-      "screen_name" : "dszp",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14277396",
-      "id" : 14277396
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "880821182",
-  "geo" : { },
-  "id_str" : "880823578",
-  "in_reply_to_user_id" : 14277396,
-  "text" : "@dszp go for it! :)",
-  "id" : 880823578,
-  "in_reply_to_status_id" : 880821182,
-  "created_at" : "2008-08-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dszp",
-  "in_reply_to_user_id_str" : "14277396",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -10412,6 +10412,133 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "877558067",
+  "text" : "Learning UITableViewController. I've been missing out making my own. Apple knows how to make an OS and a solid framework. That is for sure.",
+  "id" : 877558067,
+  "created_at" : "2008-08-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "877583504",
+  "text" : "I just removed 4 files from the Bible project and about 100 lines of code in other files. It's a good day. optimizing is good",
+  "id" : 877583504,
+  "created_at" : "2008-08-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Szpunar",
+      "screen_name" : "dszp",
+      "indices" : [ 0, 5 ],
+      "id_str" : "14277396",
+      "id" : 14277396
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "877591171",
+  "geo" : { },
+  "id_str" : "877598532",
+  "in_reply_to_user_id" : 14277396,
+  "text" : "@dszp its going to be way better. can't wait to release it!",
+  "id" : 877598532,
+  "in_reply_to_status_id" : 877591171,
+  "created_at" : "2008-08-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "dszp",
+  "in_reply_to_user_id_str" : "14277396",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "877616286",
+  "text" : "there is a tour in the digerati office. soo many people... ahhh",
+  "id" : 877616286,
+  "created_at" : "2008-08-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "erick michael",
+      "screen_name" : "ErikMichael",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3001581172",
+      "id" : 3001581172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "877621403",
+  "text" : "@erikmichael not since we moved upstairs. there are tons if you work in the basement",
+  "id" : 877621403,
+  "created_at" : "2008-08-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "David Russell",
       "screen_name" : "davidrussell",
@@ -10878,133 +11005,6 @@ Grailbird.data.tweets_2008_08 =
   "id_str" : "877523798",
   "text" : "playing with new features",
   "id" : 877523798,
-  "created_at" : "2008-08-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "877558067",
-  "text" : "Learning UITableViewController. I've been missing out making my own. Apple knows how to make an OS and a solid framework. That is for sure.",
-  "id" : 877558067,
-  "created_at" : "2008-08-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "877583504",
-  "text" : "I just removed 4 files from the Bible project and about 100 lines of code in other files. It's a good day. optimizing is good",
-  "id" : 877583504,
-  "created_at" : "2008-08-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "David Szpunar",
-      "screen_name" : "dszp",
-      "indices" : [ 0, 5 ],
-      "id_str" : "14277396",
-      "id" : 14277396
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "877591171",
-  "geo" : { },
-  "id_str" : "877598532",
-  "in_reply_to_user_id" : 14277396,
-  "text" : "@dszp its going to be way better. can't wait to release it!",
-  "id" : 877598532,
-  "in_reply_to_status_id" : 877591171,
-  "created_at" : "2008-08-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dszp",
-  "in_reply_to_user_id_str" : "14277396",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "877616286",
-  "text" : "there is a tour in the digerati office. soo many people... ahhh",
-  "id" : 877616286,
-  "created_at" : "2008-08-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "erick michael",
-      "screen_name" : "ErikMichael",
-      "indices" : [ 0, 12 ],
-      "id_str" : "3001581172",
-      "id" : 3001581172
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "877621403",
-  "text" : "@erikmichael not since we moved upstairs. there are tons if you work in the basement",
-  "id" : 877621403,
   "created_at" : "2008-08-04 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -11537,6 +11537,149 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "mburleson",
+      "screen_name" : "mburleson",
+      "indices" : [ 0, 10 ],
+      "id_str" : "13798072",
+      "id" : 13798072
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "875748502",
+  "geo" : { },
+  "id_str" : "875753451",
+  "in_reply_to_user_id" : 13798072,
+  "text" : "@mburleson you mean to pay for all of your entertainment :)",
+  "id" : 875753451,
+  "in_reply_to_status_id" : 875748502,
+  "created_at" : "2008-08-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "mburleson",
+  "in_reply_to_user_id_str" : "13798072",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "875784341",
+  "text" : "installing trac is hard",
+  "id" : 875784341,
+  "created_at" : "2008-08-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Josh Turmel",
+      "screen_name" : "jturmel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14119419",
+      "id" : 14119419
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "875787403",
+  "geo" : { },
+  "id_str" : "875788758",
+  "in_reply_to_user_id" : 14119419,
+  "text" : "@jturmel i might",
+  "id" : 875788758,
+  "in_reply_to_status_id" : 875787403,
+  "created_at" : "2008-08-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "jturmel",
+  "in_reply_to_user_id_str" : "14119419",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Josh Turmel",
+      "screen_name" : "jturmel",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14119419",
+      "id" : 14119419
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "875800946",
+  "geo" : { },
+  "id_str" : "875804529",
+  "in_reply_to_user_id" : 14119419,
+  "text" : "@jturmel thought it was anniversary day today",
+  "id" : 875804529,
+  "in_reply_to_status_id" : 875800946,
+  "created_at" : "2008-08-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "jturmel",
+  "in_reply_to_user_id_str" : "14119419",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "875823237",
+  "text" : "working with document-based CoreData and Quartz Composer. fun fun",
+  "id" : 875823237,
+  "created_at" : "2008-08-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Sam McDonald",
       "screen_name" : "sammcd",
       "indices" : [ 0, 7 ],
@@ -11853,149 +11996,6 @@ Grailbird.data.tweets_2008_08 =
   "id_str" : "875753181",
   "text" : "just got subversion working. time to cancel unfuddle to save some money",
   "id" : 875753181,
-  "created_at" : "2008-08-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "mburleson",
-      "screen_name" : "mburleson",
-      "indices" : [ 0, 10 ],
-      "id_str" : "13798072",
-      "id" : 13798072
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "875748502",
-  "geo" : { },
-  "id_str" : "875753451",
-  "in_reply_to_user_id" : 13798072,
-  "text" : "@mburleson you mean to pay for all of your entertainment :)",
-  "id" : 875753451,
-  "in_reply_to_status_id" : 875748502,
-  "created_at" : "2008-08-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mburleson",
-  "in_reply_to_user_id_str" : "13798072",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "875784341",
-  "text" : "installing trac is hard",
-  "id" : 875784341,
-  "created_at" : "2008-08-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Josh Turmel",
-      "screen_name" : "jturmel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14119419",
-      "id" : 14119419
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "875787403",
-  "geo" : { },
-  "id_str" : "875788758",
-  "in_reply_to_user_id" : 14119419,
-  "text" : "@jturmel i might",
-  "id" : 875788758,
-  "in_reply_to_status_id" : 875787403,
-  "created_at" : "2008-08-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jturmel",
-  "in_reply_to_user_id_str" : "14119419",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Josh Turmel",
-      "screen_name" : "jturmel",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14119419",
-      "id" : 14119419
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "875800946",
-  "geo" : { },
-  "id_str" : "875804529",
-  "in_reply_to_user_id" : 14119419,
-  "text" : "@jturmel thought it was anniversary day today",
-  "id" : 875804529,
-  "in_reply_to_status_id" : 875800946,
-  "created_at" : "2008-08-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jturmel",
-  "in_reply_to_user_id_str" : "14119419",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "875823237",
-  "text" : "working with document-based CoreData and Quartz Composer. fun fun",
-  "id" : 875823237,
   "created_at" : "2008-08-02 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",

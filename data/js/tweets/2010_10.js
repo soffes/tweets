@@ -222,27 +222,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amy Van Buskirk",
-      "screen_name" : "AboutAnAmy",
-      "indices" : [ 0, 11 ],
-      "id_str" : "27182858",
-      "id" : 27182858
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "29252903971",
   "geo" : { },
   "id_str" : "29253140336",
-  "in_reply_to_user_id" : 27182858,
   "text" : "@AboutAnAmy didnt have a good halloween?",
   "id" : 29253140336,
-  "in_reply_to_status_id" : 29252903971,
   "created_at" : "2010-10-31 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AboutAnAmy",
-  "in_reply_to_user_id_str" : "27182858",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -256,7 +245,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -667,7 +656,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Don't @ Anyone",
+      "name" : "\u2744\uFE0Fchriseppstein",
       "screen_name" : "chriseppstein",
       "indices" : [ 0, 14 ],
       "id_str" : "14148091",
@@ -731,7 +720,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u1D20\u1D00\u0274\u1D04\u1D07 \u029F\u1D1C\u1D04\u1D00s",
+      "name" : "Vance Lucas",
       "screen_name" : "vlucas",
       "indices" : [ 0, 7 ],
       "id_str" : "15908145",
@@ -972,7 +961,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -1313,7 +1302,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "royclarkson",
+      "name" : "RC",
       "screen_name" : "royclarkson",
       "indices" : [ 0, 12 ],
       "id_str" : "14846645",
@@ -1346,7 +1335,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "royclarkson",
+      "name" : "RC",
       "screen_name" : "royclarkson",
       "indices" : [ 0, 12 ],
       "id_str" : "14846645",
@@ -1485,7 +1474,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Coffman \uD83C\uDFC3\uD83C\uDFFB",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFD\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 0, 12 ],
       "id_str" : "18644328",
@@ -1582,7 +1571,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615416134846709760\/AySGnpwP_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920006896723091456\/CnqUgW3r_normal.png",
       "id" : 6503412,
       "verified" : true
     }
@@ -2218,7 +2207,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Coffman \uD83C\uDFC3\uD83C\uDFFB",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFD\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 0, 12 ],
       "id_str" : "18644328",
@@ -2381,7 +2370,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Coffman \uD83C\uDFC3\uD83C\uDFFB",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFD\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 0, 12 ],
       "id_str" : "18644328",
@@ -2426,7 +2415,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "58103",
       "id" : 58103
     }, {
-      "name" : "Phil Coffman \uD83C\uDFC3\uD83C\uDFFB",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFD\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 69, 81 ],
       "id_str" : "18644328",
@@ -2877,13 +2866,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "derek",
-      "screen_name" : "helloderek",
-      "indices" : [ 0, 11 ],
-      "id_str" : "385178664",
-      "id" : 385178664
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2917,7 +2900,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "781929",
       "id" : 781929
     }, {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 88, 100 ],
       "id_str" : "658643",
@@ -3149,7 +3132,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : true
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.petitionspot.com\" rel=\"nofollow\"\u003EPetitionspot\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased4443.com\" rel=\"nofollow\"\u003Eerased4443\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3403,7 +3386,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -3439,7 +3422,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -4099,7 +4082,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Donnie Millar",
+      "name" : "dmillar",
       "screen_name" : "dmillar",
       "indices" : [ 0, 8 ],
       "id_str" : "412818023",
@@ -4888,7 +4871,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "pilky",
       "protected" : false,
       "id_str" : "14237896",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/507171047066832896\/d88BFkLQ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925376228672012288\/yRQYrWVQ_normal.jpg",
       "id" : 14237896,
       "verified" : false
     }
@@ -6961,7 +6944,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
+      "name" : "Firefox \uD83D\uDD25",
       "screen_name" : "firefox",
       "indices" : [ 3, 11 ],
       "id_str" : "2142731",
@@ -6988,11 +6971,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27855967391,
     "created_at" : "2010-10-19 18:05:29 +0000",
     "user" : {
-      "name" : "Firefox \uD83E\uDD8A\uD83C\uDF0D",
+      "name" : "Firefox \uD83D\uDD25",
       "screen_name" : "firefox",
       "protected" : false,
       "id_str" : "2142731",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747872627218350081\/37FasHm-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930427008173080576\/_AgS8Urc_normal.jpg",
       "id" : 2142731,
       "verified" : true
     }
@@ -7162,7 +7145,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "8675502",
       "id" : 8675502
     }, {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 8, 20 ],
       "id_str" : "658643",
@@ -7195,7 +7178,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -7228,7 +7211,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -7931,7 +7914,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -7995,7 +7978,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Terry Apodaca \u0166",
+      "name" : "Terry Apodaca",
       "screen_name" : "terryapodaca",
       "indices" : [ 0, 13 ],
       "id_str" : "51793",
@@ -8028,7 +8011,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -8061,7 +8044,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -8180,7 +8163,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "mattdavey",
       "protected" : false,
       "id_str" : "17593",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838041786262048772\/ngSljsPH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/902496821695705088\/ha_s3Su-_normal.jpg",
       "id" : 17593,
       "verified" : false
     }
@@ -8747,27 +8730,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amy Van Buskirk",
-      "screen_name" : "AboutAnAmy",
-      "indices" : [ 0, 11 ],
-      "id_str" : "27182858",
-      "id" : 27182858
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "27515677888",
   "geo" : { },
   "id_str" : "27517151680",
-  "in_reply_to_user_id" : 27182858,
   "text" : "@AboutAnAmy well you know :)",
   "id" : 27517151680,
-  "in_reply_to_status_id" : 27515677888,
   "created_at" : "2010-10-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AboutAnAmy",
-  "in_reply_to_user_id_str" : "27182858",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -8780,27 +8752,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amy Van Buskirk",
-      "screen_name" : "AboutAnAmy",
-      "indices" : [ 0, 11 ],
-      "id_str" : "27182858",
-      "id" : 27182858
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "27515677888",
   "geo" : { },
   "id_str" : "27518113366",
-  "in_reply_to_user_id" : 27182858,
   "text" : "@AboutAnAmy sometimes I wish I would have gone. There's good and bad",
   "id" : 27518113366,
-  "in_reply_to_status_id" : 27515677888,
   "created_at" : "2010-10-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AboutAnAmy",
-  "in_reply_to_user_id_str" : "27182858",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -9088,27 +9049,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amy Van Buskirk",
-      "screen_name" : "AboutAnAmy",
-      "indices" : [ 0, 11 ],
-      "id_str" : "27182858",
-      "id" : 27182858
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "27479332120",
   "geo" : { },
   "id_str" : "27479511176",
-  "in_reply_to_user_id" : 27182858,
   "text" : "@AboutAnAmy yay college :)",
   "id" : 27479511176,
-  "in_reply_to_status_id" : 27479332120,
   "created_at" : "2010-10-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AboutAnAmy",
-  "in_reply_to_user_id_str" : "27182858",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -9121,27 +9071,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amy Van Buskirk",
-      "screen_name" : "AboutAnAmy",
-      "indices" : [ 0, 11 ],
-      "id_str" : "27182858",
-      "id" : 27182858
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "27482279263",
   "geo" : { },
   "id_str" : "27488786452",
-  "in_reply_to_user_id" : 27182858,
   "text" : "@AboutAnAmy I'm a pretty smart guy, what can I say :)",
   "id" : 27488786452,
-  "in_reply_to_status_id" : 27482279263,
   "created_at" : "2010-10-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AboutAnAmy",
-  "in_reply_to_user_id_str" : "27182858",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -9304,7 +9243,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "indices" : [ 3, 15 ],
       "id_str" : "658643",
@@ -9343,11 +9282,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27452771560,
     "created_at" : "2010-10-15 15:37:00 +0000",
     "user" : {
-      "name" : "Steve Streza \uD83C\uDF39",
+      "name" : "Steve Streza \uD83C\uDF39 [on hiatus] (he\/they)",
       "screen_name" : "SteveStreza",
       "protected" : false,
       "id_str" : "658643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823672050640416768\/T3Va_rMy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/919096611019489280\/eF9MvfqL_normal.jpg",
       "id" : 658643,
       "verified" : true
     }
@@ -9556,7 +9495,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Don't @ Anyone",
+      "name" : "\u2744\uFE0Fchriseppstein",
       "screen_name" : "chriseppstein",
       "indices" : [ 0, 14 ],
       "id_str" : "14148091",
@@ -9898,7 +9837,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Terry Apodaca \u0166",
+      "name" : "Terry Apodaca",
       "screen_name" : "terryapodaca",
       "indices" : [ 0, 13 ],
       "id_str" : "51793",
@@ -9953,7 +9892,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Terry Apodaca \u0166",
+      "name" : "Terry Apodaca",
       "screen_name" : "terryapodaca",
       "indices" : [ 0, 13 ],
       "id_str" : "51793",
@@ -11393,7 +11332,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27009447377,
   "in_reply_to_status_id" : 26888115850,
   "created_at" : "2010-10-11 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jessicaram_z",
+  "in_reply_to_screen_name" : "jesskrencicki_",
   "in_reply_to_user_id_str" : "26400919",
   "user" : {
     "name" : "Sam Soffes",
@@ -11491,7 +11430,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u1D20\u1D00\u0274\u1D04\u1D07 \u029F\u1D1C\u1D04\u1D00s",
+      "name" : "Vance Lucas",
       "screen_name" : "vlucas",
       "indices" : [ 0, 7 ],
       "id_str" : "15908145",
@@ -11524,7 +11463,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u1D20\u1D00\u0274\u1D04\u1D07 \u029F\u1D1C\u1D04\u1D00s",
+      "name" : "Vance Lucas",
       "screen_name" : "vlucas",
       "indices" : [ 0, 7 ],
       "id_str" : "15908145",
@@ -11689,7 +11628,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dick",
+      "name" : "Dick",
       "screen_name" : "michaeldick",
       "indices" : [ 0, 12 ],
       "id_str" : "6023772",
@@ -11984,7 +11923,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26769296068,
   "in_reply_to_status_id" : 26765745710,
   "created_at" : "2010-10-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jessicaram_z",
+  "in_reply_to_screen_name" : "jesskrencicki_",
   "in_reply_to_user_id_str" : "26400919",
   "user" : {
     "name" : "Sam Soffes",
@@ -12050,7 +11989,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26769632009,
   "in_reply_to_status_id" : 26769431576,
   "created_at" : "2010-10-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jessicaram_z",
+  "in_reply_to_screen_name" : "jesskrencicki_",
   "in_reply_to_user_id_str" : "26400919",
   "user" : {
     "name" : "Sam Soffes",
@@ -12083,7 +12022,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26770138184,
   "in_reply_to_status_id" : 26769729915,
   "created_at" : "2010-10-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jessicaram_z",
+  "in_reply_to_screen_name" : "jesskrencicki_",
   "in_reply_to_user_id_str" : "26400919",
   "user" : {
     "name" : "Sam Soffes",
@@ -12104,7 +12043,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14133698",
       "id" : 14133698
     }, {
-      "name" : "\/usr\/sbin\/communism",
+      "name" : "Karl Marx Admirer",
       "screen_name" : "cbarrett",
       "indices" : [ 120, 129 ],
       "id_str" : "3562421",
@@ -12121,7 +12060,7 @@ Grailbird.data.tweets_2010_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\/usr\/sbin\/communism",
+        "name" : "Karl Marx Admirer",
         "screen_name" : "cbarrett",
         "indices" : [ 102, 111 ],
         "id_str" : "3562421",
@@ -12379,7 +12318,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "flyosity",
       "protected" : false,
       "id_str" : "10545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602900681050169345\/IzexW5Sy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942835183480426497\/wHhpDFKY_normal.jpg",
       "id" : 10545,
       "verified" : true
     }
@@ -13929,7 +13868,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "royclarkson",
+      "name" : "RC",
       "screen_name" : "royclarkson",
       "indices" : [ 0, 12 ],
       "id_str" : "14846645",
@@ -14232,7 +14171,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Hemphill",
+      "name" : "David Blockchain Hemphill",
       "screen_name" : "davidhemphill",
       "indices" : [ 0, 14 ],
       "id_str" : "21583",
@@ -14455,7 +14394,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26485334083,
   "in_reply_to_status_id" : 26485229963,
   "created_at" : "2010-10-05 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jessicaram_z",
+  "in_reply_to_screen_name" : "jesskrencicki_",
   "in_reply_to_user_id_str" : "26400919",
   "user" : {
     "name" : "Sam Soffes",
@@ -14556,57 +14495,6 @@ Grailbird.data.tweets_2010_10 =
   "created_at" : "2010-10-04 00:00:00 +0000",
   "in_reply_to_screen_name" : "brianvinson",
   "in_reply_to_user_id_str" : "7490832",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
-      "screen_name" : "al3x",
-      "indices" : [ 3, 8 ],
-      "id_str" : "18713",
-      "id" : 18713
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26333605064",
-  "text" : "RT @al3x: Also, re \"The Social Network\": it was really good. Great writing, crisp editing, great photography. Loved the Trent Reznor sou ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "26333144414",
-    "text" : "Also, re \"The Social Network\": it was really good. Great writing, crisp editing, great photography. Loved the Trent Reznor soundtrack.",
-    "id" : 26333144414,
-    "created_at" : "2010-10-04 04:20:05 +0000",
-    "user" : {
-      "name" : "Alex Payne \uD83C\uDF39",
-      "screen_name" : "al3x",
-      "protected" : false,
-      "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697959498711830528\/glceGyFI_normal.png",
-      "id" : 18713,
-      "verified" : false
-    }
-  },
-  "id" : 26333605064,
-  "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -14766,7 +14654,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "flyosity",
       "protected" : false,
       "id_str" : "10545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602900681050169345\/IzexW5Sy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942835183480426497\/wHhpDFKY_normal.jpg",
       "id" : 10545,
       "verified" : true
     }
@@ -14942,7 +14830,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26128434452,
   "in_reply_to_status_id" : 26128274765,
   "created_at" : "2010-10-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jessicaram_z",
+  "in_reply_to_screen_name" : "jesskrencicki_",
   "in_reply_to_user_id_str" : "26400919",
   "user" : {
     "name" : "Sam Soffes",

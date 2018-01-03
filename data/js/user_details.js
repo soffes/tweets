@@ -1,8 +1,8 @@
 var user_details =  {
   "screen_name" : "soffes",
-  "location" : "Louisville, KY",
+  "location" : "San Francisco, CA",
   "full_name" : "Sam Soffes",
-  "bio" : "Developer & designer.  Overly passionate about motorcycles, scuba, and burgers.",
+  "bio" : "Developer & designer. iOS @lyft. Overly passionate about motorcycles & scuba.",
   "id" : "6154602",
   "created_at" : "2007-05-19 05:48:08 +0000"
 }
