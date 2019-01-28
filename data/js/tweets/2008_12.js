@@ -102,6 +102,28 @@ Grailbird.data.tweets_2008_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1087157180",
+  "text" : "got most of my freelance done tonight. glad its almost all off my plate",
+  "id" : 1087157180,
+  "created_at" : "2008-12-31 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1087168867",
   "text" : "walking away from something i should have walked away from a long time ago. so proud",
   "id" : 1087168867,
@@ -217,7 +239,13 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Ron OkJedi",
+      "screen_name" : "okjedi",
+      "indices" : [ 0, 7 ],
+      "id_str" : "1059631638496399361",
+      "id" : 1059631638496399361
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -553,7 +581,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "INTERNET GHOST \uD83D\uDC80",
+      "name" : "HEMPHILL",
       "screen_name" : "davidhemphill",
       "indices" : [ 0, 14 ],
       "id_str" : "21583",
@@ -647,7 +675,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "INTERNET GHOST \uD83D\uDC80",
+      "name" : "HEMPHILL",
       "screen_name" : "davidhemphill",
       "indices" : [ 0, 14 ],
       "id_str" : "21583",
@@ -904,28 +932,6 @@ Grailbird.data.tweets_2008_12 =
   "created_at" : "2008-12-31 00:00:00 +0000",
   "in_reply_to_screen_name" : "cgreentx",
   "in_reply_to_user_id_str" : "14299397",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1087157180",
-  "text" : "got most of my freelance done tonight. glad its almost all off my plate",
-  "id" : 1087157180,
-  "created_at" : "2008-12-31 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -2090,6 +2096,28 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1082683607",
+  "text" : "maintenance is on their way. i told her its like all over the floor. she was like ooooo gross. lol",
+  "id" : 1082683607,
+  "created_at" : "2008-12-28 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Jes\u2764",
       "screen_name" : "jessicaknows",
@@ -2497,28 +2525,6 @@ Grailbird.data.tweets_2008_12 =
   "id_str" : "1082680496",
   "text" : "so my drainage in my apt is jacked up. toilet is overflowing on the floor and backing up into the tub. crap",
   "id" : 1082680496,
-  "created_at" : "2008-12-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1082683607",
-  "text" : "maintenance is on their way. i told her its like all over the floor. she was like ooooo gross. lol",
-  "id" : 1082683607,
   "created_at" : "2008-12-28 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -3239,6 +3245,39 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Josh Shea",
+      "screen_name" : "joshshea",
+      "indices" : [ 0, 9 ],
+      "id_str" : "14187524",
+      "id" : 14187524
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1074914146",
+  "geo" : { },
+  "id_str" : "1074916328",
+  "in_reply_to_user_id" : 14187524,
+  "text" : "@joshshea i think it should be our digerati 20",
+  "id" : 1074916328,
+  "in_reply_to_status_id" : 1074914146,
+  "created_at" : "2008-12-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "joshshea",
+  "in_reply_to_user_id_str" : "14187524",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "John Otjen",
       "screen_name" : "johnotjen",
       "indices" : [ 0, 10 ],
@@ -3591,39 +3630,6 @@ Grailbird.data.tweets_2008_12 =
   "text" : "funny http:\/\/tinyurl.com\/gda98",
   "id" : 1074911030,
   "created_at" : "2008-12-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Josh Shea",
-      "screen_name" : "joshshea",
-      "indices" : [ 0, 9 ],
-      "id_str" : "14187524",
-      "id" : 14187524
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1074914146",
-  "geo" : { },
-  "id_str" : "1074916328",
-  "in_reply_to_user_id" : 14187524,
-  "text" : "@joshshea i think it should be our digerati 20",
-  "id" : 1074916328,
-  "in_reply_to_status_id" : 1074914146,
-  "created_at" : "2008-12-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "joshshea",
-  "in_reply_to_user_id_str" : "14187524",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4297,12 +4303,6 @@ Grailbird.data.tweets_2008_12 =
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
       "id" : 1567322352
-    }, {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 37, 46 ],
-      "id_str" : "15934542",
-      "id" : 15934542
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4473,6 +4473,39 @@ Grailbird.data.tweets_2008_12 =
   "text" : "awesome day today. got a ton done.",
   "id" : 1065983424,
   "created_at" : "2008-12-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "jt",
+      "screen_name" : "jt",
+      "indices" : [ 0, 3 ],
+      "id_str" : "1567322352",
+      "id" : 1567322352
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1062210814",
+  "geo" : { },
+  "id_str" : "1062215140",
+  "in_reply_to_user_id" : 14119419,
+  "text" : "@jt yay native scrolling",
+  "id" : 1062215140,
+  "in_reply_to_status_id" : 1062210814,
+  "created_at" : "2008-12-17 00:00:00 +0000",
+  "in_reply_to_screen_name" : "jturmel",
+  "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4716,27 +4749,16 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1063365540",
   "geo" : { },
   "id_str" : "1063630045",
-  "in_reply_to_user_id" : 15934542,
   "text" : "@duregger's ringtone. wow",
   "id" : 1063630045,
-  "in_reply_to_status_id" : 1063365540,
   "created_at" : "2008-12-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "duregger",
-  "in_reply_to_user_id_str" : "15934542",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4781,39 +4803,6 @@ Grailbird.data.tweets_2008_12 =
   "text" : "my neighbors got the new fall out boy cd. dang. at least i like john mayer",
   "id" : 1061980833,
   "created_at" : "2008-12-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "jt",
-      "screen_name" : "jt",
-      "indices" : [ 0, 3 ],
-      "id_str" : "1567322352",
-      "id" : 1567322352
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1062210814",
-  "geo" : { },
-  "id_str" : "1062215140",
-  "in_reply_to_user_id" : 14119419,
-  "text" : "@jt yay native scrolling",
-  "id" : 1062215140,
-  "in_reply_to_status_id" : 1062210814,
-  "created_at" : "2008-12-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jturmel",
-  "in_reply_to_user_id_str" : "14119419",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6065,6 +6054,28 @@ Grailbird.data.tweets_2008_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1052105211",
+  "text" : "the word of the day is refactoring",
+  "id" : 1052105211,
+  "created_at" : "2008-12-11 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1050624860",
   "text" : "i went to bed at 6pm and just woke up. im screwed. hopefully i can go back to sleep soon",
   "id" : 1050624860,
@@ -6322,28 +6333,6 @@ Grailbird.data.tweets_2008_12 =
   "created_at" : "2008-12-11 00:00:00 +0000",
   "in_reply_to_screen_name" : "sunnythomas",
   "in_reply_to_user_id_str" : "14160713",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1052105211",
-  "text" : "the word of the day is refactoring",
-  "id" : 1052105211,
-  "created_at" : "2008-12-11 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -7231,6 +7220,28 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1043165216",
+  "text" : "files for london experience and second life are up. time for a little programming then bed",
+  "id" : 1043165216,
+  "created_at" : "2008-12-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Trimonix",
       "screen_name" : "trimonix",
@@ -7375,28 +7386,6 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1043165216",
-  "text" : "files for london experience and second life are up. time for a little programming then bed",
-  "id" : 1043165216,
-  "created_at" : "2008-12-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Candace Hamilton",
       "screen_name" : "candaceh",
@@ -7518,27 +7507,16 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1041581976",
   "geo" : { },
   "id_str" : "1042358440",
-  "in_reply_to_user_id" : 15934542,
   "text" : "@duregger i love that sleeping at last album. you rock",
   "id" : 1042358440,
-  "in_reply_to_status_id" : 1041581976,
   "created_at" : "2008-12-06 00:00:00 +0000",
-  "in_reply_to_screen_name" : "duregger",
-  "in_reply_to_user_id_str" : "15934542",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -8328,13 +8306,7 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 8, 17 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8344,6 +8316,34 @@ Grailbird.data.tweets_2008_12 =
   "text" : "Retweet @duregger: Blackberry Bible App Version 1.0 - Get it now - http:\/\/www.youversion.com\/bb",
   "id" : 1041068436,
   "created_at" : "2008-12-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Terry Storch",
+      "screen_name" : "TerryStorch",
+      "indices" : [ 3, 15 ],
+      "id_str" : "1413801",
+      "id" : 1413801
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1038248244",
+  "text" : "RT @terrystorch: Current iPhone Bible stats: 540k unique users, over 153 million mins of total scripture engagement, over 120 countries. Wow",
+  "id" : 1038248244,
+  "created_at" : "2008-12-04 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -8873,34 +8873,6 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Terry Storch",
-      "screen_name" : "TerryStorch",
-      "indices" : [ 3, 15 ],
-      "id_str" : "1413801",
-      "id" : 1413801
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1038248244",
-  "text" : "RT @terrystorch: Current iPhone Bible stats: 540k unique users, over 153 million mins of total scripture engagement, over 120 countries. Wow",
-  "id" : 1038248244,
-  "created_at" : "2008-12-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9272,12 +9244,6 @@ Grailbird.data.tweets_2008_12 =
       "indices" : [ 0, 12 ],
       "id_str" : "7270732",
       "id" : 7270732
-    }, {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 24, 33 ],
-      "id_str" : "15934542",
-      "id" : 15934542
     }, {
       "name" : "Bobby Gruenewald",
       "screen_name" : "bobbygwald",

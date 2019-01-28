@@ -267,6 +267,28 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "981789619",
+  "text" : "sleep finally",
+  "id" : 981789619,
+  "created_at" : "2008-10-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "982207275",
   "text" : "working on the new icampus",
   "id" : 982207275,
@@ -603,28 +625,6 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "981789619",
-  "text" : "sleep finally",
-  "id" : 981789619,
-  "created_at" : "2008-10-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "979826062",
   "text" : "http:\/\/twitpic.com\/ioth - Scraping glue off the floor",
   "id" : 979826062,
@@ -845,13 +845,7 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 63, 72 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1578,6 +1572,28 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "977667934",
+  "text" : "http:\/\/twitpic.com\/igkv - Tony and his fuzzy friend",
+  "id" : 977667934,
+  "created_at" : "2008-10-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "977764330",
   "text" : "Mortgage application time... Fun",
   "id" : 977764330,
@@ -2025,28 +2041,6 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "977667934",
-  "text" : "http:\/\/twitpic.com\/igkv - Tony and his fuzzy friend",
-  "id" : 977667934,
-  "created_at" : "2008-10-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "975834718",
   "text" : "Had an awesome day. Can't wait to play tomorrow morning. I'm going to try to TwitPic from the stage :)",
   "id" : 975834718,
@@ -2415,6 +2409,28 @@ Grailbird.data.tweets_2008_10 =
   "text" : "Show was sweet! Headed to dinner",
   "id" : 975526941,
   "created_at" : "2008-10-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "973802451",
+  "text" : "you think you have a crappy job http:\/\/tinyurl.com\/t3uo",
+  "id" : 973802451,
+  "created_at" : "2008-10-24 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -3336,28 +3352,6 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "973802451",
-  "text" : "you think you have a crappy job http:\/\/tinyurl.com\/t3uo",
-  "id" : 973802451,
-  "created_at" : "2008-10-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "971279318",
   "text" : "LifeGroup then food",
   "id" : 971279318,
@@ -3964,6 +3958,28 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "968519965",
+  "text" : "new blog post. soundcloud is sweet http:\/\/tinyurl.com\/sssciw",
+  "id" : 968519965,
+  "created_at" : "2008-10-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "968801958",
   "text" : "Just ran. Yes, I got up at 6:30 and ran (granted it wasn't that far, but it's a start). Anyone know any good pools in Edmond",
   "id" : 968801958,
@@ -4450,28 +4466,6 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "968519965",
-  "text" : "new blog post. soundcloud is sweet http:\/\/tinyurl.com\/sssciw",
-  "id" : 968519965,
-  "created_at" : "2008-10-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "966799444",
   "text" : "Watching a movie with lots of people",
   "id" : 966799444,
@@ -4797,13 +4791,7 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 48, 57 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4924,27 +4912,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "967612549",
   "geo" : { },
   "id_str" : "968042570",
-  "in_reply_to_user_id" : 15934542,
   "text" : "@duregger just brushed his teeth at his desk... lol",
   "id" : 968042570,
-  "in_reply_to_status_id" : 967612549,
   "created_at" : "2008-10-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "duregger",
-  "in_reply_to_user_id_str" : "15934542",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -5459,13 +5436,7 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 26, 35 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5515,6 +5486,28 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "960244780",
+  "text" : "trying to head to bed, but all i can think about is that macbook pro :)",
+  "id" : 960244780,
+  "created_at" : "2008-10-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "960771271",
   "text" : "the open team is up here hanging out since the san is down",
   "id" : 960771271,
@@ -5531,27 +5524,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "960502243",
   "geo" : { },
   "id_str" : "960879293",
-  "in_reply_to_user_id" : 15934542,
   "text" : "@duregger just said \"email is my life and its not working...\"",
   "id" : 960879293,
-  "in_reply_to_status_id" : 960502243,
   "created_at" : "2008-10-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "duregger",
-  "in_reply_to_user_id_str" : "15934542",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6263,10 +6245,10 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "960244780",
-  "text" : "trying to head to bed, but all i can think about is that macbook pro :)",
-  "id" : 960244780,
-  "created_at" : "2008-10-15 00:00:00 +0000",
+  "id_str" : "958372705",
+  "text" : "rocking some hollow up here in the digerati office http:\/\/myspace.com\/hollowrock",
+  "id" : 958372705,
+  "created_at" : "2008-10-14 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6301,27 +6283,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "958621737",
   "geo" : { },
   "id_str" : "958622727",
-  "in_reply_to_user_id" : 15934542,
   "text" : "@duregger  \"Good conversations this evening with multiple dudes\"",
   "id" : 958622727,
-  "in_reply_to_status_id" : 958621737,
   "created_at" : "2008-10-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "duregger",
-  "in_reply_to_user_id_str" : "15934542",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6830,12 +6801,6 @@ Grailbird.data.tweets_2008_10 =
       "indices" : [ 9, 14 ],
       "id_str" : "14606085",
       "id" : 14606085
-    }, {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 18, 27 ],
-      "id_str" : "15934542",
-      "id" : 15934542
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6913,27 +6878,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "959712608",
   "geo" : { },
   "id_str" : "959713523",
-  "in_reply_to_user_id" : 15934542,
   "text" : "@duregger summary: i won",
   "id" : 959713523,
-  "in_reply_to_status_id" : 959712608,
   "created_at" : "2008-10-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "duregger",
-  "in_reply_to_user_id_str" : "15934542",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6946,27 +6900,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "959715412",
   "geo" : { },
   "id_str" : "959717845",
-  "in_reply_to_user_id" : 15934542,
   "text" : "@duregger the argument wasnt about which is better (because that is jquery) the argument was about which has better animations (mootools)",
   "id" : 959717845,
-  "in_reply_to_status_id" : 959715412,
   "created_at" : "2008-10-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "duregger",
-  "in_reply_to_user_id_str" : "15934542",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -7082,28 +7025,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "959794932",
   "text" : "giving up fighting with swift, sendmail, and smtp. hopefully it will just magically work tomorrow...",
   "id" : 959794932,
-  "created_at" : "2008-10-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "958372705",
-  "text" : "rocking some hollow up here in the digerati office http:\/\/myspace.com\/hollowrock",
-  "id" : 958372705,
   "created_at" : "2008-10-14 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -7530,13 +7451,7 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 8, 17 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7893,6 +7808,28 @@ Grailbird.data.tweets_2008_10 =
   "text" : "Watching football. I have no idea whats going on",
   "id" : 955602644,
   "created_at" : "2008-10-11 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "953791945",
+  "text" : "headed to bed so i can get to work early and finish up bible 1.6",
+  "id" : 953791945,
+  "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -8439,27 +8376,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "953718025",
   "geo" : { },
   "id_str" : "953724533",
-  "in_reply_to_user_id" : 15934542,
   "text" : "@duregger good work. keep trying",
   "id" : 953724533,
-  "in_reply_to_status_id" : 953718025,
   "created_at" : "2008-10-10 00:00:00 +0000",
-  "in_reply_to_screen_name" : "duregger",
-  "in_reply_to_user_id_str" : "15934542",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -8608,28 +8534,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "953750057",
   "text" : "http:\/\/twitpic.com\/fenz - Look at me writing about the deep meaning of my song",
   "id" : 953750057,
-  "created_at" : "2008-10-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "953791945",
-  "text" : "headed to bed so i can get to work early and finish up bible 1.6",
-  "id" : 953791945,
   "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -8974,13 +8878,7 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 65, 74 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -9155,6 +9053,28 @@ Grailbird.data.tweets_2008_10 =
   "created_at" : "2008-10-09 00:00:00 +0000",
   "in_reply_to_screen_name" : "darylhunter",
   "in_reply_to_user_id_str" : "15576869",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "950947796",
+  "text" : "actually iTunes is being slow. try http:\/\/samsoff.es\/music if you want to listen right now",
+  "id" : 950947796,
+  "created_at" : "2008-10-08 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -9759,28 +9679,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "950946530",
   "text" : "just finished another rough cut of a song. check it out http:\/\/tinyurl.com\/sspodcast",
   "id" : 950946530,
-  "created_at" : "2008-10-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "950947796",
-  "text" : "actually iTunes is being slow. try http:\/\/samsoff.es\/music if you want to listen right now",
-  "id" : 950947796,
   "created_at" : "2008-10-08 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -10566,6 +10464,28 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "948379786",
+  "text" : "preparing to send out the Bible 1.5 beta",
+  "id" : 948379786,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Rebecca Sanchez",
       "screen_name" : "InGrace",
@@ -10959,12 +10879,6 @@ Grailbird.data.tweets_2008_10 =
       "indices" : [ 35, 47 ],
       "id_str" : "14101330",
       "id" : 14101330
-    }, {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 53, 62 ],
-      "id_str" : "15934542",
-      "id" : 15934542
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -11117,28 +11031,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "948333028",
   "text" : "answered email, time to get going on the final touches of 1.5 and push to beta testers. rocking some postal service",
   "id" : 948333028,
-  "created_at" : "2008-10-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "948379786",
-  "text" : "preparing to send out the Bible 1.5 beta",
-  "id" : 948379786,
   "created_at" : "2008-10-06 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -11494,7 +11386,13 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "I N",
+      "screen_name" : "ingraces",
+      "indices" : [ 10, 19 ],
+      "id_str" : "1075603463034286080",
+      "id" : 1075603463034286080
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

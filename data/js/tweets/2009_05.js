@@ -850,6 +850,28 @@ Grailbird.data.tweets_2009_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1953412483",
+  "text" : "Pics from our show http:\/\/www.flickr.com\/photos\/samsoffes\/sets\/72157618933105044\/",
+  "id" : 1953412483,
+  "created_at" : "2009-05-28 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1943493702",
   "text" : "Band practice was awesome. Pumped for our show tomorrow",
   "id" : 1943493702,
@@ -959,28 +981,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1953213869",
   "text" : "played an awesome show today. rocked my bell on viva la vida",
   "id" : 1953213869,
-  "created_at" : "2009-05-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1953412483",
-  "text" : "Pics from our show http:\/\/www.flickr.com\/photos\/samsoffes\/sets\/72157618933105044\/",
-  "id" : 1953412483,
   "created_at" : "2009-05-28 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -2006,6 +2006,28 @@ Grailbird.data.tweets_2009_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1861705478",
+  "text" : "iTunes Genius is doing a good job at choosing a chill playlist. I love that thing",
+  "id" : 1861705478,
+  "created_at" : "2009-05-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1863659152",
   "text" : "You when there are those \"that's what she said\" moments but you're not sure if they'll laugh or think you're dumb. I just keep it to myself",
   "id" : 1863659152,
@@ -2090,28 +2112,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1860552589",
   "text" : "the #macdev irc channel is usually super helpful. #iphonedev is the opposite of helpful, but im in #macdev so its all good :)",
   "id" : 1860552589,
-  "created_at" : "2009-05-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1861705478",
-  "text" : "iTunes Genius is doing a good job at choosing a chill playlist. I love that thing",
-  "id" : 1861705478,
   "created_at" : "2009-05-20 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -3078,6 +3078,28 @@ Grailbird.data.tweets_2009_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1789772571",
+  "text" : "http:\/\/twitpic.com\/54hz0 - Nemesis.",
+  "id" : 1789772571,
+  "created_at" : "2009-05-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1790081432",
   "text" : "http:\/\/twitpic.com\/54kmm - Success. Take that pole",
   "id" : 1790081432,
@@ -3188,30 +3210,8 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1789772571",
-  "text" : "http:\/\/twitpic.com\/54hz0 - Nemesis.",
-  "id" : 1789772571,
-  "created_at" : "2009-05-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
-      "name" : "Dark Mo",
+      "name" : "Chad Henderson",
       "screen_name" : "elmofromok",
       "indices" : [ 66, 77 ],
       "id_str" : "4444",
@@ -4259,6 +4259,28 @@ Grailbird.data.tweets_2009_05 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1752675483",
+  "text" : "every time i have ever tweeted im going to bed at 9 i have ended up staying up super late watching hulu. tonight follows that same pattern",
+  "id" : 1752675483,
+  "created_at" : "2009-05-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "secretproject",
       "indices" : [ 11, 25 ]
@@ -4633,28 +4655,6 @@ Grailbird.data.tweets_2009_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1752675483",
-  "text" : "every time i have ever tweeted im going to bed at 9 i have ended up staying up super late watching hulu. tonight follows that same pattern",
-  "id" : 1752675483,
-  "created_at" : "2009-05-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "1741879145",
   "text" : "http:\/\/twitpic.com\/4t930 - I'm getting DWs!",
   "id" : 1741879145,
@@ -4715,13 +4715,7 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sam DuRegger",
-      "screen_name" : "duregger",
-      "indices" : [ 81, 90 ],
-      "id_str" : "15934542",
-      "id" : 15934542
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4859,7 +4853,13 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Ron OkJedi",
+      "screen_name" : "okjedi",
+      "indices" : [ 0, 7 ],
+      "id_str" : "1059631638496399361",
+      "id" : 1059631638496399361
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5124,7 +5124,7 @@ Grailbird.data.tweets_2009_05 =
   "id" : 1739132354,
   "in_reply_to_status_id" : 1738688951,
   "created_at" : "2009-05-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "BetsyRifka",
+  "in_reply_to_screen_name" : "Apples22222222",
   "in_reply_to_user_id_str" : "19612029",
   "user" : {
     "name" : "Sam Soffes",
@@ -5430,6 +5430,28 @@ Grailbird.data.tweets_2009_05 =
   "text" : "Well it's official. I no longer work at LifeChurch.tv. Today was my last day. (In case you missed my announcement: http:\/\/bit.ly\/WsRsO)",
   "id" : 1741456669,
   "created_at" : "2009-05-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1724614324",
+  "text" : "got several friendfeed followers tonight. weird. i dont use friendfeed",
+  "id" : 1724614324,
+  "created_at" : "2009-05-07 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6017,28 +6039,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1724119058",
   "text" : "http:\/\/twitpic.com\/4pb7u - Goal for tomorrow: get this white box out of house once and for all",
   "id" : 1724119058,
-  "created_at" : "2009-05-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1724614324",
-  "text" : "got several friendfeed followers tonight. weird. i dont use friendfeed",
-  "id" : 1724614324,
   "created_at" : "2009-05-07 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -6966,7 +6966,7 @@ Grailbird.data.tweets_2009_05 =
       "id_str" : "9949152",
       "id" : 9949152
     }, {
-      "name" : "Claw Armstrong \u2620\uFE0F",
+      "name" : "Paul Armstrong \uD83E\uDD14",
       "screen_name" : "wiseacre",
       "indices" : [ 13, 22 ],
       "id_str" : "3357441",
@@ -7112,6 +7112,34 @@ Grailbird.data.tweets_2009_05 =
   "text" : "working on freelance. im so pumped about this project",
   "id" : 1710960123,
   "created_at" : "2009-05-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tanner Herriott",
+      "screen_name" : "tannerherriott",
+      "indices" : [ 24, 39 ],
+      "id_str" : "1591231",
+      "id" : 1591231
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1700276556",
+  "text" : "headed to hang out with @tannerherriott",
+  "id" : 1700276556,
+  "created_at" : "2009-05-04 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -7540,34 +7568,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1699910730",
   "text" : "not sure how i feel about the new selected tweet color in tweetie",
   "id" : 1699910730,
-  "created_at" : "2009-05-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tanner Herriott",
-      "screen_name" : "tannerherriott",
-      "indices" : [ 24, 39 ],
-      "id_str" : "1591231",
-      "id" : 1591231
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1700276556",
-  "text" : "headed to hang out with @tannerherriott",
-  "id" : 1700276556,
   "created_at" : "2009-05-04 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",

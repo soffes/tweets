@@ -789,9 +789,9 @@ Grailbird.data.tweets_2008_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "734126952",
-  "text" : "bed, finally",
-  "id" : 734126952,
+  "id_str" : "733790462",
+  "text" : "still at work. dang you ie",
+  "id" : 733790462,
   "created_at" : "2008-02-20 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",
@@ -811,9 +811,9 @@ Grailbird.data.tweets_2008_02 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "733790462",
-  "text" : "still at work. dang you ie",
-  "id" : 733790462,
+  "id_str" : "734126952",
+  "text" : "bed, finally",
+  "id" : 734126952,
   "created_at" : "2008-02-20 00:00:00 +0000",
   "user" : {
     "name" : "Sam Soffes",

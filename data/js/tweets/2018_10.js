@@ -1,5 +1,397 @@
 Grailbird.data.tweets_2018_10 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tom Moor",
+      "screen_name" : "tommoor",
+      "indices" : [ 0, 8 ],
+      "id_str" : "18775095",
+      "id" : 18775095
+    }, {
+      "name" : "Max \u201CTim Van Damme\u201D Voltar [emoji]",
+      "screen_name" : "maxvoltar",
+      "indices" : [ 9, 19 ],
+      "id_str" : "2727051",
+      "id" : 2727051
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1057739606932606976",
+  "geo" : { },
+  "id_str" : "1057816924346695680",
+  "in_reply_to_user_id" : 18775095,
+  "text" : "@tommoor @maxvoltar There\u2019s a team working on this!",
+  "id" : 1057816924346695680,
+  "in_reply_to_status_id" : 1057739606932606976,
+  "created_at" : "2018-11-01 02:09:42 +0000",
+  "in_reply_to_screen_name" : "tommoor",
+  "in_reply_to_user_id_str" : "18775095",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Linda Dong",
+      "screen_name" : "lindadong",
+      "indices" : [ 0, 10 ],
+      "id_str" : "25845867",
+      "id" : 25845867
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1057816734030163968",
+  "geo" : { },
+  "id_str" : "1057816812639776768",
+  "in_reply_to_user_id" : 25845867,
+  "text" : "@lindadong It would be polarizing",
+  "id" : 1057816812639776768,
+  "in_reply_to_status_id" : 1057816734030163968,
+  "created_at" : "2018-11-01 02:09:16 +0000",
+  "in_reply_to_screen_name" : "lindadong",
+  "in_reply_to_user_id_str" : "25845867",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1057719186942652416",
+  "text" : "If we made a podcast about mobile development at Lyft, what would you want to hear about?",
+  "id" : 1057719186942652416,
+  "created_at" : "2018-10-31 19:41:20 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 103, 126 ],
+      "url" : "https:\/\/t.co\/BITwawZmbq",
+      "expanded_url" : "https:\/\/design.google\/library\/material-design-awards-2018\/",
+      "display_url" : "design.google\/library\/materi\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1057677070497538048",
+  "text" : "Lyft won a Material Design Award for Innovation! I've bee loving working on the design systems team \u2764\uFE0F https:\/\/t.co\/BITwawZmbq",
+  "id" : 1057677070497538048,
+  "created_at" : "2018-10-31 16:53:58 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Paul Haddad",
+      "screen_name" : "tapbot_paul",
+      "indices" : [ 3, 15 ],
+      "id_str" : "18247541",
+      "id" : 18247541
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1057658410563325952",
+  "text" : "RT @tapbot_paul: Watch stuff would be significantly less un-pleasant if Interface Builder wasn\u2019t a requirement.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1057655772509806593",
+    "text" : "Watch stuff would be significantly less un-pleasant if Interface Builder wasn\u2019t a requirement.",
+    "id" : 1057655772509806593,
+    "created_at" : "2018-10-31 15:29:21 +0000",
+    "user" : {
+      "name" : "Paul Haddad",
+      "screen_name" : "tapbot_paul",
+      "protected" : false,
+      "id_str" : "18247541",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996375435234570240\/AobDpgxZ_normal.jpg",
+      "id" : 18247541,
+      "verified" : false
+    }
+  },
+  "id" : 1057658410563325952,
+  "created_at" : "2018-10-31 15:39:50 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Max \u201CTim Van Damme\u201D Voltar [emoji]",
+      "screen_name" : "maxvoltar",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2727051",
+      "id" : 2727051
+    }, {
+      "name" : "Tom Moor",
+      "screen_name" : "tommoor",
+      "indices" : [ 11, 19 ],
+      "id_str" : "18775095",
+      "id" : 18775095
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1057541010128019457",
+  "geo" : { },
+  "id_str" : "1057658292674031622",
+  "in_reply_to_user_id" : 2727051,
+  "text" : "@maxvoltar @tommoor I believe that! Sketch and git are two difficult things \uD83D\uDE05",
+  "id" : 1057658292674031622,
+  "in_reply_to_status_id" : 1057541010128019457,
+  "created_at" : "2018-10-31 15:39:21 +0000",
+  "in_reply_to_screen_name" : "maxvoltar",
+  "in_reply_to_user_id_str" : "2727051",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "MDS",
+      "screen_name" : "mds",
+      "indices" : [ 0, 4 ],
+      "id_str" : "17202524",
+      "id" : 17202524
+    }, {
+      "name" : "Dann \uD83D\uDE90",
+      "screen_name" : "DannPetty",
+      "indices" : [ 5, 15 ],
+      "id_str" : "22708585",
+      "id" : 22708585
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1057654413031026690",
+  "geo" : { },
+  "id_str" : "1057658059902746624",
+  "in_reply_to_user_id" : 17202524,
+  "text" : "@mds @DannPetty Excited for whatever this is \uD83D\uDE03",
+  "id" : 1057658059902746624,
+  "in_reply_to_status_id" : 1057654413031026690,
+  "created_at" : "2018-10-31 15:38:26 +0000",
+  "in_reply_to_screen_name" : "mds",
+  "in_reply_to_user_id_str" : "17202524",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tom Moor",
+      "screen_name" : "tommoor",
+      "indices" : [ 0, 8 ],
+      "id_str" : "18775095",
+      "id" : 18775095
+    }, {
+      "name" : "Max \u201CTim Van Damme\u201D Voltar [emoji]",
+      "screen_name" : "maxvoltar",
+      "indices" : [ 9, 19 ],
+      "id_str" : "2727051",
+      "id" : 2727051
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1057404161304608769",
+  "geo" : { },
+  "id_str" : "1057430067746242560",
+  "in_reply_to_user_id" : 18775095,
+  "text" : "@tommoor @maxvoltar Maybe detect if you save and offer to make a branch? \uD83E\uDD14",
+  "id" : 1057430067746242560,
+  "in_reply_to_status_id" : 1057404161304608769,
+  "created_at" : "2018-10-31 00:32:28 +0000",
+  "in_reply_to_screen_name" : "tommoor",
+  "in_reply_to_user_id_str" : "18775095",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tom Moor",
+      "screen_name" : "tommoor",
+      "indices" : [ 0, 8 ],
+      "id_str" : "18775095",
+      "id" : 18775095
+    }, {
+      "name" : "Max \u201CTim Van Damme\u201D Voltar [emoji]",
+      "screen_name" : "maxvoltar",
+      "indices" : [ 9, 19 ],
+      "id_str" : "2727051",
+      "id" : 2727051
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1056979482832134145",
+  "geo" : { },
+  "id_str" : "1057375211018829824",
+  "in_reply_to_user_id" : 18775095,
+  "text" : "@tommoor @maxvoltar Totally get why it's there. For engineers getting files read only out of Abstract, it's really common to open untracked.\n\nIt would be great if you could maybe make it smaller and move it into the corner or something. It's pretty in your face :P",
+  "id" : 1057375211018829824,
+  "in_reply_to_status_id" : 1056979482832134145,
+  "created_at" : "2018-10-30 20:54:30 +0000",
+  "in_reply_to_screen_name" : "tommoor",
+  "in_reply_to_user_id_str" : "18775095",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tom Moor",
+      "screen_name" : "tommoor",
+      "indices" : [ 0, 8 ],
+      "id_str" : "18775095",
+      "id" : 18775095
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/soffes\/status\/1056977637518626816\/photo\/1",
+      "indices" : [ 52, 75 ],
+      "url" : "https:\/\/t.co\/4cL0MrTmph",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DqsjiV1V4AA7HuG.jpg",
+      "id_str" : "1056977610431913984",
+      "id" : 1056977610431913984,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DqsjiV1V4AA7HuG.jpg",
+      "sizes" : [ {
+        "h" : 118,
+        "resize" : "crop",
+        "w" : 118
+      }, {
+        "h" : 118,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 78,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 118,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 118,
+        "resize" : "fit",
+        "w" : 1024
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/4cL0MrTmph"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1055557354517917697",
+  "geo" : { },
+  "id_str" : "1056977637518626816",
+  "in_reply_to_user_id" : 18775095,
+  "text" : "@tommoor It would be cool if you could hide this :) https:\/\/t.co\/4cL0MrTmph",
+  "id" : 1056977637518626816,
+  "in_reply_to_status_id" : 1055557354517917697,
+  "created_at" : "2018-10-29 18:34:41 +0000",
+  "in_reply_to_screen_name" : "tommoor",
+  "in_reply_to_user_id_str" : "18775095",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -42,7 +434,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF83X\u00C7ode\uD83C\uDF83",
+      "name" : "Daniel Duan",
       "screen_name" : "daniel_duan",
       "indices" : [ 0, 12 ],
       "id_str" : "14373035",
@@ -75,7 +467,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF83X\u00C7ode\uD83C\uDF83",
+      "name" : "Daniel Duan",
       "screen_name" : "daniel_duan",
       "indices" : [ 0, 12 ],
       "id_str" : "14373035",
@@ -108,7 +500,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spike \u26CF Rundle",
+      "name" : "Mike Rundle",
       "screen_name" : "flyosity",
       "indices" : [ 0, 9 ],
       "id_str" : "10545",
@@ -174,7 +566,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@davedelong@mastodon.social",
+      "name" : "Dave DeLong",
       "screen_name" : "davedelong",
       "indices" : [ 0, 11 ],
       "id_str" : "15077782",
@@ -240,7 +632,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@davedelong@mastodon.social",
+      "name" : "Dave DeLong",
       "screen_name" : "davedelong",
       "indices" : [ 0, 11 ],
       "id_str" : "15077782",
@@ -538,7 +930,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spike \u26CF Rundle",
+      "name" : "Mike Rundle",
       "screen_name" : "flyosity",
       "indices" : [ 0, 9 ],
       "id_str" : "10545",
@@ -673,7 +1065,7 @@ Grailbird.data.tweets_2018_10 =
       "screen_name" : "mb",
       "protected" : false,
       "id_str" : "5107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951517132164083713\/-ocZVTiE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1081597938940502022\/OKeV6Miv_normal.jpg",
       "id" : 5107,
       "verified" : true
     }
@@ -970,7 +1362,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Colin",
+      "name" : "Colin Keany",
       "screen_name" : "colinkeany",
       "indices" : [ 0, 11 ],
       "id_str" : "74932143",
@@ -1086,13 +1478,7 @@ Grailbird.data.tweets_2018_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Linzi Berry",
-      "screen_name" : "canadiandelight",
-      "indices" : [ 0, 16 ],
-      "id_str" : "18291538",
-      "id" : 18291538
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1108,7 +1494,7 @@ Grailbird.data.tweets_2018_10 =
   "text" : "@canadiandelight https:\/\/t.co\/DcgRfD9h52",
   "id" : 1052075982302007296,
   "created_at" : "2018-10-16 05:57:15 +0000",
-  "in_reply_to_screen_name" : "canadiandelight",
+  "in_reply_to_screen_name" : "taptodismiss",
   "in_reply_to_user_id_str" : "18291538",
   "user" : {
     "name" : "Sam Soffes",
@@ -1929,7 +2315,7 @@ Grailbird.data.tweets_2018_10 =
   "id_str" : "1051341823627669504",
   "text" : "RT @morganknutson: Aside: Never do this. Always negotiate. Never tell a prospective employer how much you currently make. Tell them what yo\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2210,7 +2596,7 @@ Grailbird.data.tweets_2018_10 =
       "screen_name" : "AliceProverbio",
       "protected" : false,
       "id_str" : "581882836",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050714244570861568\/kR2c9ZFG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079102188763430913\/GK0pYXze_normal.jpg",
       "id" : 581882836,
       "verified" : false
     }
@@ -3067,7 +3453,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "let \uD83C\uDF83=unsafeBitCast(Float80(0),to:type(of:\u007B0\u007D))()",
+      "name" : "clang -y -a -t -u -s -a -B. -E -s -",
       "screen_name" : "NeoNacho",
       "indices" : [ 3, 12 ],
       "id_str" : "10341052",
@@ -3104,7 +3490,7 @@ Grailbird.data.tweets_2018_10 =
     "id" : 1048656601161261056,
     "created_at" : "2018-10-06 19:29:51 +0000",
     "user" : {
-      "name" : "let \uD83C\uDF83=unsafeBitCast(Float80(0),to:type(of:\u007B0\u007D))()",
+      "name" : "clang -y -a -t -u -s -a -B. -E -s -",
       "screen_name" : "NeoNacho",
       "protected" : false,
       "id_str" : "10341052",
@@ -3216,7 +3602,7 @@ Grailbird.data.tweets_2018_10 =
       "id_str" : "46446956",
       "id" : 46446956
     }, {
-      "name" : "Where's Waldo",
+      "name" : "Waldo",
       "screen_name" : "waldobroodryk",
       "indices" : [ 48, 62 ],
       "id_str" : "2927794351",
@@ -3264,7 +3650,7 @@ Grailbird.data.tweets_2018_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Where's Waldo",
+        "name" : "Waldo",
         "screen_name" : "waldobroodryk",
         "indices" : [ 32, 46 ],
         "id_str" : "2927794351",
@@ -3488,7 +3874,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Storm",
+      "name" : "Daniel Storm \uD83D\uDC68\u200D\uD83D\uDCBB",
       "screen_name" : "DanielStormApps",
       "indices" : [ 0, 16 ],
       "id_str" : "591524484",
@@ -3676,7 +4062,7 @@ Grailbird.data.tweets_2018_10 =
       "id_str" : "14233236",
       "id" : 14233236
     }, {
-      "name" : "Kyle Monster Mash-our",
+      "name" : "Kyle Bashour",
       "screen_name" : "kylebshr",
       "indices" : [ 9, 18 ],
       "id_str" : "453472733",
@@ -3709,7 +4095,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kyle Monster Mash-our",
+      "name" : "Kyle Bashour",
       "screen_name" : "kylebshr",
       "indices" : [ 0, 9 ],
       "id_str" : "453472733",
@@ -3742,7 +4128,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDDDF\u200D\u2642\uFE0F kyle monster mash-our",
+      "name" : "Kyle Bashour",
       "screen_name" : "kylebshr",
       "indices" : [ 0, 9 ],
       "id_str" : "453472733",
