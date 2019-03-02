@@ -141,7 +141,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "andrewfarah",
       "protected" : false,
       "id_str" : "14285126",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019652656611016704\/G9BmbEsa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1100409261098553344\/wNVHxJdL_normal.jpg",
       "id" : 14285126,
       "verified" : false
     }
@@ -744,7 +744,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luke Peters \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Luke Peters",
       "screen_name" : "MoonlightLuke",
       "indices" : [ 0, 14 ],
       "id_str" : "58243900",
@@ -4044,16 +4044,11 @@ Grailbird.data.tweets_2015_05 =
       "display_url" : "blog.soff.es\/desk-headphone\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "603362611795795968",
   "geo" : { },
   "id_str" : "603380128513556481",
-  "in_reply_to_user_id" : 13863432,
   "text" : "@flpStorarri http:\/\/t.co\/tePbeUOLVq",
   "id" : 603380128513556481,
-  "in_reply_to_status_id" : 603362611795795968,
   "created_at" : "2015-05-27 02:00:07 +0000",
-  "in_reply_to_screen_name" : "flpStrri",
-  "in_reply_to_user_id_str" : "13863432",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -15219,7 +15214,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WINNT.h",
+      "name" : "Tales From Typographic Oceans",
       "screen_name" : "CodaFi_",
       "indices" : [ 3, 11 ],
       "id_str" : "617648546",
@@ -15263,7 +15258,7 @@ Grailbird.data.tweets_2015_05 =
     "in_reply_to_screen_name" : "soffes",
     "in_reply_to_user_id_str" : "6154602",
     "user" : {
-      "name" : "WINNT.h",
+      "name" : "Tales From Typographic Oceans",
       "screen_name" : "CodaFi_",
       "protected" : false,
       "id_str" : "617648546",
@@ -15287,7 +15282,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WINNT.h",
+      "name" : "Tales From Typographic Oceans",
       "screen_name" : "CodaFi_",
       "indices" : [ 0, 8 ],
       "id_str" : "617648546",
@@ -16620,7 +16615,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "35803",
       "id" : 35803
     }, {
-      "name" : "Nate Cook \u2603\uFE0F",
+      "name" : "Nate Cook \u2600\uFE0F",
       "screen_name" : "nnnnnnnn",
       "indices" : [ 7, 16 ],
       "id_str" : "4365311",
@@ -17744,7 +17739,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "JonyIveParody",
       "protected" : false,
       "id_str" : "1197619002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080583394814251008\/x0-c_2QW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1100127225725239296\/sitY4O1G_normal.jpg",
       "id" : 1197619002,
       "verified" : false
     }
@@ -17869,7 +17864,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "21853",
       "id" : 21853
     }, {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 13, 24 ],
       "id_str" : "14133001",
@@ -18206,7 +18201,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "14817546",
       "id" : 14817546
     }, {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 9, 20 ],
       "id_str" : "14133001",
@@ -18311,7 +18306,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "77715464",
       "id" : 77715464
     }, {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 9, 20 ],
       "id_str" : "14133001",
@@ -18344,7 +18339,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 56, 67 ],
       "id_str" : "14133001",
@@ -21076,7 +21071,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -23537,7 +23532,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -25214,7 +25209,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -27135,7 +27130,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christina Warren is Always on a Plane",
+      "name" : "Christina Warren",
       "screen_name" : "film_girl",
       "indices" : [ 0, 10 ],
       "id_str" : "9866582",
@@ -27204,7 +27199,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christina Warren is Always on a Plane",
+      "name" : "Christina Warren",
       "screen_name" : "film_girl",
       "indices" : [ 0, 10 ],
       "id_str" : "9866582",
@@ -29000,7 +28995,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Cook \u2603\uFE0F",
+      "name" : "Nate Cook \u2600\uFE0F",
       "screen_name" : "nnnnnnnn",
       "indices" : [ 0, 9 ],
       "id_str" : "4365311",
@@ -29055,7 +29050,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Cook \u2603\uFE0F",
+      "name" : "Nate Cook \u2600\uFE0F",
       "screen_name" : "nnnnnnnn",
       "indices" : [ 0, 9 ],
       "id_str" : "4365311",
@@ -30100,7 +30095,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "11469602",
       "id" : 11469602
     }, {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 8, 19 ],
       "id_str" : "14133001",
@@ -30164,7 +30159,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -31700,7 +31695,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDC89\uD835\uDC82\uD835\uDC8D",
+      "name" : "Hal Lee",
       "screen_name" : "hal_lee",
       "indices" : [ 0, 8 ],
       "id_str" : "64731412",
@@ -32938,7 +32933,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",

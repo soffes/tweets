@@ -1426,7 +1426,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "10545",
       "id" : 10545
     }, {
-      "name" : "Seth Rubenstein \uD83C\uDF39",
+      "name" : "Seth Rubenstein \uD83C\uDF39 \uD83E\uDD1D \uD83C\uDF39",
       "screen_name" : "sethrubenstein",
       "indices" : [ 10, 25 ],
       "id_str" : "7578",
@@ -2811,12 +2811,6 @@ Grailbird.data.tweets_2010_05 =
       "indices" : [ 0, 12 ],
       "id_str" : "15576869",
       "id" : 15576869
-    }, {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 79, 90 ],
-      "id_str" : "15249412",
-      "id" : 15249412
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3814,7 +3808,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Coffman",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 0, 12 ],
       "id_str" : "18644328",
@@ -3974,7 +3968,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "ok",
       "protected" : false,
       "id_str" : "6242932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1084654090049617920\/QsNCl61c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090290799604985856\/ZsCY-YX8_normal.jpg",
       "id" : 6242932,
       "verified" : true
     }
@@ -6624,7 +6618,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "noaheverett",
       "protected" : false,
       "id_str" : "13058232",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881638463342350336\/RjofKwHY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1098697353568141312\/veOY945h_normal.png",
       "id" : 13058232,
       "verified" : true
     }
@@ -6688,7 +6682,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -10021,7 +10015,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Coffman",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 3, 15 ],
       "id_str" : "18644328",
@@ -10048,7 +10042,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 13522127482,
     "created_at" : "2010-05-07 02:03:08 +0000",
     "user" : {
-      "name" : "Phil Coffman",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "protected" : false,
       "id_str" : "18644328",
@@ -12198,7 +12192,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2139\uFE0F\uD83C\uDD92\uD83C\uDD97",
+      "name" : "\uD83C\uDF2CDave",
       "screen_name" : "davemc9ee",
       "indices" : [ 0, 10 ],
       "id_str" : "6302382",
@@ -12231,7 +12225,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2139\uFE0F\uD83C\uDD92\uD83C\uDD97",
+      "name" : "\uD83C\uDF2CDave",
       "screen_name" : "davemc9ee",
       "indices" : [ 0, 10 ],
       "id_str" : "6302382",

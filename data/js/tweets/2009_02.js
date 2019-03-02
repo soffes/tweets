@@ -457,7 +457,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 36, 39 ],
       "id_str" : "1567322352",
@@ -635,7 +635,7 @@ Grailbird.data.tweets_2009_02 =
       "id_str" : "16821478",
       "id" : 16821478
     }, {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 24, 27 ],
       "id_str" : "1567322352",
@@ -1026,7 +1026,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -2335,7 +2335,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 20, 23 ],
       "id_str" : "1567322352",
@@ -2363,7 +2363,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -4377,7 +4377,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -4849,7 +4849,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -5224,7 +5224,7 @@ Grailbird.data.tweets_2009_02 =
       "id_str" : "16821478",
       "id" : 16821478
     }, {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 69, 72 ],
       "id_str" : "1567322352",
@@ -5257,7 +5257,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 22, 25 ],
       "id_str" : "1567322352",
@@ -6753,27 +6753,16 @@ Grailbird.data.tweets_2009_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1204831355",
   "geo" : { },
   "id_str" : "1204841972",
-  "in_reply_to_user_id" : 15249412,
   "text" : "@ambersmart i like his attitude :)",
   "id" : 1204841972,
-  "in_reply_to_status_id" : 1204831355,
   "created_at" : "2009-02-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -7145,7 +7134,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 71, 74 ],
       "id_str" : "1567322352",
@@ -7679,7 +7668,7 @@ Grailbird.data.tweets_2009_02 =
       "id_str" : "16821478",
       "id" : 16821478
     }, {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 45, 48 ],
       "id_str" : "1567322352",
@@ -8070,7 +8059,7 @@ Grailbird.data.tweets_2009_02 =
       "id_str" : "16821478",
       "id" : 16821478
     }, {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 57, 60 ],
       "id_str" : "1567322352",
@@ -8617,7 +8606,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 16, 19 ],
       "id_str" : "1567322352",
@@ -9334,7 +9323,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -9733,7 +9722,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -9924,7 +9913,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jt",
+      "name" : "\u3072\u306A\u305F",
       "screen_name" : "jt",
       "indices" : [ 0, 3 ],
       "id_str" : "1567322352",
@@ -11436,27 +11425,16 @@ Grailbird.data.tweets_2009_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1168130727",
   "geo" : { },
   "id_str" : "1168147065",
-  "in_reply_to_user_id" : 15249412,
   "text" : "@ambersmart there a lot of Es upstairs. Might need to relocate soon :)",
   "id" : 1168147065,
-  "in_reply_to_status_id" : 1168130727,
   "created_at" : "2009-02-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",

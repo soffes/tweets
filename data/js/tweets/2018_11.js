@@ -315,7 +315,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "duduuugs",
       "protected" : false,
       "id_str" : "889606964229140481",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088955506713071617\/okEDBf7I_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1095421265974841356\/969j7m3C_normal.jpg",
       "id" : 889606964229140481,
       "verified" : false
     }
@@ -408,7 +408,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tef\u2019s public account",
+      "name" : "tef of the author",
       "screen_name" : "tef_ebooks",
       "indices" : [ 3, 14 ],
       "id_str" : "3107896458",
@@ -440,11 +440,11 @@ Grailbird.data.tweets_2018_11 =
     "in_reply_to_screen_name" : "tef_ebooks",
     "in_reply_to_user_id_str" : "3107896458",
     "user" : {
-      "name" : "tef\u2019s public account",
+      "name" : "tef of the author",
       "screen_name" : "tef_ebooks",
       "protected" : false,
       "id_str" : "3107896458",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1085612230534672385\/ZddsITQY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099147362583408640\/I4E7tPSQ_normal.jpg",
       "id" : 3107896458,
       "verified" : false
     }
@@ -484,6 +484,57 @@ Grailbird.data.tweets_2018_11 =
   "created_at" : "2018-11-29 15:31:50 +0000",
   "in_reply_to_screen_name" : "hishboy",
   "in_reply_to_user_id_str" : "14102032",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "mustard clown MMXIX",
+      "screen_name" : "markydoodoo",
+      "indices" : [ 3, 15 ],
+      "id_str" : "723098881",
+      "id" : 723098881
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1067954956177526785",
+  "text" : "RT @markydoodoo: burger king implies the existence of an entire burger based feudal system",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1067482302001893377",
+    "text" : "burger king implies the existence of an entire burger based feudal system",
+    "id" : 1067482302001893377,
+    "created_at" : "2018-11-27 18:16:28 +0000",
+    "user" : {
+      "name" : "marqydoodoo",
+      "screen_name" : "markydoodoo",
+      "protected" : false,
+      "id_str" : "723098881",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1093555267428585474\/3bv3bvoL_normal.jpg",
+      "id" : 723098881,
+      "verified" : false
+    }
+  },
+  "id" : 1067954956177526785,
+  "created_at" : "2018-11-29 01:34:37 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -687,7 +738,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -983,7 +1034,7 @@ Grailbird.data.tweets_2018_11 =
       "screen_name" : "nathanwpyle",
       "protected" : false,
       "id_str" : "41148474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528572066551709696\/KvhbyaCk_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1094356867906760704\/SrZcPcOC_normal.jpg",
       "id" : 41148474,
       "verified" : true
     }
@@ -1111,119 +1162,6 @@ Grailbird.data.tweets_2018_11 =
   "text" : "TIL you can use `git branch --sort=-committerdate` to see your most recent branches. Awesome!",
   "id" : 1067104699717828608,
   "created_at" : "2018-11-26 17:16:00 +0000",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "non aesthetic things",
-      "screen_name" : "PicturesFoIder",
-      "indices" : [ 3, 18 ],
-      "id_str" : "2538322138",
-      "id" : 2538322138
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/PicturesFoIder\/status\/1066815001678225413\/photo\/1",
-      "indices" : [ 20, 43 ],
-      "url" : "https:\/\/t.co\/QhtGgmFiBc",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Ds4WliOXQAEiygt.jpg",
-      "id_str" : "1066814995831406593",
-      "id" : 1066814995831406593,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ds4WliOXQAEiygt.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 774,
-        "resize" : "fit",
-        "w" : 639
-      }, {
-        "h" : 774,
-        "resize" : "fit",
-        "w" : 639
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 561
-      }, {
-        "h" : 774,
-        "resize" : "fit",
-        "w" : 639
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/QhtGgmFiBc"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1067081746749960192",
-  "text" : "RT @PicturesFoIder: https:\/\/t.co\/QhtGgmFiBc",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/PicturesFoIder\/status\/1066815001678225413\/photo\/1",
-        "indices" : [ 0, 23 ],
-        "url" : "https:\/\/t.co\/QhtGgmFiBc",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Ds4WliOXQAEiygt.jpg",
-        "id_str" : "1066814995831406593",
-        "id" : 1066814995831406593,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ds4WliOXQAEiygt.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 774,
-          "resize" : "fit",
-          "w" : 639
-        }, {
-          "h" : 774,
-          "resize" : "fit",
-          "w" : 639
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 561
-        }, {
-          "h" : 774,
-          "resize" : "fit",
-          "w" : 639
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/QhtGgmFiBc"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "1066815001678225413",
-    "text" : "https:\/\/t.co\/QhtGgmFiBc",
-    "id" : 1066815001678225413,
-    "created_at" : "2018-11-25 22:04:51 +0000",
-    "user" : {
-      "name" : "non aesthetic things",
-      "screen_name" : "PicturesFoIder",
-      "protected" : false,
-      "id_str" : "2538322138",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/989513875124117504\/UNMIb20k_normal.jpg",
-      "id" : 2538322138,
-      "verified" : false
-    }
-  },
-  "id" : 1067081746749960192,
-  "created_at" : "2018-11-26 15:44:48 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -3294,7 +3232,7 @@ Grailbird.data.tweets_2018_11 =
     "id" : 1063217300503842816,
     "created_at" : "2018-11-15 23:48:52 +0000",
     "user" : {
-      "name" : "\uD83D\uDC41\u200D\uD83D\uDDE8Ramizzletron\uD83D\uDE80",
+      "name" : "\uD83D\uDC41\u200D\uD83D\uDDE8 M E E Z Y \uD83D\uDE80",
       "screen_name" : "ramizzletron",
       "protected" : false,
       "id_str" : "399182043",
@@ -3517,119 +3455,6 @@ Grailbird.data.tweets_2018_11 =
   "created_at" : "2018-11-16 21:11:04 +0000",
   "in_reply_to_screen_name" : "adamawolf",
   "in_reply_to_user_id_str" : "20741987",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andy Sparks",
-      "screen_name" : "SparksZilla",
-      "indices" : [ 3, 15 ],
-      "id_str" : "115673498",
-      "id" : 115673498
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/SparksZilla\/status\/1063185528479084544\/photo\/1",
-      "indices" : [ 117, 140 ],
-      "url" : "https:\/\/t.co\/tx1CLp854D",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/DsExmBpUUAE_WgK.jpg",
-      "id_str" : "1063185516382670849",
-      "id" : 1063185516382670849,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DsExmBpUUAE_WgK.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 451,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 451,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 451,
-        "resize" : "fit",
-        "w" : 480
-      }, {
-        "h" : 451,
-        "resize" : "fit",
-        "w" : 480
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/tx1CLp854D"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1063461605063647232",
-  "text" : "RT @SparksZilla: BREAKING: San Francisco Mayor announces Rincon towers' air filters have not been replaced in years. https:\/\/t.co\/tx1CLp854D",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/SparksZilla\/status\/1063185528479084544\/photo\/1",
-        "indices" : [ 100, 123 ],
-        "url" : "https:\/\/t.co\/tx1CLp854D",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DsExmBpUUAE_WgK.jpg",
-        "id_str" : "1063185516382670849",
-        "id" : 1063185516382670849,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DsExmBpUUAE_WgK.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 451,
-          "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 451,
-          "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 451,
-          "resize" : "fit",
-          "w" : 480
-        }, {
-          "h" : 451,
-          "resize" : "fit",
-          "w" : 480
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/tx1CLp854D"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "1063185528479084544",
-    "text" : "BREAKING: San Francisco Mayor announces Rincon towers' air filters have not been replaced in years. https:\/\/t.co\/tx1CLp854D",
-    "id" : 1063185528479084544,
-    "created_at" : "2018-11-15 21:42:37 +0000",
-    "user" : {
-      "name" : "Andy Sparks",
-      "screen_name" : "SparksZilla",
-      "protected" : false,
-      "id_str" : "115673498",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/966896705374363648\/v-Bc4sJq_normal.jpg",
-      "id" : 115673498,
-      "verified" : false
-    }
-  },
-  "id" : 1063461605063647232,
-  "created_at" : "2018-11-16 15:59:39 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -7186,7 +7011,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thomas: podcast edition",
+      "name" : "thomas: \uD83E\uDD81",
       "screen_name" : "AgentMcBride",
       "indices" : [ 0, 13 ],
       "id_str" : "1631522790",
@@ -7458,7 +7283,7 @@ Grailbird.data.tweets_2018_11 =
       "id_str" : "453472733",
       "id" : 453472733
     }, {
-      "name" : "Nate Cook \u2603\uFE0F",
+      "name" : "Nate Cook \u2600\uFE0F",
       "screen_name" : "nnnnnnnn",
       "indices" : [ 24, 33 ],
       "id_str" : "4365311",
@@ -7497,7 +7322,7 @@ Grailbird.data.tweets_2018_11 =
       "id_str" : "453472733",
       "id" : 453472733
     }, {
-      "name" : "Nate Cook \u2603\uFE0F",
+      "name" : "Nate Cook \u2600\uFE0F",
       "screen_name" : "nnnnnnnn",
       "indices" : [ 10, 19 ],
       "id_str" : "4365311",

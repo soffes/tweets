@@ -414,7 +414,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "DustinGiebel",
       "protected" : false,
       "id_str" : "910332056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942924643123339265\/k-_O774B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1093043265119621121\/ugBWWxnS_normal.jpg",
       "id" : 910332056,
       "verified" : false
     }
@@ -820,16 +820,11 @@ Grailbird.data.tweets_2017_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "836595040055144449",
   "geo" : { },
   "id_str" : "836605596631724033",
-  "in_reply_to_user_id" : 18075954,
   "text" : "@ahow so you're super rich now, right? :P",
   "id" : 836605596631724033,
-  "in_reply_to_status_id" : 836595040055144449,
   "created_at" : "2017-02-28 15:54:52 +0000",
-  "in_reply_to_screen_name" : "groupyco",
-  "in_reply_to_user_id_str" : "18075954",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -843,7 +838,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -3809,7 +3804,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "NASA",
       "protected" : false,
       "id_str" : "11348282",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/188302352\/nasalogo_twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091070803184177153\/TI2qItoi_normal.jpg",
       "id" : 11348282,
       "verified" : true
     }
@@ -6486,13 +6481,7 @@ Grailbird.data.tweets_2017_02 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Derek Jensen",
-      "screen_name" : "byderekj",
-      "indices" : [ 0, 9 ],
-      "id_str" : "152165451",
-      "id" : 152165451
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6505,7 +6494,7 @@ Grailbird.data.tweets_2017_02 =
   "id" : 833820739295813632,
   "in_reply_to_status_id" : 833820677509672960,
   "created_at" : "2017-02-20 23:28:50 +0000",
-  "in_reply_to_screen_name" : "byderekj",
+  "in_reply_to_screen_name" : "resimplify",
   "in_reply_to_user_id_str" : "152165451",
   "user" : {
     "name" : "Sam Soffes",
@@ -7832,7 +7821,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "NASA",
       "protected" : false,
       "id_str" : "11348282",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/188302352\/nasalogo_twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091070803184177153\/TI2qItoi_normal.jpg",
       "id" : 11348282,
       "verified" : true
     }
@@ -11272,7 +11261,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "jckarter",
       "protected" : false,
       "id_str" : "18559099",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057983081720668160\/8WWWjO2t_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1095911109075202050\/r_eBhYE5_normal.jpg",
       "id" : 18559099,
       "verified" : false
     }
@@ -12278,7 +12267,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "mode7games",
       "protected" : false,
       "id_str" : "23742038",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930766870516559872\/capeWveW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1098924816340529157\/53H8Oanc_normal.jpg",
       "id" : 23742038,
       "verified" : false
     }
@@ -14232,7 +14221,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Praveen Chekuri",
+      "name" : "Praveen Chekuri \uD83E\uDD37\uD83C\uDFFD\u200D\u2642\uFE0F",
       "screen_name" : "pchekuri",
       "indices" : [ 0, 9 ],
       "id_str" : "342114768",
@@ -18239,7 +18228,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 3, 14 ],
       "id_str" : "14133001",
@@ -18288,7 +18277,7 @@ Grailbird.data.tweets_2017_02 =
     "id" : 829882154171629568,
     "created_at" : "2017-02-10 02:38:18 +0000",
     "user" : {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "protected" : false,
       "id_str" : "14133001",
@@ -19333,7 +19322,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920006896723091456\/CnqUgW3r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099851013169639425\/sUJ43Ko6_normal.png",
       "id" : 6503412,
       "verified" : true
     }
@@ -19500,7 +19489,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "flyosity",
       "protected" : false,
       "id_str" : "10545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1048380220254957568\/AXDcyXRe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099745463627071488\/VYaBbYHo_normal.jpg",
       "id" : 10545,
       "verified" : true
     }
@@ -20196,7 +20185,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u00AD\uD83D\uDC8C  cathode rae in san francisco",
+      "name" : "\u00AD\uD83D\uDC8C  cathode rae",
       "screen_name" : "partytimeHXLNT",
       "indices" : [ 3, 18 ],
       "id_str" : "178932440",
@@ -20285,7 +20274,7 @@ Grailbird.data.tweets_2017_02 =
     "id" : 828847774372339712,
     "created_at" : "2017-02-07 06:08:03 +0000",
     "user" : {
-      "name" : "\u00AD\uD83D\uDC8C  cathode rae in san francisco",
+      "name" : "\u00AD\uD83D\uDC8C  cathode rae",
       "screen_name" : "partytimeHXLNT",
       "protected" : false,
       "id_str" : "178932440",
@@ -22094,7 +22083,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1082975776113340416\/-hQlqBJA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101372705616539648\/5jAWB78Z_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -22359,7 +22348,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luke Peters \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Luke Peters",
       "screen_name" : "MoonlightLuke",
       "indices" : [ 0, 14 ],
       "id_str" : "58243900",
@@ -22392,7 +22381,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luke Peters \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Luke Peters",
       "screen_name" : "MoonlightLuke",
       "indices" : [ 0, 14 ],
       "id_str" : "58243900",
@@ -23149,7 +23138,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luke Peters \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Luke Peters",
       "screen_name" : "MoonlightLuke",
       "indices" : [ 0, 14 ],
       "id_str" : "58243900",
@@ -23687,7 +23676,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920006896723091456\/CnqUgW3r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099851013169639425\/sUJ43Ko6_normal.png",
       "id" : 6503412,
       "verified" : true
     }
@@ -23876,7 +23865,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -23921,7 +23910,7 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "14710664",
       "id" : 14710664
     }, {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 9, 20 ],
       "id_str" : "14133001",
@@ -23960,7 +23949,7 @@ Grailbird.data.tweets_2017_02 =
       "id_str" : "14710664",
       "id" : 14710664
     }, {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 9, 20 ],
       "id_str" : "14133001",

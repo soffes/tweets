@@ -1021,27 +1021,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "980946104",
   "geo" : { },
   "id_str" : "980946883",
-  "in_reply_to_user_id" : 15249412,
   "text" : "@ambersmart ya because it looked dumb. i *hated* it",
   "id" : 980946883,
-  "in_reply_to_status_id" : 980946104,
   "created_at" : "2008-10-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -1126,12 +1115,6 @@ Grailbird.data.tweets_2008_10 =
       "indices" : [ 0, 8 ],
       "id_str" : "743204510",
       "id" : 743204510
-    }, {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 36, 47 ],
-      "id_str" : "15249412",
-      "id" : 15249412
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1368,27 +1351,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "979277224",
   "geo" : { },
   "id_str" : "979282668",
-  "in_reply_to_user_id" : 15249412,
   "text" : "@ambersmart i dont think i could pull that off. that sounds like it requires work in the morning... not a fan of that :)",
   "id" : 979282668,
-  "in_reply_to_status_id" : 979277224,
   "created_at" : "2008-10-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -2619,27 +2591,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "973970027",
   "geo" : { },
   "id_str" : "973982665",
-  "in_reply_to_user_id" : 15249412,
   "text" : "@ambersmart http:\/\/twitpic.com\/hyup - your workspace has been awesomed",
   "id" : 973982665,
-  "in_reply_to_status_id" : 973970027,
   "created_at" : "2008-10-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4228,12 +4189,6 @@ Grailbird.data.tweets_2008_10 =
       "indices" : [ 32, 40 ],
       "id_str" : "14119419",
       "id" : 14119419
-    }, {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 45, 56 ],
-      "id_str" : "15249412",
-      "id" : 15249412
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5314,27 +5269,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "962428116",
   "geo" : { },
   "id_str" : "962428677",
-  "in_reply_to_user_id" : 15249412,
   "text" : "@ambersmart fun fun",
   "id" : 962428677,
-  "in_reply_to_status_id" : 962428116,
   "created_at" : "2008-10-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -5689,27 +5633,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "960011637",
   "geo" : { },
   "id_str" : "960013486",
-  "in_reply_to_user_id" : 15249412,
   "text" : "@ambersmart want a sweet display to go with it? http:\/\/oklahomacity.craigslist.org\/sys\/879476854.html :)",
   "id" : 960013486,
-  "in_reply_to_status_id" : 960011637,
   "created_at" : "2008-10-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -5722,27 +5655,16 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15249412",
-      "id" : 15249412
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "960015823",
   "geo" : { },
   "id_str" : "960016965",
-  "in_reply_to_user_id" : 15249412,
   "text" : "@ambersmart ha ha ha",
   "id" : 960016965,
-  "in_reply_to_status_id" : 960015823,
   "created_at" : "2008-10-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AmberSmart",
-  "in_reply_to_user_id_str" : "15249412",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -10801,12 +10723,6 @@ Grailbird.data.tweets_2008_10 =
       "indices" : [ 0, 8 ],
       "id_str" : "455100291",
       "id" : 455100291
-    }, {
-      "name" : "Amber Smart",
-      "screen_name" : "AmberSmart",
-      "indices" : [ 88, 99 ],
-      "id_str" : "15249412",
-      "id" : 15249412
     }, {
       "name" : "Terry Storch",
       "screen_name" : "TerryStorch",

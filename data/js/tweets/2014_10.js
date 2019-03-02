@@ -934,7 +934,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "321029318",
       "id" : 321029318
     }, {
-      "name" : "Hank Green to PodCon!!",
+      "name" : "Hank Green \u2328\uFE0F\uD83D\uDCD72\uFE0F\u20E3\uD83D\uDC4D",
       "screen_name" : "hankgreen",
       "indices" : [ 43, 53 ],
       "id_str" : "61592079",
@@ -956,7 +956,7 @@ Grailbird.data.tweets_2014_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Hank Green to PodCon!!",
+        "name" : "Hank Green \u2328\uFE0F\uD83D\uDCD72\uFE0F\u20E3\uD83D\uDC4D",
         "screen_name" : "hankgreen",
         "indices" : [ 24, 34 ],
         "id_str" : "61592079",
@@ -7249,13 +7249,7 @@ Grailbird.data.tweets_2014_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bondi Effects",
-      "screen_name" : "BondiEffects",
-      "indices" : [ 0, 13 ],
-      "id_str" : "3842625912",
-      "id" : 3842625912
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -14068,7 +14062,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -15017,7 +15011,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "625005582",
       "id" : 625005582
     }, {
-      "name" : "Ash Furrow",
+      "name" : "Ash \"daCareZ0ne\" Furrow",
       "screen_name" : "ashfurrow",
       "indices" : [ 10, 20 ],
       "id_str" : "15536268",
@@ -17442,7 +17436,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDC89\uD835\uDC82\uD835\uDC8D",
+      "name" : "Hal Lee",
       "screen_name" : "hal_lee",
       "indices" : [ 0, 8 ],
       "id_str" : "64731412",
@@ -25940,7 +25934,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "8723242",
       "id" : 8723242
     }, {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 13, 24 ],
       "id_str" : "14133001",
@@ -25973,7 +25967,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -26238,7 +26232,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDC89\uD835\uDC82\uD835\uDC8D",
+      "name" : "Hal Lee",
       "screen_name" : "hal_lee",
       "indices" : [ 0, 8 ],
       "id_str" : "64731412",
@@ -28088,12 +28082,6 @@ Grailbird.data.tweets_2014_10 =
       "indices" : [ 0, 10 ],
       "id_str" : "209250340",
       "id" : 209250340
-    }, {
-      "name" : "Bondi Effects",
-      "screen_name" : "BondiEffects",
-      "indices" : [ 23, 36 ],
-      "id_str" : "3842625912",
-      "id" : 3842625912
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -28328,7 +28316,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jp",
+      "name" : "justintylerpocta",
       "screen_name" : "justinpocta",
       "indices" : [ 0, 12 ],
       "id_str" : "23569338",
@@ -28731,7 +28719,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Coffman",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 0, 12 ],
       "id_str" : "18644328",
@@ -29456,7 +29444,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC68\uD83C\uDFFB",
+      "name" : "Mark Finn",
       "screen_name" : "mrkfn",
       "indices" : [ 0, 6 ],
       "id_str" : "939514633",
@@ -30986,7 +30974,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "394177459",
       "id" : 394177459
     }, {
-      "name" : "Aaron Brager @ Strange Loop",
+      "name" : "Aaron Brager @ null",
       "screen_name" : "getaaron",
       "indices" : [ 10, 19 ],
       "id_str" : "18680858",
@@ -31086,7 +31074,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Brager @ Strange Loop",
+      "name" : "Aaron Brager @ null",
       "screen_name" : "getaaron",
       "indices" : [ 0, 9 ],
       "id_str" : "18680858",

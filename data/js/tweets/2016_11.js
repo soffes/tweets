@@ -2679,7 +2679,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Feminella \u23E3",
+      "name" : "John Feminella",
       "screen_name" : "jxxf",
       "indices" : [ 3, 8 ],
       "id_str" : "19463693",
@@ -2706,7 +2706,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 678252794760048640,
     "created_at" : "2015-12-19 16:37:22 +0000",
     "user" : {
-      "name" : "John Feminella \u23E3",
+      "name" : "John Feminella",
       "screen_name" : "jxxf",
       "protected" : false,
       "id_str" : "19463693",
@@ -3037,7 +3037,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Cook \u2603\uFE0F",
+      "name" : "Nate Cook \u2600\uFE0F",
       "screen_name" : "nnnnnnnn",
       "indices" : [ 0, 9 ],
       "id_str" : "4365311",
@@ -4063,7 +4063,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "ProductHunt",
       "protected" : false,
       "id_str" : "2208027565",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055410701613912064\/i4xltIN8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091427606858100736\/j8MbV9vF_normal.jpg",
       "id" : 2208027565,
       "verified" : true
     }
@@ -4116,7 +4116,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeeves Williams",
+      "name" : "Jeeves Williams \uD83C\uDDEC\uD83C\uDDE7\uD83C\uDDF2\uD83C\uDDFD\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "jeeveswilliams",
       "indices" : [ 3, 18 ],
       "id_str" : "1375650072",
@@ -4143,11 +4143,11 @@ Grailbird.data.tweets_2016_11 =
     "id" : 800038204304982016,
     "created_at" : "2016-11-19 18:09:06 +0000",
     "user" : {
-      "name" : "Jeeves Williams",
+      "name" : "Jeeves Williams \uD83C\uDDEC\uD83C\uDDE7\uD83C\uDDF2\uD83C\uDDFD\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "jeeveswilliams",
       "protected" : false,
       "id_str" : "1375650072",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058516755700768769\/KBQkXYCH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1093161237238689792\/wnGP46rV_normal.jpg",
       "id" : 1375650072,
       "verified" : false
     }
@@ -4263,16 +4263,11 @@ Grailbird.data.tweets_2016_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "800372955557535747",
   "geo" : { },
   "id_str" : "800373632107020288",
-  "in_reply_to_user_id" : 18075954,
   "text" : "@ahow ran out https:\/\/t.co\/drHjJRuFwp",
   "id" : 800373632107020288,
-  "in_reply_to_status_id" : 800372955557535747,
   "created_at" : "2016-11-20 16:21:58 +0000",
-  "in_reply_to_screen_name" : "groupyco",
-  "in_reply_to_user_id_str" : "18075954",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4298,7 +4293,7 @@ Grailbird.data.tweets_2016_11 =
   "id" : 800372295654993921,
   "in_reply_to_status_id" : 800371341811535873,
   "created_at" : "2016-11-20 16:16:40 +0000",
-  "in_reply_to_screen_name" : "groupyco",
+  "in_reply_to_screen_name" : "hardworkmontage",
   "in_reply_to_user_id_str" : "18075954",
   "user" : {
     "name" : "Sam Soffes",
@@ -4391,7 +4386,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -5885,7 +5880,7 @@ Grailbird.data.tweets_2016_11 =
       "id_str" : "2374780429",
       "id" : 2374780429
     }, {
-      "name" : "Zcash Company",
+      "name" : "Electric Coin Company",
       "screen_name" : "zcashco",
       "indices" : [ 83, 91 ],
       "id_str" : "4633094778",
@@ -5913,7 +5908,7 @@ Grailbird.data.tweets_2016_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Zcash Company",
+        "name" : "Electric Coin Company",
         "screen_name" : "zcashco",
         "indices" : [ 68, 76 ],
         "id_str" : "4633094778",
@@ -6030,7 +6025,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jamie Barton",
+      "name" : "Jamie Barton \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "notrab",
       "indices" : [ 0, 7 ],
       "id_str" : "16726629",
@@ -9142,7 +9137,7 @@ Grailbird.data.tweets_2016_11 =
       "id_str" : "5478442",
       "id" : 5478442
     }, {
-      "name" : "Phil Coffman",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 26, 38 ],
       "id_str" : "18644328",
@@ -10385,7 +10380,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "flyosity",
       "protected" : false,
       "id_str" : "10545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1048380220254957568\/AXDcyXRe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099745463627071488\/VYaBbYHo_normal.jpg",
       "id" : 10545,
       "verified" : true
     }
@@ -13861,7 +13856,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920006896723091456\/CnqUgW3r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099851013169639425\/sUJ43Ko6_normal.png",
       "id" : 6503412,
       "verified" : true
     }

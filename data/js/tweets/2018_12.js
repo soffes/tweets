@@ -96,7 +96,7 @@ Grailbird.data.tweets_2018_12 =
       "screen_name" : "nocontextpawnee",
       "protected" : false,
       "id_str" : "2863580894",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080234127645827072\/j1EYY-lG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101534939684593664\/38MHW6ui_normal.png",
       "id" : 2863580894,
       "verified" : false
     }
@@ -1058,7 +1058,7 @@ Grailbird.data.tweets_2018_12 =
       "screen_name" : "wwwjim",
       "protected" : false,
       "id_str" : "37511020",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088526178208497665\/5yn8febT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1097207051434901504\/g56cqbQc_normal.png",
       "id" : 37511020,
       "verified" : false
     }
@@ -1428,7 +1428,7 @@ Grailbird.data.tweets_2018_12 =
       "id_str" : "93428043",
       "id" : 93428043
     }, {
-      "name" : "\u2601\uFE0F\u2601\uFE0F\u2601\uFE0F",
+      "name" : "\uD83C\uDF27\uD83C\uDF27\uD83C\uDF27",
       "screen_name" : "pifafu",
       "indices" : [ 14, 21 ],
       "id_str" : "499104309",
@@ -1483,7 +1483,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -2212,7 +2212,7 @@ Grailbird.data.tweets_2018_12 =
       "screen_name" : "EmmaWedekind",
       "protected" : false,
       "id_str" : "491821358",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077623963067576320\/-gZd_oMp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1100345482147176448\/mIOWZK8h_normal.jpg",
       "id" : 491821358,
       "verified" : false
     }
@@ -3791,7 +3791,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sonia",
+      "name" : "\uD83D\uDC18",
       "screen_name" : "milanoi_11",
       "indices" : [ 0, 11 ],
       "id_str" : "362665010",
@@ -5925,7 +5925,7 @@ Grailbird.data.tweets_2018_12 =
       "id_str" : "259387161",
       "id" : 259387161
     }, {
-      "name" : "Jed Bridges \uD83C\uDFF4\u200D\u2620\uFE0F",
+      "name" : "Jed Bridges",
       "screen_name" : "jedbridges",
       "indices" : [ 8, 19 ],
       "id_str" : "16540740",
@@ -6143,7 +6143,7 @@ Grailbird.data.tweets_2018_12 =
       "id_str" : "109461489",
       "id" : 109461489
     }, {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 16, 27 ],
       "id_str" : "14133001",
@@ -7221,7 +7221,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joseph Alessio\uD83C\uDF00",
+      "name" : "Joseph Alessio \u2710",
       "screen_name" : "alessio_joseph",
       "indices" : [ 0, 15 ],
       "id_str" : "570260898",

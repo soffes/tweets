@@ -950,7 +950,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "flyosity",
       "protected" : false,
       "id_str" : "10545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1048380220254957568\/AXDcyXRe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099745463627071488\/VYaBbYHo_normal.jpg",
       "id" : 10545,
       "verified" : true
     }
@@ -2697,12 +2697,6 @@ Grailbird.data.tweets_2016_01 =
       "indices" : [ 0, 9 ],
       "id_str" : "6115382",
       "id" : 6115382
-    }, {
-      "name" : "Griffin Moore",
-      "screen_name" : "okgriffin",
-      "indices" : [ 10, 20 ],
-      "id_str" : "42288913",
-      "id" : 42288913
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8584,7 +8578,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "unofficialAK",
       "protected" : false,
       "id_str" : "3299894536",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1087085776922398720\/wlNgcul3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101273883766939648\/YAc4rvvf_normal.jpg",
       "id" : 3299894536,
       "verified" : false
     }
@@ -9438,7 +9432,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -11971,7 +11965,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Coffman",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 3, 15 ],
       "id_str" : "18644328",
@@ -12020,7 +12014,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 687746069808037888,
     "created_at" : "2016-01-14 21:20:15 +0000",
     "user" : {
-      "name" : "Phil Coffman",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "protected" : false,
       "id_str" : "18644328",
@@ -12782,7 +12776,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "thegabibird",
       "protected" : false,
       "id_str" : "27572648",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058059841892052992\/FPR4NRHn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1094336303527686144\/ZQEAZQSA_normal.jpg",
       "id" : 27572648,
       "verified" : false
     }
@@ -12802,7 +12796,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DAVE ROSS THE RED-NOSED REINDEER",
+      "name" : "DAVE ROSS",
       "screen_name" : "davetotheross",
       "indices" : [ 3, 17 ],
       "id_str" : "30973292",
@@ -12891,7 +12885,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 687373044151525376,
     "created_at" : "2016-01-13 20:37:59 +0000",
     "user" : {
-      "name" : "DAVE ROSS THE RED-NOSED REINDEER",
+      "name" : "DAVE ROSS",
       "screen_name" : "davetotheross",
       "protected" : false,
       "id_str" : "30973292",
@@ -15075,7 +15069,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDD2D\uD83D\uDC68\uD83C\uDFFC\u200D\uD83E\uDDB2",
+      "name" : "Soleio",
       "screen_name" : "soleio",
       "indices" : [ 0, 7 ],
       "id_str" : "7742162",
@@ -16047,7 +16041,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -17998,7 +17992,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephen Howells \uD83E\uDD89",
+      "name" : "Stephen Howells \u2B21",
       "screen_name" : "stephenhowells",
       "indices" : [ 3, 18 ],
       "id_str" : "180197067",
@@ -18042,7 +18036,7 @@ Grailbird.data.tweets_2016_01 =
     "in_reply_to_screen_name" : "soffes",
     "in_reply_to_user_id_str" : "6154602",
     "user" : {
-      "name" : "Stephen Howells \uD83E\uDD89",
+      "name" : "Stephen Howells \u2B21",
       "screen_name" : "stephenhowells",
       "protected" : false,
       "id_str" : "180197067",
@@ -18066,7 +18060,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephen Howells \uD83E\uDD89",
+      "name" : "Stephen Howells \u2B21",
       "screen_name" : "stephenhowells",
       "indices" : [ 0, 15 ],
       "id_str" : "180197067",
@@ -22311,7 +22305,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jo\u00E3o Antunes",
+      "name" : "Joao Antunes",
       "screen_name" : "joao",
       "indices" : [ 0, 5 ],
       "id_str" : "5394",
@@ -23525,7 +23519,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "6503412",
       "id" : 6503412
     }, {
-      "name" : "snifer riple",
+      "name" : "miley\u2019s nauseous brother, Biley Cyrus",
       "screen_name" : "ELLIOTTCABLE",
       "indices" : [ 5, 18 ],
       "id_str" : "771681",
@@ -23597,7 +23591,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snifer riple",
+      "name" : "miley\u2019s nauseous brother, Biley Cyrus",
       "screen_name" : "ELLIOTTCABLE",
       "indices" : [ 0, 13 ],
       "id_str" : "771681",

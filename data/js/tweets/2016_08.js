@@ -180,7 +180,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -4074,7 +4074,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "GeorgeResch",
       "protected" : false,
       "id_str" : "148237475",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044640631778406400\/_M_mq3C0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1094010694846935040\/M8kRMRcz_normal.jpg",
       "id" : 148237475,
       "verified" : false
     }
@@ -4749,7 +4749,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Floyd",
+      "name" : "Floyd is dead",
       "screen_name" : "dafloydsta",
       "indices" : [ 3, 14 ],
       "id_str" : "260902220",
@@ -4776,11 +4776,11 @@ Grailbird.data.tweets_2016_08 =
     "id" : 677520921549217792,
     "created_at" : "2015-12-17 16:09:10 +0000",
     "user" : {
-      "name" : "Floyd",
+      "name" : "Floyd is dead",
       "screen_name" : "dafloydsta",
       "protected" : false,
       "id_str" : "260902220",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/894877517684895744\/PHXwDes0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1100478957001019392\/YOz0Vu8v_normal.jpg",
       "id" : 260902220,
       "verified" : false
     }
@@ -6295,7 +6295,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "flyosity",
       "protected" : false,
       "id_str" : "10545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1048380220254957568\/AXDcyXRe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099745463627071488\/VYaBbYHo_normal.jpg",
       "id" : 10545,
       "verified" : true
     }
@@ -7817,7 +7817,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "ThePracticalDev",
       "protected" : false,
       "id_str" : "2735246778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002604104194056192\/IEoNsLNM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1096267300313927681\/0T8lM6vh_normal.png",
       "id" : 2735246778,
       "verified" : false
     }
@@ -9067,7 +9067,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -10762,7 +10762,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "AaronMarshall",
       "protected" : false,
       "id_str" : "4416791",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074318667142160385\/lPJAh7Y8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091891277170274304\/CTaQPbVx_normal.jpg",
       "id" : 4416791,
       "verified" : false
     }
@@ -11380,7 +11380,7 @@ Grailbird.data.tweets_2016_08 =
       "screen_name" : "alexvanderzon",
       "protected" : false,
       "id_str" : "76285818",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823798608587653120\/9GclI90I_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1094732702274576384\/eQG4IV46_normal.jpg",
       "id" : 76285818,
       "verified" : false
     }
@@ -13436,7 +13436,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "we're going to pass AVR",
+      "name" : "we\u2019re going to pass AVR \uD83C\uDF49\uD83C\uDF49",
       "screen_name" : "SeanMcElwee",
       "indices" : [ 3, 15 ],
       "id_str" : "318692762",
@@ -13711,7 +13711,7 @@ Grailbird.data.tweets_2016_08 =
     "id" : 763784781259833345,
     "created_at" : "2016-08-11 17:10:56 +0000",
     "user" : {
-      "name" : "we're going to pass AVR",
+      "name" : "we\u2019re going to pass AVR \uD83C\uDF49\uD83C\uDF49",
       "screen_name" : "SeanMcElwee",
       "protected" : false,
       "id_str" : "318692762",
@@ -15053,7 +15053,7 @@ Grailbird.data.tweets_2016_08 =
       "id_str" : "14231571",
       "id" : 14231571
     }, {
-      "name" : "Christina Warren is Always on a Plane",
+      "name" : "Christina Warren",
       "screen_name" : "film_girl",
       "indices" : [ 22, 32 ],
       "id_str" : "9866582",
@@ -16662,7 +16662,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u1D0A\u1D0F\u1D3B Foolery",
+      "name" : "\u1D0A\u1D0F\u1D3B of War",
       "screen_name" : "JonTWojcik",
       "indices" : [ 0, 11 ],
       "id_str" : "218373891",

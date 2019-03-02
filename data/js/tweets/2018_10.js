@@ -2337,7 +2337,7 @@ Grailbird.data.tweets_2018_10 =
       "screen_name" : "morganknutson",
       "protected" : false,
       "id_str" : "234688558",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052112452307939328\/XxaZH-ad_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090345118605819904\/osNlEkrn_normal.jpg",
       "id" : 234688558,
       "verified" : false
     }
@@ -2503,7 +2503,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alice Proverbio",
+      "name" : "Alice M. Proverbio",
       "screen_name" : "AliceProverbio",
       "indices" : [ 3, 18 ],
       "id_str" : "581882836",
@@ -2592,11 +2592,11 @@ Grailbird.data.tweets_2018_10 =
     "id" : 1050672406543486977,
     "created_at" : "2018-10-12 08:59:56 +0000",
     "user" : {
-      "name" : "Alice Proverbio",
+      "name" : "Alice M. Proverbio",
       "screen_name" : "AliceProverbio",
       "protected" : false,
       "id_str" : "581882836",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079102188763430913\/GK0pYXze_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090729728124862465\/LjJ44L0B_normal.jpg",
       "id" : 581882836,
       "verified" : false
     }

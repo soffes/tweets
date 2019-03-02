@@ -380,7 +380,7 @@ Grailbird.data.tweets_2018_09 =
       "screen_name" : "CarolineDKee",
       "protected" : false,
       "id_str" : "2893075037",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023242233926090752\/N6pY34mm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1096771934073864194\/c4DI1PCZ_normal.jpg",
       "id" : 2893075037,
       "verified" : true
     }
@@ -779,7 +779,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias \u1D20\u1D00\u0274 s\u1D04\u029C\u0274\u1D07\u026A\u1D05\u1D07\u0280",
+      "name" : "\u1D20\u1D00\u0274 s\u1D04\u029C\u0274\u1D07\u026A\u1D05\u1D07\u0280",
       "screen_name" : "vanschneider",
       "indices" : [ 0, 13 ],
       "id_str" : "18971006",
@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -2130,7 +2130,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2601\uFE0F\u2601\uFE0F\u2601\uFE0F",
+      "name" : "\uD83C\uDF27\uD83C\uDF27\uD83C\uDF27",
       "screen_name" : "pifafu",
       "indices" : [ 0, 7 ],
       "id_str" : "499104309",
@@ -2361,7 +2361,7 @@ Grailbird.data.tweets_2018_09 =
       "screen_name" : "nocontextpawnee",
       "protected" : false,
       "id_str" : "2863580894",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080234127645827072\/j1EYY-lG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101534939684593664\/38MHW6ui_normal.png",
       "id" : 2863580894,
       "verified" : false
     }
@@ -2822,7 +2822,7 @@ Grailbird.data.tweets_2018_09 =
       "screen_name" : "MKBHD",
       "protected" : false,
       "id_str" : "29873662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946798631151112194\/0e0OgvFz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1094044059822448640\/BvJ8T3jO_normal.jpg",
       "id" : 29873662,
       "verified" : true
     }
@@ -3179,7 +3179,7 @@ Grailbird.data.tweets_2018_09 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920006896723091456\/CnqUgW3r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099851013169639425\/sUJ43Ko6_normal.png",
       "id" : 6503412,
       "verified" : true
     }
@@ -3324,7 +3324,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Max Howell",
+      "name" : "\uD835\uDD10\uD835\uDD1E\uD835\uDD35 \uD835\uDD73\uD835\uDD2C\uD835\uDD34\uD835\uDD22\uD835\uDD29\uD835\uDD29",
       "screen_name" : "mxcl",
       "indices" : [ 3, 8 ],
       "id_str" : "3374231",
@@ -3355,7 +3355,7 @@ Grailbird.data.tweets_2018_09 =
       "screen_name" : "mxcl",
       "protected" : false,
       "id_str" : "3374231",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1020127779571011585\/6Dbw6MUU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1092524662356103168\/a2oxot9n_normal.jpg",
       "id" : 3374231,
       "verified" : false
     }
@@ -3815,7 +3815,7 @@ Grailbird.data.tweets_2018_09 =
       "id_str" : "286004810",
       "id" : 286004810
     }, {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 23, 34 ],
       "id_str" : "14133001",
@@ -4041,7 +4041,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -4398,7 +4398,7 @@ Grailbird.data.tweets_2018_09 =
       "screen_name" : "goopery",
       "protected" : false,
       "id_str" : "93255467",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023330817802678272\/xW9YHlwT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099343771362357248\/M9vW3bF9_normal.jpg",
       "id" : 93255467,
       "verified" : false
     }
@@ -6705,8 +6705,8 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ICodeWithPassion",
-      "screen_name" : "MarcStevenCoder",
+      "name" : "Marc Steven",
+      "screen_name" : "marcstevencoder",
       "indices" : [ 0, 16 ],
       "id_str" : "1641358165",
       "id" : 1641358165
@@ -6723,7 +6723,7 @@ Grailbird.data.tweets_2018_09 =
   "id" : 1036452848337395712,
   "in_reply_to_status_id" : 1036390885724839938,
   "created_at" : "2018-09-03 03:16:30 +0000",
-  "in_reply_to_screen_name" : "MarcStevenCoder",
+  "in_reply_to_screen_name" : "marcstevencoder",
   "in_reply_to_user_id_str" : "1641358165",
   "user" : {
     "name" : "Sam Soffes",
@@ -6824,7 +6824,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hank Green \uD83D\uDD1C PodCon!!",
+      "name" : "Hank Green \u2328\uFE0F\uD83D\uDCD72\uFE0F\u20E3\uD83D\uDC4D",
       "screen_name" : "hankgreen",
       "indices" : [ 3, 13 ],
       "id_str" : "61592079",
@@ -6851,7 +6851,7 @@ Grailbird.data.tweets_2018_09 =
     "id" : 1036199827753840640,
     "created_at" : "2018-09-02 10:31:05 +0000",
     "user" : {
-      "name" : "Hank Green \uD83D\uDD1C VidCon London!",
+      "name" : "Hank Green \u2328\uFE0F\uD83D\uDCD72\uFE0F\u20E3\uD83D\uDC4D",
       "screen_name" : "hankgreen",
       "protected" : false,
       "id_str" : "61592079",

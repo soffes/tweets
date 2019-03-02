@@ -40,27 +40,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "947495840179896322",
   "geo" : { },
   "id_str" : "947511521214480385",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma Fair",
   "id" : 947511521214480385,
-  "in_reply_to_status_id" : 947495840179896322,
   "created_at" : "2017-12-31 16:55:25 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -73,27 +62,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "947489806040182788",
   "geo" : { },
   "id_str" : "947491699374227457",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma You should pickup trumpet or something! Circular breathing is a real skill! \uD83D\uDE03",
   "id" : 947491699374227457,
-  "in_reply_to_status_id" : 947489806040182788,
   "created_at" : "2017-12-31 15:36:39 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -785,27 +763,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "947160185516130304",
   "geo" : { },
   "id_str" : "947162065491279872",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma You\u2019re welcome to my garage any time :)",
   "id" : 947162065491279872,
-  "in_reply_to_status_id" : 947160185516130304,
   "created_at" : "2017-12-30 17:46:48 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -846,7 +813,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "i'm anne gables",
+      "name" : "stood still beside eternal flame",
       "screen_name" : "raymondedwards",
       "indices" : [ 0, 15 ],
       "id_str" : "18179355",
@@ -983,7 +950,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDD2D\uD83D\uDC68\uD83C\uDFFC\u200D\uD83E\uDDB2",
+      "name" : "Soleio",
       "screen_name" : "soleio",
       "indices" : [ 0, 7 ],
       "id_str" : "7742162",
@@ -1107,7 +1074,7 @@ Grailbird.data.tweets_2017_12 =
       "screen_name" : "sdw",
       "protected" : false,
       "id_str" : "6503412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920006896723091456\/CnqUgW3r_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099851013169639425\/sUJ43Ko6_normal.png",
       "id" : 6503412,
       "verified" : true
     }
@@ -1589,7 +1556,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "In winter, when the fields are white \u2603\uFE0F",
+      "name" : "Valentine's Dave \u2665\uFE0F\u2665\uFE0F\u2665\uFE0F",
       "screen_name" : "tildedave",
       "indices" : [ 0, 10 ],
       "id_str" : "29241553",
@@ -1784,7 +1751,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "In winter, when the fields are white \u2603\uFE0F",
+      "name" : "Coffee coffee coffee \u2615",
       "screen_name" : "tildedave",
       "indices" : [ 0, 10 ],
       "id_str" : "29241553",
@@ -2306,12 +2273,6 @@ Grailbird.data.tweets_2017_12 =
       "indices" : [ 0, 14 ],
       "id_str" : "141944702",
       "id" : 141944702
-    }, {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 15, 26 ],
-      "id_str" : "70977717",
-      "id" : 70977717
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3203,7 +3164,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hank Green \uD83D\uDD1C VidCon London!",
+      "name" : "Hank Green \u2328\uFE0F\uD83D\uDCD72\uFE0F\u20E3\uD83D\uDC4D",
       "screen_name" : "hankgreen",
       "indices" : [ 3, 13 ],
       "id_str" : "61592079",
@@ -3292,7 +3253,7 @@ Grailbird.data.tweets_2017_12 =
     "id" : 945146263242031104,
     "created_at" : "2017-12-25 04:16:43 +0000",
     "user" : {
-      "name" : "Hank Green \uD83D\uDD1C VidCon London!",
+      "name" : "Hank Green \u2328\uFE0F\uD83D\uDCD72\uFE0F\u20E3\uD83D\uDC4D",
       "screen_name" : "hankgreen",
       "protected" : false,
       "id_str" : "61592079",
@@ -3712,7 +3673,7 @@ Grailbird.data.tweets_2017_12 =
       "id_str" : "2282696245",
       "id" : 2282696245
     }, {
-      "name" : "Blainecent pigeon",
+      "name" : "decent pigeon",
       "screen_name" : "decentbirthday",
       "indices" : [ 19, 34 ],
       "id_str" : "4237326395",
@@ -3729,7 +3690,7 @@ Grailbird.data.tweets_2017_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Blainecent pigeon",
+        "name" : "decent pigeon",
         "screen_name" : "decentbirthday",
         "indices" : [ 0, 15 ],
         "id_str" : "4237326395",
@@ -3761,6 +3722,57 @@ Grailbird.data.tweets_2017_12 =
   },
   "id" : 945018868275310592,
   "created_at" : "2017-12-24 19:50:30 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "decent pigeon",
+      "screen_name" : "decentbirthday",
+      "indices" : [ 3, 18 ],
+      "id_str" : "4237326395",
+      "id" : 4237326395
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "945018688289361922",
+  "text" : "RT @decentbirthday: [skiing]\n\nfriend: meet me at the black diamond\n\nme: how do i find the slope\n\nfriend: y=mx+b, but that's not important r\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "944975794857828353",
+    "text" : "[skiing]\n\nfriend: meet me at the black diamond\n\nme: how do i find the slope\n\nfriend: y=mx+b, but that's not important right now",
+    "id" : 944975794857828353,
+    "created_at" : "2017-12-24 16:59:20 +0000",
+    "user" : {
+      "name" : "decent pigeon",
+      "screen_name" : "decentbirthday",
+      "protected" : false,
+      "id_str" : "4237326395",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090993904533622785\/FW6wG3hM_normal.jpg",
+      "id" : 4237326395,
+      "verified" : false
+    }
+  },
+  "id" : 945018688289361922,
+  "created_at" : "2017-12-24 19:49:47 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4210,12 +4222,6 @@ Grailbird.data.tweets_2017_12 =
       "indices" : [ 0, 16 ],
       "id_str" : "628137326",
       "id" : 628137326
-    }, {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 17, 28 ],
-      "id_str" : "70977717",
-      "id" : 70977717
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4645,7 +4651,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hank Green \uD83D\uDD1C VidCon London!",
+      "name" : "Hank Green \u2328\uFE0F\uD83D\uDCD72\uFE0F\u20E3\uD83D\uDC4D",
       "screen_name" : "hankgreen",
       "indices" : [ 0, 10 ],
       "id_str" : "61592079",
@@ -4711,7 +4717,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hank Green \uD83D\uDD1C VidCon London!",
+      "name" : "Hank Green \u2328\uFE0F\uD83D\uDCD72\uFE0F\u20E3\uD83D\uDC4D",
       "screen_name" : "hankgreen",
       "indices" : [ 3, 13 ],
       "id_str" : "61592079",
@@ -4738,7 +4744,7 @@ Grailbird.data.tweets_2017_12 =
     "id" : 943685057872621568,
     "created_at" : "2017-12-21 03:30:25 +0000",
     "user" : {
-      "name" : "Hank Green \uD83D\uDD1C VidCon London!",
+      "name" : "Hank Green \u2328\uFE0F\uD83D\uDCD72\uFE0F\u20E3\uD83D\uDC4D",
       "screen_name" : "hankgreen",
       "protected" : false,
       "id_str" : "61592079",
@@ -4794,27 +4800,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "943684637414641664",
   "geo" : { },
   "id_str" : "943686149037543426",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma \uD83D\uDE1E",
   "id" : 943686149037543426,
-  "in_reply_to_status_id" : 943684637414641664,
   "created_at" : "2017-12-21 03:34:45 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -4827,13 +4822,7 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -4843,16 +4832,11 @@ Grailbird.data.tweets_2017_12 =
       "display_url" : "developer.apple.com\/download\/more"
     } ]
   },
-  "in_reply_to_status_id_str" : "943677948011433984",
   "geo" : { },
   "id_str" : "943684483525595138",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma Never get it from the App Store for better results :) https:\/\/t.co\/VyJpXg2HPe",
   "id" : 943684483525595138,
-  "in_reply_to_status_id" : 943677948011433984,
   "created_at" : "2017-12-21 03:28:08 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6017,12 +6001,6 @@ Grailbird.data.tweets_2017_12 =
       "indices" : [ 0, 12 ],
       "id_str" : "14373035",
       "id" : 14373035
-    }, {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 13, 24 ],
-      "id_str" : "70977717",
-      "id" : 70977717
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6051,12 +6029,6 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    }, {
       "name" : "Daniel Duan",
       "screen_name" : "daniel_duan",
       "indices" : [ 12, 24 ],
@@ -6067,16 +6039,11 @@ Grailbird.data.tweets_2017_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "943015299996983296",
   "geo" : { },
   "id_str" : "943015608563720192",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma @daniel_duan Don\u2019t forget comment.",
   "id" : 943015608563720192,
-  "in_reply_to_status_id" : 943015299996983296,
   "created_at" : "2017-12-19 07:10:16 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6089,27 +6056,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "943009349856669696",
   "geo" : { },
   "id_str" : "943015340556062721",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma Atlanta has the same. Pretty quick too. (Only when the power is on though.)",
   "id" : 943015340556062721,
-  "in_reply_to_status_id" : 943009349856669696,
   "created_at" : "2017-12-19 07:09:12 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -6156,7 +6112,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC68\uD83C\uDFFB",
+      "name" : "Mark Finn",
       "screen_name" : "mrkfn",
       "indices" : [ 11, 17 ],
       "id_str" : "939514633",
@@ -7919,27 +7875,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "942273085247385600",
   "geo" : { },
   "id_str" : "942285291972321281",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma \uD83D\uDE1E\uD83D\uDE1E\uD83D\uDE1E",
   "id" : 942285291972321281,
-  "in_reply_to_status_id" : 942273085247385600,
   "created_at" : "2017-12-17 06:48:15 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -7952,27 +7897,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "942265674797170688",
   "geo" : { },
   "id_str" : "942285202851643392",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma Enjoying the holiday party that much? \uD83D\uDE1B",
   "id" : 942285202851643392,
-  "in_reply_to_status_id" : 942265674797170688,
   "created_at" : "2017-12-17 06:47:53 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -8487,7 +8421,7 @@ Grailbird.data.tweets_2017_12 =
       "screen_name" : "flyosity",
       "protected" : false,
       "id_str" : "10545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1048380220254957568\/AXDcyXRe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099745463627071488\/VYaBbYHo_normal.jpg",
       "id" : 10545,
       "verified" : true
     }
@@ -8856,6 +8790,119 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "decent pigeon",
+      "screen_name" : "decentbirthday",
+      "indices" : [ 3, 18 ],
+      "id_str" : "4237326395",
+      "id" : 4237326395
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/decentbirthday\/status\/941358477779329024\/photo\/1",
+      "indices" : [ 44, 67 ],
+      "url" : "https:\/\/t.co\/F9ubGUoHAI",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DRBgiieW4AAXOmV.jpg",
+      "id_str" : "941358468606386176",
+      "id" : 941358468606386176,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DRBgiieW4AAXOmV.jpg",
+      "sizes" : [ {
+        "h" : 838,
+        "resize" : "fit",
+        "w" : 750
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 609
+      }, {
+        "h" : 838,
+        "resize" : "fit",
+        "w" : 750
+      }, {
+        "h" : 838,
+        "resize" : "fit",
+        "w" : 750
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/F9ubGUoHAI"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "941443381783179264",
+  "text" : "RT @decentbirthday: It was a quiet car ride https:\/\/t.co\/F9ubGUoHAI",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/decentbirthday\/status\/941358477779329024\/photo\/1",
+        "indices" : [ 24, 47 ],
+        "url" : "https:\/\/t.co\/F9ubGUoHAI",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DRBgiieW4AAXOmV.jpg",
+        "id_str" : "941358468606386176",
+        "id" : 941358468606386176,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DRBgiieW4AAXOmV.jpg",
+        "sizes" : [ {
+          "h" : 838,
+          "resize" : "fit",
+          "w" : 750
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 609
+        }, {
+          "h" : 838,
+          "resize" : "fit",
+          "w" : 750
+        }, {
+          "h" : 838,
+          "resize" : "fit",
+          "w" : 750
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/F9ubGUoHAI"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "941358477779329024",
+    "text" : "It was a quiet car ride https:\/\/t.co\/F9ubGUoHAI",
+    "id" : 941358477779329024,
+    "created_at" : "2017-12-14 17:25:25 +0000",
+    "user" : {
+      "name" : "decent pigeon",
+      "screen_name" : "decentbirthday",
+      "protected" : false,
+      "id_str" : "4237326395",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090993904533622785\/FW6wG3hM_normal.jpg",
+      "id" : 4237326395,
+      "verified" : false
+    }
+  },
+  "id" : 941443381783179264,
+  "created_at" : "2017-12-14 23:02:48 +0000",
+  "user" : {
+    "name" : "Sam Soffes",
+    "screen_name" : "soffes",
+    "protected" : false,
+    "id_str" : "6154602",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
+    "id" : 6154602,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Kris Gellci",
       "screen_name" : "kgellci",
       "indices" : [ 0, 8 ],
@@ -8949,12 +8996,6 @@ Grailbird.data.tweets_2017_12 =
       "indices" : [ 0, 12 ],
       "id_str" : "14429563",
       "id" : 14429563
-    }, {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 13, 24 ],
-      "id_str" : "70977717",
-      "id" : 70977717
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9010,7 +9051,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Coffman",
+      "name" : "Phil Coffman \uD83D\uDC68\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "philcoffman",
       "indices" : [ 0, 12 ],
       "id_str" : "18644328",
@@ -11020,12 +11061,6 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    }, {
       "name" : "Daniel Duan",
       "screen_name" : "daniel_duan",
       "indices" : [ 12, 24 ],
@@ -11036,16 +11071,11 @@ Grailbird.data.tweets_2017_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "940358033892241410",
   "geo" : { },
   "id_str" : "940359351843274752",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma @daniel_duan he\u2019ll never find his desk",
   "id" : 940359351843274752,
-  "in_reply_to_status_id" : 940358033892241410,
   "created_at" : "2017-12-11 23:15:15 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -11058,27 +11088,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "940354963758235648",
   "geo" : { },
   "id_str" : "940355478185435136",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma incredible",
   "id" : 940355478185435136,
-  "in_reply_to_status_id" : 940354963758235648,
   "created_at" : "2017-12-11 22:59:51 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -11091,27 +11110,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "940323204974837760",
   "geo" : { },
   "id_str" : "940348621056237568",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma I was told 6 months for the next one",
   "id" : 940348621056237568,
-  "in_reply_to_status_id" : 940323204974837760,
   "created_at" : "2017-12-11 22:32:36 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -11206,27 +11214,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "940320166486962176",
   "geo" : { },
   "id_str" : "940320977711333376",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma I want some",
   "id" : 940320977711333376,
-  "in_reply_to_status_id" : 940320166486962176,
   "created_at" : "2017-12-11 20:42:46 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -12274,27 +12271,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "939598311211667456",
   "geo" : { },
   "id_str" : "939600362452815872",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma And all of the drunk santas",
   "id" : 939600362452815872,
-  "in_reply_to_status_id" : 939598311211667456,
   "created_at" : "2017-12-09 20:59:17 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -12307,27 +12293,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "939595854859485184",
   "geo" : { },
   "id_str" : "939600174527086592",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma \uD83D\uDE01",
   "id" : 939600174527086592,
-  "in_reply_to_status_id" : 939595854859485184,
   "created_at" : "2017-12-09 20:58:33 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -12606,7 +12581,7 @@ Grailbird.data.tweets_2017_12 =
       "id_str" : "710544869765165057",
       "id" : 710544869765165057
     }, {
-      "name" : "SFMOMA | The San Francisco Museum of Modern Art",
+      "name" : "SFMOMA",
       "screen_name" : "SFMOMA",
       "indices" : [ 36, 43 ],
       "id_str" : "16536215",
@@ -12651,7 +12626,7 @@ Grailbird.data.tweets_2017_12 =
       "id_str" : "710544869765165057",
       "id" : 710544869765165057
     }, {
-      "name" : "SFMOMA | The San Francisco Museum of Modern Art",
+      "name" : "SFMOMA",
       "screen_name" : "SFMOMA",
       "indices" : [ 23, 30 ],
       "id_str" : "16536215",
@@ -12696,7 +12671,7 @@ Grailbird.data.tweets_2017_12 =
       "id_str" : "710544869765165057",
       "id" : 710544869765165057
     }, {
-      "name" : "SFMOMA | The San Francisco Museum of Modern Art",
+      "name" : "SFMOMA",
       "screen_name" : "SFMOMA",
       "indices" : [ 23, 30 ],
       "id_str" : "16536215",
@@ -12871,7 +12846,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ben Scheirman \uD83D\uDCCE",
+      "name" : "Ben Scheirman",
       "screen_name" : "subdigital",
       "indices" : [ 0, 11 ],
       "id_str" : "14133001",
@@ -13069,7 +13044,7 @@ Grailbird.data.tweets_2017_12 =
       "id_str" : "6503412",
       "id" : 6503412
     }, {
-      "name" : "Conrad Kramer",
+      "name" : "Conradicus Kramericus",
       "screen_name" : "conradev",
       "indices" : [ 16, 25 ],
       "id_str" : "50685018",
@@ -13222,7 +13197,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Conrad Kramer",
+      "name" : "Conradicus Kramericus",
       "screen_name" : "conradev",
       "indices" : [ 0, 9 ],
       "id_str" : "50685018",
@@ -13924,27 +13899,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "938489828542500867",
   "geo" : { },
   "id_str" : "938491804772573184",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma Pronto is in my meeting! \uD83C\uDF89",
   "id" : 938491804772573184,
-  "in_reply_to_status_id" : 938489828542500867,
   "created_at" : "2017-12-06 19:34:17 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -14080,27 +14044,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "938440351206871042",
   "geo" : { },
   "id_str" : "938458718013767680",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma it\u2019s mostly taxes and wife\u2019s student loans",
   "id" : 938458718013767680,
-  "in_reply_to_status_id" : 938440351206871042,
   "created_at" : "2017-12-06 17:22:48 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -14113,27 +14066,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "938439706974420993",
   "geo" : { },
   "id_str" : "938439977406361600",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma I was debt free until until 2013. On track to be back to debt free maybe next December. So difficult.",
   "id" : 938439977406361600,
-  "in_reply_to_status_id" : 938439706974420993,
   "created_at" : "2017-12-06 16:08:20 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -14146,27 +14088,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "938439479659978752",
   "geo" : { },
   "id_str" : "938439571238412288",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma Someday \uD83D\uDE05",
   "id" : 938439571238412288,
-  "in_reply_to_status_id" : 938439479659978752,
   "created_at" : "2017-12-06 16:06:43 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -14179,27 +14110,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "938435521516257280",
   "geo" : { },
   "id_str" : "938439048938397696",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma Congrats \uD83C\uDF89",
   "id" : 938439048938397696,
-  "in_reply_to_status_id" : 938435521516257280,
   "created_at" : "2017-12-06 16:04:39 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -14630,7 +14550,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "In winter, when the fields are white \u2603\uFE0F",
+      "name" : "Valentine's Dave \u2665\uFE0F\u2665\uFE0F\u2665\uFE0F",
       "screen_name" : "tildedave",
       "indices" : [ 0, 10 ],
       "id_str" : "29241553",
@@ -14716,7 +14636,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ruthanne [pithy saying here] Reid",
+      "name" : "Ruthanne Reid",
       "screen_name" : "RuthanneReid",
       "indices" : [ 3, 16 ],
       "id_str" : "18025985",
@@ -14805,7 +14725,7 @@ Grailbird.data.tweets_2017_12 =
     "id" : 937812782124355586,
     "created_at" : "2017-12-04 22:36:05 +0000",
     "user" : {
-      "name" : "Ruthanne [pithy saying here] Reid",
+      "name" : "Ruthanne Reid",
       "screen_name" : "RuthanneReid",
       "protected" : false,
       "id_str" : "18025985",
@@ -15962,12 +15882,6 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    }, {
       "name" : "Postmates",
       "screen_name" : "Postmates",
       "indices" : [ 12, 22 ],
@@ -15978,16 +15892,11 @@ Grailbird.data.tweets_2017_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "937254692194729984",
   "geo" : { },
   "id_str" : "937361962719051776",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma @Postmates We have up on them",
   "id" : 937361962719051776,
-  "in_reply_to_status_id" : 937254692194729984,
   "created_at" : "2017-12-03 16:44:41 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -16299,27 +16208,16 @@ Grailbird.data.tweets_2017_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shannon Potter",
-      "screen_name" : "LucasTizma",
-      "indices" : [ 0, 11 ],
-      "id_str" : "70977717",
-      "id" : 70977717
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "937078648095436800",
   "geo" : { },
   "id_str" : "937098443117404160",
-  "in_reply_to_user_id" : 70977717,
   "text" : "@LucasTizma I got tested in 5th grade. If I remember right it was 123. Always wondered if it would stay constant",
   "id" : 937098443117404160,
-  "in_reply_to_status_id" : 937078648095436800,
   "created_at" : "2017-12-02 23:17:33 +0000",
-  "in_reply_to_screen_name" : "LucasTizma",
-  "in_reply_to_user_id_str" : "70977717",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -16428,57 +16326,6 @@ Grailbird.data.tweets_2017_12 =
   "created_at" : "2017-12-02 22:58:21 +0000",
   "in_reply_to_screen_name" : "ZackShapiro",
   "in_reply_to_user_id_str" : "15999465",
-  "user" : {
-    "name" : "Sam Soffes",
-    "screen_name" : "soffes",
-    "protected" : false,
-    "id_str" : "6154602",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545995221914230785\/N9a6vr0W_normal.jpeg",
-    "id" : 6154602,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Max Goedjen",
-      "screen_name" : "maxgoedjen",
-      "indices" : [ 3, 14 ],
-      "id_str" : "6658002",
-      "id" : 6658002
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "937024918524370944",
-  "text" : "RT @maxgoedjen: The Apple Pay Cash card holographic effect is really well done and convincing.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "936880266454319104",
-    "text" : "The Apple Pay Cash card holographic effect is really well done and convincing.",
-    "id" : 936880266454319104,
-    "created_at" : "2017-12-02 08:50:36 +0000",
-    "user" : {
-      "name" : "Max Goedjen",
-      "screen_name" : "maxgoedjen",
-      "protected" : false,
-      "id_str" : "6658002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927081168540901376\/Xf8z3Xvf_normal.jpg",
-      "id" : 6658002,
-      "verified" : false
-    }
-  },
-  "id" : 937024918524370944,
-  "created_at" : "2017-12-02 18:25:24 +0000",
   "user" : {
     "name" : "Sam Soffes",
     "screen_name" : "soffes",
@@ -16879,7 +16726,7 @@ Grailbird.data.tweets_2017_12 =
       "screen_name" : "flyosity",
       "protected" : false,
       "id_str" : "10545",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1048380220254957568\/AXDcyXRe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099745463627071488\/VYaBbYHo_normal.jpg",
       "id" : 10545,
       "verified" : true
     }
@@ -17334,7 +17181,7 @@ Grailbird.data.tweets_2017_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "In winter, when the fields are white \u2603\uFE0F",
+      "name" : "Valentine's Dave \u2665\uFE0F\u2665\uFE0F\u2665\uFE0F",
       "screen_name" : "tildedave",
       "indices" : [ 0, 10 ],
       "id_str" : "29241553",
